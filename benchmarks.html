@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>ReferIt3D Benchmarks</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+    <script src="js/app.js"></script>
+
+    <script type="text/javascript">
+        var methods, asc1 = -1,
+            asc2 = 1,
+            asc3 = 1;
+        asc4 = 1;
+        asc5 = 1;
+        window.onload = function () {
+            methods = document.getElementById("methods");
+            sort_table(methods, 1, asc1)
+        }
+
+        function sort_table(tbody, col, asc) {
+            var rows = tbody.rows,
+                rlen = rows.length,
+                arr = new Array(),
+                i, j, cells, clen;
+            // fill the array with values from the table
+            for (i = 0; i < rlen; i++) {
+                cells = rows[i].cells;
+                clen = cells.length;
+                arr[i] = new Array();
+                for (j = 0; j < clen; j++) {
+                    arr[i][j] = cells[j].innerHTML;
+                }
+            }
+            // sort the array by the specified column number (col) and order (asc)
+            arr.sort(function (a, b) {
+                return (a[col] == b[col]) ? 0 : ((a[col] > b[col]) ? asc : -1 * asc);
+            });
+            // replace existing rows with new rows created from the sorted array
+            for (i = 0; i < rlen; i++) {
+                rows[i].innerHTML = "<td>" + arr[i].join("</td><td>") + "</td>";
+            }
+        }
+    </script>
+    <style type="text/css">
+        table {
+            border-collapse: collapse;
+            border: none;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 4px 16px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #663178;
+            color: white;
+            cursor: pointer;
+        }
+
+        /* SR3D Style */
+        th.sr3d {
+            background-color: #df690f;
+            color: white;
+            cursor: pointer;
+        }
+
+        /* Add a black background color to the top navigation */
+        .topnav {
+            background-color: #343a40;
+            overflow: hidden;
+        }
+
+        /* Style the links inside the navigation bar */
+        .topnav a {
+            float: left;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+        /* Change the color of links on hover */
+        .topnav a:hover {
+            /*background-color: #ddd;*/
+            color: white;
+        }
+
+        /* Add a color to the active/current link */
+        .topnav a.active {
+            background-color: #04AA6D;
+            color: white;
+        }
+
+        .bnav {
+            background-color: #343a40;
+            overflow: hidden;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            text-align: center;
+        }
+
+        .bnav  a {
+            float: left;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+    </style>
+
+
+</head>
+
+<body>
+<div class="topnav">
+    <a>ReferIt3D</a>
+    <a href="referit3d.github.io">Project Page</a>
+    <a href="https://github.com/referit3d/referit3d">Code</a>
+    <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf">Paper</a>
+</div>
+
+<div class="container" id="main">
+
+
+    <!--    <div class="row" id="teaser-image" style="padding-bottom:40px">-->
+    <!--        <div class="col-md-12 col-md-offset-1">-->
+    <!--            <img src="img/benchmark_teaser.jpg"/>-->
+    <!--            <br>-->
+    <!--        </div>-->
+    <!--    </div>-->
+
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <h1 class="page-header">
+                <b>ReferIt3D Benchmarks</b>
+            </h1>
+        </div>
+    </div>
+
+    <div class="row " id="intro" style="padding-bottom:30px">
+        <div class="col-md-10 col-md-offset-1">
+            <h2 class="">
+                <b>Intro</b>
+            </h2>
+            With the ReferIt3D benchmarks, we wish to track and report the ongoing progress in the emerging field of language-assisted understanding and learning in real-world 3D environments. To this end, we investigate the same questions present in the <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf">ReferIt3D paper</a> and compare methods that try to identify a <b>single</b> 3D object among many of a <b>real-world scene</b>, given appropriate <b>referential language</b>.
+            
+            <br><br>
+            Specifically we consider:
+            <ul>
+                <li>How well such learning methods work when the input language is <strong>Natural</strong> as produced by speaking humans referring to the object (<a href="#benchmark-nr3d"><i>Nr3D
+                    challenge</i></a>) <i>vs.</i> being template-based concerning only <strong>Spatial</strong> relations among the objects of a scene (<a href="#benchmark-sr3d"><i>Sr3D challenge</i></a>)?
+                </li>
+                <li>How such methods are affected when we vary the number of <i>same-to-the-target-class</i> distracting instances in the 3D scene? E.g., when handling an <strong>"Easy"</strong> case, where the system has to find the target among two armchairs <i>vs.</i> a <strong>"Hard"</strong> case, where it has to find it among at least three?
+                </li> 
+                <li>Last, how such methods perform when the input language is <strong>View-Dependent</strong> e.g., <i>"Facing the couch, pick the ... on your right side"</i>, <i>vs.</i> being <strong>View-Independent</strong> e.g., <i>"It's the ... between the bed and the window"</i>.
+                </li>
+            </ul>
+            In a nutshell, these questions regarding the object identification problem in 3D environments aim to <b>disentangle</b> the performance-characteristics of the compared approaches, aside of providing a single "aggregate" performance score, as explained in the  <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf"> ReferIt3D paper</a>.            
+        </div>
+    </div>
+
+    <div class="row " id="rules" style="padding-bottom:30px">
+        <div class="col-md-10 col-md-offset-1">
+            <h2 class="">
+                <b>Rules</b>
+            </h2>
+            Please use our published datasets following the official ScanNet train/val splits. Since in these benchmarks we tackle the identification problem among <strong>all</strong> objects in a scene (and not only among the same-class distractors), when using the Nr3D make sure to use only the utterances where the target-class is explicitly mentioned (mentions_target_class=True) and which where guessed correctly by the human listener (correct_guess=True).
+
+            <br>
+            <br>
+            
+            To download the pre-processed datasets that reflect exactly the same input we gave to our proposed network (where the filters mentioned above are pre-applied), use the following links:
+            
+            <div class="col-md-offset-1">
+                <li><a href="https://drive.google.com/file/d/1ZHWSUOU1VeTmv3fRw6sW1geNKCyHs2El/view?usp=sharing">Nr3D training set</a></li>
+                <li><a href="https://drive.google.com/file/d/1ighHYVX6CzmMYS-FAbRg8liGkaHlM14s/view?usp=sharing">Nr3D test set</a></li>
+                <li><a href="https://drive.google.com/file/d/1d40EfJsH0sskpYlU5cdxKJYqZi677kT4/view?usp=sharing">Sr3D training set</a></li>
+                <li><a href="https://drive.google.com/file/d/1mns9KAZeTwXzsP4x1qjO-WPqPzx1Np1M/view?usp=sharing">Sr3D test set</a></li>
+            </div>
+            
+            <br>
+            
+            Otherwise, If you want to download the raw datasets instead, please use the following links:
+                (<a href="https://drive.google.com/file/d/1qswKclq4BlnHSGMSgzLmUu8iqdUXD8ZC/view">Nr3D</a>, <a href="https://drive.google.com/drive/folders/1DS4uQq7fCmbJHeE-rEbO8G1-XatGEqNV">Sr3D</a>).
+        
+            <br>
+            <br>
+            <b>Note:</b> The official code of Referit3D paper for training/testing takes as input the raw datasets because it applies the filters mentioned above on the fly.
+        </div>
+    </div>
+
+    <!-- Nr3D table -->
+    <div class="row" id="benchmark-nr3d" style="padding-bottom:30px">
+        <div class="col-md-10 col-md-offset-1">
+            <h2 class=" ">
+                <b>Nr3D Challenge</b>
+            </h2>
+            <img src="img/benchmark_teaser_mod.jpg" class="img-fluid center-block" style=" width: 80%; height: auto;"/>
+            <table id="nr3d_table" class="table table-bordered" style="width:100%">
+                <thead>
+                <tr>
+                    <th>Paper</th>
+                    <th>Overall</th>
+                    <th>Easy</th>
+                    <th>Hard</th>
+                    <th>View-Dependent</th>
+                    <th>View-Independent</th>
+                </tr>
+                </thead>
+                
+                <tbody>
+                <tr>
+                    <td class="text-left"><a href="https://referit3d.github.io">ReferIt3D</a></td>
+                    <td>35.6%</td>
+                    <td>43.6%</td>
+                    <td>27.9%</td>
+                    <td>32.5%</td>
+                    <td>37.1%</td>
+                </tr>
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/pdf/2103.16381.pdf">FFL-3DOG</a></td>
+                    <td>41.7%</td>
+                    <td>48.2%</td>
+                    <td>35.0%</td>
+                    <td>37.1%</td>
+                    <td>44.7%</td>
+                </tr>
+                <tr>
+                    <td class="text-left"><a href="https://www.aaai.org/AAAI21Papers/AAAI-4433.HuangP.pdf">Text-Guided-GNNs</a>
+                    </td>
+                    <td>37.3%</td>
+                    <td>44.2%</td>
+                    <td>30.6%</td>
+                    <td>35.8%</td>
+                    <td>38.0%</td>
+                </tr>
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2103.01128">InstanceRefer</a></td>
+                    <td>38.8%</td>
+                    <td>46.0%</td>
+                    <td>31.8%</td>
+                    <td>34.5%</td>
+                    <td>41.9%</td>
+                </tr>
+                 <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2108.02388">TransRefer3D</a></td>                     
+                    <td>42.1%</td>
+                    <td>48.5%</td>
+                    <td>36.0%</td>
+                    <td>36.5%</td>
+                    <td>44.9%</td>
+                </tr>
+
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2107.03438">LanguageRefer</a></td>
+                    <td>43.9%</td>
+                    <td>51.0%</td>
+                    <td>36.6%</td>
+                    <td>41.7%</td>
+                    <td>45.0%</td>
+                </tr>
+
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2105.11450">SAT</a></td>
+                    <td>49.2%</td>
+                    <td>56.3%</td>
+                    <td>42.4%</td>
+                    <td><b>46.9%</td>
+                    <td>50.4%</td>
+                </tr>
+                
+                <tr>
+                    <td class="text-left"><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html">3DVG-Transformer</a></td>
+                    <td>40.8%</td>
+                    <td>48.5%</td>
+                    <td>34.8%</td>
+                    <td>34.8%</td>
+                    <td>43.7%</td>
+                </tr>
+                    
+                    
+                <tr>
+                    <td class="text-left"><a href="https://openaccess.thecvf.com/content/WACV2022/html/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.html">3DRefTransformer</a></td>
+                    <td>39.0%</td>
+                    <td>46.4%</td>
+                    <td>32.0%</td>
+                    <td>34.7%</td>
+                    <td>41.2%</td>
+                </tr>
+
+
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2112.08879">BEAUTY-DETR</a></td>
+                    <td><b>55.4%</b></td>
+                    <td><b>61.4%</b></td>
+                    <td><b>49.1%</b></td>
+                    <td>46.6%</td>
+                    <td><b>58.9%</b></td>
+                </tr>
+                
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Sr3D table -->
+    <div class="row" id="benchmark-sr3d" style="padding-bottom:30px">
+        <div class="col-md-10 col-md-offset-1">
+            <h2 class=" ">
+                <b>Sr3D Challenge</b>
+            </h2>
+            <img src="img/benchmark_teaser_mod_sr3d.jpg" class="img-fluid center-block"  style=" width: 80%; height: auto;"/>
+            <table id="sr3d_table" class="table table-bordered" style="width:100%">
+                <thead>
+                <tr>
+                    <th class="sr3d">Paper</th>
+                    <th class="sr3d">Overall</th>
+                    <th class="sr3d">Easy</th>
+                    <th class="sr3d">Hard</th>
+                    <th class="sr3d">View-Dependent</th>
+                    <th class="sr3d">View-Independent</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td class="text-left"><a href="https://referit3d.github.io">ReferIt3D</a></td>
+                    <td>40.8%</td>
+                    <td>44.7%</td>
+                    <td>31.5%</td>
+                    <td>39.2%</td>
+                    <td>40.8%</td>
+                </tr>
+                
+                <tr>
+                    <td class="text-left"><a href="https://www.aaai.org/AAAI21Papers/AAAI-4433.HuangP.pdf">Text-Guided-GNNs</a>
+                    </td>
+                    <td>45.0%</td>
+                    <td>48.5%</td>
+                    <td>36.9%</td>
+                    <td>45.8%</td>
+                    <td>45.0%</td>
+                </tr>
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2103.01128">InstanceRefer</a></td>
+                    <td>48.0%</td>
+                    <td>51.1%</td>
+                    <td>40.5%</td>
+                    <td>45.4%</td>
+                    <td>48.1%</td>
+                </tr>
+
+                  <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2108.02388">TransRefer3D</a></td>
+                    <td>57.4%</td>
+                    <td>60.5%</td>
+                    <td>50.2%</td>
+                    <td>49.9%</td>
+                    <td>57.7%</td>
+                </tr>
+
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2107.03438">LanguageRefer</a></td>
+                    <td>56.0%</td>
+                    <td>58.9%</td>
+                    <td>49.3%</td>
+                    <td>49.2%</td>
+                    <td>56.3%</td>
+                </tr>
+
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2105.11450">SAT</a></td>
+                    <td>57.9%</td>
+                    <td>61.2%</td>
+                    <td>50.0%</td>
+                    <td>49.2%</td>
+                    <td>58.3%</td>
+                </tr>
+                    
+                <tr>
+                    <td class="text-left"><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html">3DVG-Transformer</a></td>
+                    <td>51.4%</td>
+                    <td>54.2%</td>
+                    <td>44.9%</td>
+                    <td>44.6%</td>
+                    <td>51.7%</td>
+                </tr>
+                    
+                <tr>
+                    <td class="text-left"><a href="https://openaccess.thecvf.com/content/WACV2022/html/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.html">3DRefTransformer</a></td>
+                    <td>47.0%</td>
+                    <td>50.7%</td>
+                    <td>38.3%</td>
+                    <td>44.3%</td>
+                    <td>47.1%</td>
+                </tr>
+                    
+
+                <tr>
+                    <td class="text-left"><a href="https://arxiv.org/abs/2112.08879">BEAUTY-DETR</a></td>
+                    <td><b>67.1%</b></td>
+                    <td><b>68.7%</b></td>
+                    <td><b>63.2%</b></td>
+                    <td><b>53.2%</b></td>
+                    <td><b>67.7%</b></td>
+                </tr>
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row" id="report-results" style="padding-bottom:30px">
+        <div class="col-md-10 col-md-offset-1">
+            <h3>
+                <b>Reporting new results </b>
+            </h3>
+            If you have new results on Sr3D or Nr3D to report, please send your performance numbers and the accompanying
+            paper link to <a href="https://optas.github.io">Panos Achlioptas</a>.
+        </div>
+    </div>
+
+</div>
+
+<div class="bnav">
+
+</div>
+
+</body>
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#nr3d_table').DataTable({
+            columnDefs: [ // disable sorting of the first column
+                {orderable: false, targets: 0}
+            ],
+            "order": [[1, "desc"]], // Default Ordering on the overall column
+            searching: false, // Disable search bar
+            paging: false, // Stop pagination for now
+            info: false // hide "Showing 1 to M of N entries" line
+        });
+
+        $('#sr3d_table').DataTable({
+            columnDefs: [ // disable sorting of the first column
+                {orderable: false, targets: 0}
+            ],
+            "order": [[1, "desc"]], // Default Ordering on the overall column
+            searching: false, // Disable search bar
+            paging: false, // Stop pagination for now
+            info: false // hide "Showing 1 to M of N entries" line
+        });
+    })
+</script>
+</html>

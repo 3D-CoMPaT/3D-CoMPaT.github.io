@@ -1,3 +1,202 @@
+<!DOCTYPE html>
 <html>
-Test
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>3DCoMPaT</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+    <script src="js/app.js"></script>
+</head>
+
+<body>
+    <div class="container" id="main">
+        <div class="row">
+
+            <h2 class="col-md-12 text-center" style="padding-bottom:20px">
+
+                <b>3DCoMPaT: Composition of Materials on Parts of 3D Things</b>
+                <br>
+                <span style="font-size:18pt"> ECCV 2022 </span>
+                <br>
+            </h2>
+
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline" style="font-size:18pt">
+                    <li>
+                        <a href="https://ujjwal9.com/">
+                            Ujjwal Upadhyay*
+                        </a>
+                        </br>KAUST
+                    </li>
+                    <li>
+                        <a href="https://cemse.kaust.edu.sa/cs/people/person/yuchen-li">
+                            Yuchen Li*
+                        </a>
+                        </br>KAUST
+                    </li>
+                    <li>
+                        <a href="https://habibslim.github.io/">
+                            Habib Slim
+                        </a>
+                        </br>KAUST
+                    </li>
+                    <li>
+                        <a href="https://samir55.github.io/">
+                            Ahmed Abdelreheem
+                        </a>
+                        </br>KAUST
+                    </li>
+                    <br>
+                    <li>
+                        <a href="https://www.polynine.com/">
+                            Arpit Prajapati
+                        </a>
+                        </br>Polynine
+                    </li>
+                    <li>
+                        <a href="https://www.polynine.com/">
+                            Suhail Pothigara
+                        </a>
+                        </br>Polynine
+                    </li>
+
+                    <li>
+                        <a href="https://peterwonka.net/">
+                            Peter Wonka
+                        </a>
+                        </br>KAUST
+                    </li>
+
+                    <li>
+                        <a href="http://www.mohamed-elhoseiny.com/">
+                            Mohamed Elhoseiny
+                        </a>
+                        </br>KAUST
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="row" style="padding-top:45px">
+            <div class="col-md-6 col-md-offset-3 text-center">
+                <ul class="nav nav-pills nav-justified">
+                    <li>
+                        <a href="pdf/paper.pdf">
+                            <h4><strong>Paper</strong></h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="pdf/supplementary.pdf">
+                            <h4><strong>Supplementary</strong></h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="TODO">
+                            <h4><strong>Code</strong></h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#dataset">
+                            <h4><strong>Dataset</strong></h4>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="row" style="padding-bottom:30px">
+            <div class="col-md-8 col-md-offset-2">
+                <h3 style="text-align: center;">
+                    <b>Abstract</b>
+                </h3>
+                <hr>
+                <p class="text-justify">
+                    We present 3D CoMPaT, a richly annotated large-scale dataset
+                    of more than 7.25 million rendered compositions of Materials on Parts
+                    of 7262 unique 3D Models; 990 compositions per model on average. 3D
+                    CoMPaT covers 43 shape categories, 235 unique part names, and 167
+                    unique material classes that can be applied to parts of 3D objects. Each
+                    object with the applied part-material compositions is rendered from four
+                    equally spaced views as well as four randomized views, leading to a to-
+                    tal of 58 million renderings (7.25 million compositions x 8 views). This
+                    dataset primarily focuses on stylizing 3D shapes at part-level with com-
+                    patible materials. We introduce a new task, called Grounded CoMPaT
+                    Recognition (GCR), to collectively recognize and ground compositions
+                    of materials on parts of 3D objects. We present two variations of this
+                    task and adapt two state-of-art 2D/3D deep learning methods to solve
+                    the problem as baselines for future research. We hope our work will help
+                    ease future research on compositional 3D Vision.
+                </p>
+            </div>
+        </div>
+
+        <div class="row" id="dataset" style="padding-bottom:30px">
+            <div class="col-md-8 col-md-offset-2">
+                <h3 style="text-align: center;">
+                    <b>Dataset</b>
+                </h3>
+                <hr>
+                <h4 style="text-align: center;">
+                    <b>Downloading</b>
+                </h4>
+                <ul>
+                    You can download 3DCoMPaT after filling the following form:
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOxWVkVNdXz-nCfFIWOeOARc_Atk9fi5PSIKw1Ib1cr3ENpA/viewform?fbzx=-7103523806700241333">3DCoMPaT Agreement</a>
+                    <br>
+
+                </ul>
+                <br/>
+                <h4 style="text-align: center;">
+                    <b>Browsers</b>
+                </h4>
+                <ul>
+                    You can browse the 3D models using the following link:
+                    <a href="http://54.235.12.220:50/index.html">3DCoMPaT browser</a>
+                    <br>
+                </ul>
+
+                <br>
+            </div>
+        </div>
+
+        <div class="row" id="citation" style="padding-bottom:30px">
+            <div class="col-md-8 col-md-offset-2">
+                <h3 style="text-align: center;">
+                    <b>Citation</b>
+                </h3>
+                <hr>
+                If our paper is helpful for your work, please consider citing us:
+                <br>
+                <pre class="w4-panel w4-light-grey" style="font-size: 11px">@inproceedings{upadhyay20223d_compat,
+    title={{3DCoMPaT}: Composition of Materials on Parts of 3D Things},
+    author={Upadhyay, Ujjwal and Li, Yuchen and Slim, Habib and Varshney, Tezuesh and
+        Abdelreheem, Ahmed and Prajapati, Arpit and Pothigara, Suhail and Wonka, Peter and Elhoseiny, Mohamed.},
+    booktitle={17th European Conference on Computer Vision (ECCV)},
+    year={2022}
+}</pre>
+            </div>
+        </div>
+
+    </div>
+    <script type='text/javascript' id='clustrmaps'
+        src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=110&t=tt&d=_kJ7hJdlh3UTdIJueDububmhQbOOTRZpo-A1RUHuEqU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+</body>
+
 </html>
