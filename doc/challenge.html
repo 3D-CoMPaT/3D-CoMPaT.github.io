@@ -1,0 +1,553 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" /><link rel="prev" title="📸 Rendering" href="rendering.html" />
+
+    <!-- Generated with Sphinx 7.0.1 and Furo 2023.05.20 -->
+        <title>🏆 Challenge - </title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?digest=e6660623a769aa55fea372102b9bf3151b292993" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #eeffcc;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="intro.html"><div class="brand"> </div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="intro.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo" src="_static/logo.png" alt="Logo"/>
+  </div>
+  
+  <span class="sidebar-brand-text"> </span>
+  
+</a><form class="sidebar-search-container" method="get" action="search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="getting-started.html">🚀 Getting started</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of 🚀 Getting started</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2 has-children"><a class="reference internal" href="dl.html">📥 Downloads</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle navigation of 📥 Downloads</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="dl-dataset.html">Dataset</a></li>
+<li class="toctree-l3"><a class="reference internal" href="dl-model-checkpoints.html">Model checkpoints</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="browser.html">🔎 Browser</a></li>
+<li class="toctree-l2"><a class="reference internal" href="annotations.html">📝 Annotations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="modalities.html">💾 Modalities</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="loaders.html">⚡ Loaders</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle navigation of ⚡ Loaders</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="loaders-2D.html">2D Dataloader</a></li>
+<li class="toctree-l3"><a class="reference internal" href="loaders-3D.html">3D Dataloader: ZIP Loader</a></li>
+<li class="toctree-l3"><a class="reference internal" href="loaders-3D-PC.html">3D Dataloader: PC Loader</a></li>
+<li class="toctree-l3"><a class="reference internal" href="loaders-2D-3D.html">2D-3D Dataloader: Matching modalities</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="linking-2D-3D.html">🔗 Linking 2D and 3D</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="rendering.html">📸 Rendering</a></li>
+<li class="toctree-l1 current current-page"><a class="current reference internal" href="#">🏆 Challenge</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="challenge">
+<h1>🏆 Challenge<a class="headerlink" href="#challenge" title="Permalink to this heading">#</a></h1>
+<p>As a part of the <a class="reference external" href="https://3dcompat-dataset.org/workshop/">C3DV CVPR 2023 workshop</a>, we are organizing a modelling challenge based on 3DCoMPaT++.</p>
+<p>The dataset for this challenge consists of the first <code class="docutils literal notranslate"><span class="pre">10</span></code> compositions of the 3DCoMPaT++ dataset, for both 2D and 3D.
+The goal of the challenge is to jointly recognize part-material pairs appearing in a shape, ground them, while also recognizing the shape using a jointly trained model.
+Participants are evaluated using the Grounded Compositional Recognition (GCR) metrics in 3D space.
+The ground truth data for the challenge is an HDF5 pointcloud test set and 2D WebDataset shards for <code class="docutils literal notranslate"><span class="pre">10</span></code> compositions, which both have been stripped of all ground truth information.</p>
+<div class="admonition hint">
+<p class="admonition-title">Hint</p>
+<p>More information on the rules and format of the challenge can be found at:</p>
+<p><a class="reference external" href="https://eval.ai/web/challenges/challenge-page/2031"><img alt="Challenge" src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge-critical?logoColor=white&amp;logoWidth=20" /></a></p>
+</div>
+<section id="metrics">
+<h2>Metrics<a class="headerlink" href="#metrics" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>Shape accuracy</strong>: Accuracy of prediction the shape category. We consider top-1 predictions.</p></li>
+<li><p><strong>Value</strong>: Accuracy of predicting both part category and material of a given part correctly.</p></li>
+<li><p><strong>Value-all</strong>: Accuracy of predicting all the <code class="docutils literal notranslate"><span class="pre">&lt;part,</span> <span class="pre">material&gt;</span></code> pairs of a shape correctly.</p></li>
+<li><p><strong>Grounded-value</strong>: Accuracy of predicting both part category and the material of a given part as well as correctly grounding it.</p></li>
+<li><p><strong>Grounded-value-all</strong>: Accuracy of predicting all the <code class="docutils literal notranslate"><span class="pre">&lt;part,</span> <span class="pre">material&gt;</span></code> pairs of a given shape correctly and grounding all of them correctly.</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p><strong>Value</strong> and <strong>Grounded-value</strong> are evaluated at shape level: we divide the number of correctly identified (resp. grounded) part-material pairs by the total number of parts appearing in each shape, and then average across all samples.
+<strong>Value</strong> is thus upper bounded by <strong>Value-all</strong>, and <strong>Grounded-value</strong> by <strong>Grounded-value-all</strong>.</p>
+</div>
+</section>
+<section id="submission">
+<h2>Submission<a class="headerlink" href="#submission" title="Permalink to this heading">#</a></h2>
+<section id="format">
+<h3>Format<a class="headerlink" href="#format" title="Permalink to this heading">#</a></h3>
+<p>To participate in the challenge, you must submit a file in HDF5 format containing the following information:</p>
+<ul class="simple">
+<li><p>Classification prediction for each 3D shape with size: <span class="math notranslate nohighlight">\(\text{n-shapes}\)</span> as a <code class="docutils literal notranslate"><span class="pre">uint8</span></code>.</p></li>
+<li><p>Part predictions for each point with dimensions:</p></li>
+</ul>
+<p><span class="math notranslate nohighlight">\(\ \ \ \ \ \ \Rightarrow \{\text{n-shapes} \times \text{n-points}\}\)</span>, in <code class="docutils literal notranslate"><span class="pre">int16</span></code> precision.</p>
+<ul class="simple">
+<li><p>Material predictions for each point with dimensions:</p></li>
+</ul>
+<p><span class="math notranslate nohighlight">\(\ \ \ \ \ \ \Rightarrow \{\text{n-shapes} \times \text{n-points}\}\)</span>, in <code class="docutils literal notranslate"><span class="pre">uint8</span></code> precision.</p>
+<ul class="simple">
+<li><p>Groupings predicted part-mat pairs. The index <span class="math notranslate nohighlight">\(k\)</span> of this array provides the pair of part-material labels for group <span class="math notranslate nohighlight">\(k\)</span>. The maximum possible number of groups (part-material pairs predicted) is <code class="docutils literal notranslate"><span class="pre">30</span></code>, making the expected dimensions:</p></li>
+</ul>
+<p><span class="math notranslate nohighlight">\(\ \ \ \ \ \ \Rightarrow \{\text{n-shapes} \times \text{max-groups} \times 2\}\)</span>, in <code class="docutils literal notranslate"><span class="pre">int16</span></code> precision.</p>
+<div class="admonition hint">
+<p class="admonition-title">Hint</p>
+<p>Only group indices that appear in the <code class="docutils literal notranslate"><span class="pre">point_grouping</span></code> array are accessed in the <code class="docutils literal notranslate"><span class="pre">part_mat_pairs</span></code> at evaluation.
+You can simply pad the remaining predictions with <span class="math notranslate nohighlight">\(-1\)</span> if you have less than <code class="docutils literal notranslate"><span class="pre">max-groups</span></code> predicted pairs.</p>
+<p>If <code class="docutils literal notranslate"><span class="pre">point_grouping</span></code> and <code class="docutils literal notranslate"><span class="pre">part_mat_pairs</span></code> are provided as an array of all <span class="math notranslate nohighlight">\(-1\)</span>, the part-material predictions will be evaluated automatically by maximum voting over group indices.</p>
+</div>
+<ul class="simple">
+<li><p>Groupings labels for each point. Each point is associated with a group index.</p></li>
+</ul>
+<p><span class="math notranslate nohighlight">\(\ \ \ \ \ \ \Rightarrow \{\text{n-shapes} \times \text{n-points} \}\)</span>, in <code class="docutils literal notranslate"><span class="pre">int16</span></code> precision.</p>
+<p>The HDF5 schema can be schematized as follows:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;shape_preds&quot;</span><span class="p">:</span>    <span class="n">array</span><span class="p">(</span><span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="n">n_shapes</span><span class="p">],</span>                  <span class="nb">type</span><span class="o">=</span><span class="n">uint8</span><span class="p">)</span>
+    <span class="s2">&quot;part_labels&quot;</span><span class="p">:</span>    <span class="n">array</span><span class="p">(</span><span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="n">n_shapes</span> <span class="o">*</span> <span class="n">n_points</span><span class="p">],</span>       <span class="nb">type</span><span class="o">=</span><span class="n">int16</span><span class="p">)</span>
+    <span class="s2">&quot;mat_labels&quot;</span><span class="p">:</span>     <span class="n">array</span><span class="p">(</span><span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="n">n_shapes</span> <span class="o">*</span> <span class="n">n_points</span><span class="p">],</span>       <span class="nb">type</span><span class="o">=</span><span class="n">uint8</span><span class="p">)</span>
+    <span class="s2">&quot;part_mat_pairs&quot;</span><span class="p">:</span> <span class="n">array</span><span class="p">(</span><span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="n">n_shapes</span> <span class="o">*</span> <span class="n">max_groups</span> <span class="o">*</span> <span class="mi">2</span><span class="p">],</span> <span class="nb">type</span><span class="o">=</span><span class="n">int16</span><span class="p">)</span>
+    <span class="s2">&quot;point_grouping&quot;</span><span class="p">:</span> <span class="n">array</span><span class="p">(</span><span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="n">n_shapes</span> <span class="o">*</span> <span class="n">n_points</span><span class="p">],</span>       <span class="nb">type</span><span class="o">=</span><span class="n">uint8</span><span class="p">)</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="writing-an-hdf5-submission-file">
+<h3>Writing an HDF5 submission file<a class="headerlink" href="#writing-an-hdf5-submission-file" title="Permalink to this heading">#</a></h3>
+<p>We show here how to easily write to an HDF5 file following our submission format.
+First import the <code class="docutils literal notranslate"><span class="pre">h5py</span></code> package, and the HDF5 dataloader to be used on the test set sampled points.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">Writing an HDF5 submission following the challenge format.</span>
+<span class="sd">&quot;&quot;&quot;</span>
+<span class="kn">import</span> <span class="nn">h5py</span>
+<span class="kn">import</span> <span class="nn">tqdm</span>
+
+<span class="kn">from</span> <span class="nn">my_cool_model</span> <span class="kn">import</span> <span class="n">MyModel</span>
+
+<span class="n">N_POINTS</span> <span class="o">=</span> <span class="mi">2048</span>
+<span class="n">MAX_GROUPS</span> <span class="o">=</span> <span class="mi">30</span>
+</pre></div>
+</div>
+<p>Instantiate the dataloader and initialize the HDF5 schema for a submission.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Instantiating the dataloader</span>
+<span class="n">data_loader</span> <span class="o">=</span> <span class="o">...</span> <span class="c1"># You must use pre-extracted 3D pointclouds</span>
+                  <span class="c1"># for evaluation on the test or validation sets.</span>
+                  <span class="c1"># Samples and predictions must be read and written in sequence,</span>
+                  <span class="c1"># without any shuffling.</span>
+<span class="n">n_shapes</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">data_loader</span><span class="p">)</span>
+
+<span class="c1"># If the file exists, open it instead</span>
+<span class="n">hdf5_name</span> <span class="o">=</span> <span class="n">get_hdf5_name</span><span class="p">(</span><span class="n">hdf5_dir</span><span class="p">,</span> <span class="n">hdf5_name</span><span class="o">=</span><span class="s2">&quot;my_submission&quot;</span><span class="p">)</span>
+
+<span class="c1"># Creating the selected split</span>
+<span class="n">train_hdf5</span> <span class="o">=</span> <span class="n">open_hdf5</span><span class="p">(</span><span class="n">hdf5_name</span><span class="p">,</span> <span class="n">mode</span><span class="o">=</span><span class="s1">&#39;w&#39;</span><span class="p">)</span>
+<span class="n">train_hdf5</span><span class="o">.</span><span class="n">create_dataset</span><span class="p">(</span><span class="s1">&#39;shape_preds&#39;</span><span class="p">,</span>
+                            <span class="n">shape</span><span class="o">=</span><span class="p">(</span><span class="n">n_shapes</span><span class="p">),</span>
+                            <span class="n">dtype</span><span class="o">=</span><span class="s1">&#39;uint8&#39;</span><span class="p">)</span>
+<span class="n">train_hdf5</span><span class="o">.</span><span class="n">create_dataset</span><span class="p">(</span><span class="s1">&#39;part_labels&#39;</span><span class="p">,</span>
+                            <span class="n">shape</span><span class="o">=</span><span class="p">(</span><span class="n">n_shapes</span><span class="p">,</span> <span class="n">N_POINTS</span><span class="p">),</span>
+                            <span class="n">dtype</span><span class="o">=</span><span class="s1">&#39;int16&#39;</span><span class="p">)</span>
+<span class="n">train_hdf5</span><span class="o">.</span><span class="n">create_dataset</span><span class="p">(</span><span class="s1">&#39;mat_labels&#39;</span><span class="p">,</span>
+                            <span class="n">shape</span><span class="o">=</span><span class="p">(</span><span class="n">n_shapes</span><span class="p">,</span> <span class="n">N_POINTS</span><span class="p">),</span>
+                            <span class="n">dtype</span><span class="o">=</span><span class="s1">&#39;uint8&#39;</span><span class="p">)</span>
+<span class="n">train_hdf5</span><span class="o">.</span><span class="n">create_dataset</span><span class="p">(</span><span class="s1">&#39;part_mat_pairs&#39;</span><span class="p">,</span>
+                            <span class="n">shape</span><span class="o">=</span><span class="p">(</span><span class="n">n_shapes</span><span class="p">,</span> <span class="n">MAX_GROUPS</span><span class="p">,</span> <span class="mi">2</span><span class="p">),</span>
+                            <span class="n">dtype</span><span class="o">=</span><span class="s1">&#39;int16&#39;</span><span class="p">)</span>
+<span class="n">train_hdf5</span><span class="o">.</span><span class="n">create_dataset</span><span class="p">(</span><span class="s1">&#39;point_grouping&#39;</span><span class="p">,</span>
+                            <span class="n">shape</span><span class="o">=</span><span class="p">(</span><span class="n">n_shapes</span><span class="p">,</span> <span class="n">N_POINTS</span><span class="p">),</span>
+                            <span class="n">dtype</span><span class="o">=</span><span class="s1">&#39;uint8&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Iterate in sequence and extract predictions using the method you’ve designed.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>The predictions file needs to be generated in sequence following the order of samples in the unshuffled HDF5 test loader, to match with the server’s ground truth data.</p>
+</div>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Iterating over the test set</span>
+<span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">tqdm</span><span class="o">.</span><span class="n">tqdm</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="n">n_shapes</span><span class="p">)):</span>
+    <span class="n">shape_id</span><span class="p">,</span> <span class="n">style_id</span><span class="p">,</span> <span class="n">pointcloud</span> <span class="o">=</span> <span class="n">data_loader</span><span class="p">[</span><span class="n">k</span><span class="p">]</span>
+
+    <span class="c1"># Forward through your model</span>
+    <span class="n">shape_preds</span><span class="p">,</span> <span class="n">point_part_labels</span><span class="p">,</span> <span class="n">point_mat_labels</span><span class="p">,</span> <span class="n">part_mat_pairs</span><span class="p">,</span> <span class="n">point_grouping</span> <span class="o">=</span> \
+        <span class="n">MyModel</span><span class="p">(</span><span class="n">shape_id</span><span class="p">,</span> <span class="n">style_id</span><span class="p">,</span> <span class="n">pointcloud</span><span class="p">)</span>
+
+    <span class="c1"># If you don&#39;t want to predict point groupings/part material pairs yourself,</span>
+    <span class="c1"># you can simply fill both matrices with -1</span>
+
+    <span class="c1"># Write the entries</span>
+    <span class="n">train_hdf5</span><span class="p">[</span><span class="s1">&#39;shape_preds&#39;</span><span class="p">][</span><span class="n">k</span><span class="p">]</span>    <span class="o">=</span> <span class="n">shape_preds</span>
+    <span class="n">train_hdf5</span><span class="p">[</span><span class="s1">&#39;part_labels&#39;</span><span class="p">][</span><span class="n">k</span><span class="p">]</span>    <span class="o">=</span> <span class="n">point_part_labels</span>
+    <span class="n">train_hdf5</span><span class="p">[</span><span class="s1">&#39;mat_labels&#39;</span><span class="p">][</span><span class="n">k</span><span class="p">]</span>     <span class="o">=</span> <span class="n">point_mat_labels</span>
+    <span class="n">train_hdf5</span><span class="p">[</span><span class="s1">&#39;part_mat_pairs&#39;</span><span class="p">][</span><span class="n">k</span><span class="p">]</span> <span class="o">=</span> <span class="n">part_mat_pairs</span>
+    <span class="n">train_hdf5</span><span class="p">[</span><span class="s1">&#39;point_grouping&#39;</span><span class="p">][</span><span class="n">k</span><span class="p">]</span> <span class="o">=</span> <span class="n">point_grouping</span>
+
+<span class="c1"># Close the HDF5 file</span>
+<span class="n">train_hdf5</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+</div>
+</section>
+<section id="submitting-your-predictions">
+<h3>Submitting your predictions<a class="headerlink" href="#submitting-your-predictions" title="Permalink to this heading">#</a></h3>
+<p>To submit your predictions, please use our <a class="reference external" href="http://eval.ai">eval.ai</a> challenge platform:</p>
+<p><a class="reference external" href="https://eval.ai/web/challenges/challenge-page/2031"><img alt="Challenge" src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge-critical?logoColor=white&amp;logoWidth=20" /></a></p>
+</section>
+</section>
+<section id="baselines">
+<h2>Baselines<a class="headerlink" href="#baselines" title="Permalink to this heading">#</a></h2>
+<p>We share here some indicative baseline numbers for the GCR task, with two methods:</p>
+<ul>
+<li><p><strong>PointNeXT + GT Material</strong>: We use two pre-trained <code class="docutils literal notranslate"><span class="pre">PointNeXT</span></code> models: one for shape classification and one for part segmentation. We use the ground-truth material for evaluaiton.</p></li>
+<li><p><strong>🦖 “Godzilla” model:</strong> This baseline employs different separate models and only combines predictions at evaluation. We use:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">PointNeXT</span></code> for 3D shape classification</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">SegFormer</span></code> for 2D material segmentation and 2D part segmentation</p></li>
+</ul>
+<p>2D dense predictions are then projected to the 3D space using the depth maps and camera parameters (if you’re curious about how to do that, check out <a class="reference internal" href="linking-2D-3D.html#linking-2d-3d"><span class="std std-ref">“Linking 2D and 3D”</span></a>).</p>
+</li>
+</ul>
+<p>Results are provided below for <code class="docutils literal notranslate"><span class="pre">coarse</span></code> and <code class="docutils literal notranslate"><span class="pre">fine</span></code> segmentation levels.</p>
+<p><strong>Coarse-grained results.</strong></p>
+<div class="table-wrapper colwidths-auto docutils container">
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p><strong>Model</strong></p></th>
+<th class="head"><p><strong>Accuracy</strong></p></th>
+<th class="head"><p><strong>Value</strong></p></th>
+<th class="head"><p><strong>Value-all</strong></p></th>
+<th class="head"><p><strong>Grounded-value</strong></p></th>
+<th class="head"><p><strong>Grounded-value-all</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>PointNeXT + GTMaterial</p></td>
+<td><p>84.27</p></td>
+<td><p>73.49</p></td>
+<td><p>61.08</p></td>
+<td><p>62.93</p></td>
+<td><p>40.84</p></td>
+</tr>
+<tr class="row-odd"><td><p>🦖 Godzilla</p></td>
+<td><p>84.27</p></td>
+<td><p>65.69</p></td>
+<td><p>44.82</p></td>
+<td><p>52.82</p></td>
+<td><p>29.74</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Fine-grained results.</strong></p>
+<div class="table-wrapper colwidths-auto docutils container">
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p><strong>Model</strong></p></th>
+<th class="head"><p><strong>Accuracy</strong></p></th>
+<th class="head"><p><strong>Value</strong></p></th>
+<th class="head"><p><strong>Value-all</strong></p></th>
+<th class="head"><p><strong>Grounded-value</strong></p></th>
+<th class="head"><p><strong>Grounded-value-all</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>PointNeXT + GTMaterial</p></td>
+<td><p>84.18</p></td>
+<td><p>65.25</p></td>
+<td><p>32.56</p></td>
+<td><p>49.30</p></td>
+<td><p>13.58</p></td>
+</tr>
+<tr class="row-odd"><td><p>🦖 Godzilla</p></td>
+<td><p>84.18</p></td>
+<td><p>42.37</p></td>
+<td><p>9.09</p></td>
+<td><p>26.68</p></td>
+<td><p>3.83</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>While the bruteforce “Godzilla” approach yields decent results, it should be noted that it is not in the spirit of the challenge as leveraging links between modalities will surely enable better GCR performance.</p>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          
+          <a class="prev-page" href="rendering.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">📸 Rendering</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2022
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">🏆 Challenge</a><ul>
+<li><a class="reference internal" href="#metrics">Metrics</a></li>
+<li><a class="reference internal" href="#submission">Submission</a><ul>
+<li><a class="reference internal" href="#format">Format</a></li>
+<li><a class="reference internal" href="#writing-an-hdf5-submission-file">Writing an HDF5 submission file</a></li>
+<li><a class="reference internal" href="#submitting-your-predictions">Submitting your predictions</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#baselines">Baselines</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/sphinx_highlight.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script src="_static/scripts/furo.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    </body>
+</html>

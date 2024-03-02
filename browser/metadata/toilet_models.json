@@ -1,0 +1,1686 @@
+{
+    "26_052": {
+        "code": "26_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_052.gltf",
+        "subcategory": "None"
+    },
+    "26_005": {
+        "code": "26_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_005.gltf",
+        "subcategory": "None"
+    },
+    "26_03d": {
+        "code": "26_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03d.gltf",
+        "subcategory": "None"
+    },
+    "26_087": {
+        "code": "26_087",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_087.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_087.gltf",
+        "subcategory": "None"
+    },
+    "26_068": {
+        "code": "26_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_water_tank"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_068.gltf",
+        "subcategory": "None"
+    },
+    "26_06c": {
+        "code": "26_06c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06c.gltf",
+        "subcategory": "None"
+    },
+    "26_07e": {
+        "code": "26_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07e.gltf",
+        "subcategory": "None"
+    },
+    "26_029": {
+        "code": "26_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_029.gltf",
+        "subcategory": "None"
+    },
+    "26_02b": {
+        "code": "26_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02b.gltf",
+        "subcategory": "None"
+    },
+    "26_00b": {
+        "code": "26_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00b.gltf",
+        "subcategory": "None"
+    },
+    "26_009": {
+        "code": "26_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_009.gltf",
+        "subcategory": "None"
+    },
+    "26_01d": {
+        "code": "26_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01d.gltf",
+        "subcategory": "None"
+    },
+    "26_04c": {
+        "code": "26_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04c.gltf",
+        "subcategory": "None"
+    },
+    "26_033": {
+        "code": "26_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_033.gltf",
+        "subcategory": "None"
+    },
+    "26_09f": {
+        "code": "26_09f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09f.gltf",
+        "subcategory": "None"
+    },
+    "26_072": {
+        "code": "26_072",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_072.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_072.gltf",
+        "subcategory": "None"
+    },
+    "26_024": {
+        "code": "26_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_handle",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_024.gltf",
+        "subcategory": "None"
+    },
+    "26_073": {
+        "code": "26_073",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_073.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_water_tank"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_073.gltf",
+        "subcategory": "None"
+    },
+    "26_065": {
+        "code": "26_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_065.gltf",
+        "subcategory": "None"
+    },
+    "26_08a": {
+        "code": "26_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08a.gltf",
+        "subcategory": "None"
+    },
+    "26_032": {
+        "code": "26_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_032.gltf",
+        "subcategory": "None"
+    },
+    "26_049": {
+        "code": "26_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_049.gltf",
+        "subcategory": "None"
+    },
+    "26_04b": {
+        "code": "26_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04b.gltf",
+        "subcategory": "None"
+    },
+    "26_01e": {
+        "code": "26_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01e.gltf",
+        "subcategory": "None"
+    },
+    "26_008": {
+        "code": "26_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_008.gltf",
+        "subcategory": "None"
+    },
+    "26_05d": {
+        "code": "26_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05d.gltf",
+        "subcategory": "None"
+    },
+    "26_02c": {
+        "code": "26_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02c.gltf",
+        "subcategory": "None"
+    },
+    "26_07d": {
+        "code": "26_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07d.gltf",
+        "subcategory": "None"
+    },
+    "26_090": {
+        "code": "26_090",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_090.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_090.gltf",
+        "subcategory": "None"
+    },
+    "26_06b": {
+        "code": "26_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06b.gltf",
+        "subcategory": "None"
+    },
+    "26_086": {
+        "code": "26_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_086.gltf",
+        "subcategory": "None"
+    },
+    "26_069": {
+        "code": "26_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_069.gltf",
+        "subcategory": "None"
+    },
+    "26_03e": {
+        "code": "26_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03e.gltf",
+        "subcategory": "None"
+    },
+    "26_045": {
+        "code": "26_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_handle",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_045.gltf",
+        "subcategory": "None"
+    },
+    "26_004": {
+        "code": "26_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_004.gltf",
+        "subcategory": "None"
+    },
+    "26_053": {
+        "code": "26_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_053.gltf",
+        "subcategory": "None"
+    },
+    "26_05c": {
+        "code": "26_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05c.gltf",
+        "subcategory": "None"
+    },
+    "26_058": {
+        "code": "26_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_058.gltf",
+        "subcategory": "None"
+    },
+    "26_00d": {
+        "code": "26_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00d.gltf",
+        "subcategory": "None"
+    },
+    "26_0a0": {
+        "code": "26_0a0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_0a0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_0a0.gltf",
+        "subcategory": "None"
+    },
+    "26_035": {
+        "code": "26_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_035.gltf",
+        "subcategory": "None"
+    },
+    "26_062": {
+        "code": "26_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_062.gltf",
+        "subcategory": "None"
+    },
+    "26_074": {
+        "code": "26_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_074.gltf",
+        "subcategory": "None"
+    },
+    "26_054": {
+        "code": "26_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_054.gltf",
+        "subcategory": "None"
+    },
+    "26_003": {
+        "code": "26_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_003.gltf",
+        "subcategory": "None"
+    },
+    "26_015": {
+        "code": "26_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_015.gltf",
+        "subcategory": "None"
+    },
+    "26_042": {
+        "code": "26_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_042.gltf",
+        "subcategory": "None"
+    },
+    "26_03b": {
+        "code": "26_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03b.gltf",
+        "subcategory": "None"
+    },
+    "26_081": {
+        "code": "26_081",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_081.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_081.gltf",
+        "subcategory": "None"
+    },
+    "26_06e": {
+        "code": "26_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06e.gltf",
+        "subcategory": "None"
+    },
+    "26_097": {
+        "code": "26_097",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_097.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_097.gltf",
+        "subcategory": "None"
+    },
+    "26_078": {
+        "code": "26_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_078.gltf",
+        "subcategory": "None"
+    },
+    "26_02d": {
+        "code": "26_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02d.gltf",
+        "subcategory": "None"
+    },
+    "26_02e": {
+        "code": "26_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02e.gltf",
+        "subcategory": "None"
+    },
+    "26_07b": {
+        "code": "26_07b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07b.gltf",
+        "subcategory": "None"
+    },
+    "26_096": {
+        "code": "26_096",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_096.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_096.gltf",
+        "subcategory": "None"
+    },
+    "26_079": {
+        "code": "26_079",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_079.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_079.gltf",
+        "subcategory": "None"
+    },
+    "26_06d": {
+        "code": "26_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06d.gltf",
+        "subcategory": "None"
+    },
+    "26_080": {
+        "code": "26_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_080.gltf",
+        "subcategory": "None"
+    },
+    "26_03c": {
+        "code": "26_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03c.gltf",
+        "subcategory": "None"
+    },
+    "26_038": {
+        "code": "26_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_038.gltf",
+        "subcategory": "None"
+    },
+    "26_043": {
+        "code": "26_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_043.gltf",
+        "subcategory": "None"
+    },
+    "26_002": {
+        "code": "26_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_002.gltf",
+        "subcategory": "None"
+    },
+    "26_055": {
+        "code": "26_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_055.gltf",
+        "subcategory": "None"
+    },
+    "26_022": {
+        "code": "26_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_022.gltf",
+        "subcategory": "None"
+    },
+    "26_063": {
+        "code": "26_063",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_063.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_063.gltf",
+        "subcategory": "None"
+    },
+    "26_034": {
+        "code": "26_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_034.gltf",
+        "subcategory": "None"
+    },
+    "26_018": {
+        "code": "26_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_018.gltf",
+        "subcategory": "None"
+    },
+    "26_01c": {
+        "code": "26_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01c.gltf",
+        "subcategory": "None"
+    },
+    "26_059": {
+        "code": "26_059",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_059.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_059.gltf",
+        "subcategory": "None"
+    },
+    "26_05b": {
+        "code": "26_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05b.gltf",
+        "subcategory": "None"
+    },
+    "26_076": {
+        "code": "26_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_076.gltf",
+        "subcategory": "None"
+    },
+    "26_099": {
+        "code": "26_099",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_099.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_099.gltf",
+        "subcategory": "None"
+    },
+    "26_09b": {
+        "code": "26_09b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09b.gltf",
+        "subcategory": "None"
+    },
+    "26_060": {
+        "code": "26_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_060.gltf",
+        "subcategory": "None"
+    },
+    "26_037": {
+        "code": "26_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_037.gltf",
+        "subcategory": "None"
+    },
+    "26_00f": {
+        "code": "26_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00f.gltf",
+        "subcategory": "None"
+    },
+    "26_05a": {
+        "code": "26_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_05a.gltf",
+        "subcategory": "None"
+    },
+    "26_02f": {
+        "code": "26_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02f.gltf",
+        "subcategory": "None"
+    },
+    "26_07a": {
+        "code": "26_07a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07a.gltf",
+        "subcategory": "None"
+    },
+    "26_095": {
+        "code": "26_095",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_095.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_handle",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_095.gltf",
+        "subcategory": "None"
+    },
+    "26_083": {
+        "code": "26_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_083.gltf",
+        "subcategory": "None"
+    },
+    "26_040": {
+        "code": "26_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_040.gltf",
+        "subcategory": "None"
+    },
+    "26_001": {
+        "code": "26_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_001.gltf",
+        "subcategory": "None"
+    },
+    "26_056": {
+        "code": "26_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_056.gltf",
+        "subcategory": "None"
+    },
+    "26_057": {
+        "code": "26_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_057.gltf",
+        "subcategory": "None"
+    },
+    "26_000": {
+        "code": "26_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_000.gltf",
+        "subcategory": "None"
+    },
+    "26_03a": {
+        "code": "26_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03a.gltf",
+        "subcategory": "None"
+    },
+    "26_082": {
+        "code": "26_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_082.gltf",
+        "subcategory": "None"
+    },
+    "26_06f": {
+        "code": "26_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06f.gltf",
+        "subcategory": "None"
+    },
+    "26_094": {
+        "code": "26_094",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_094.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_094.gltf",
+        "subcategory": "None"
+    },
+    "26_01a": {
+        "code": "26_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01a.gltf",
+        "subcategory": "None"
+    },
+    "26_04f": {
+        "code": "26_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04f.gltf",
+        "subcategory": "None"
+    },
+    "26_08e": {
+        "code": "26_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08e.gltf",
+        "subcategory": "None"
+    },
+    "26_061": {
+        "code": "26_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_061.gltf",
+        "subcategory": "None"
+    },
+    "26_09c": {
+        "code": "26_09c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09c.gltf",
+        "subcategory": "None"
+    },
+    "26_077": {
+        "code": "26_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_077.gltf",
+        "subcategory": "None"
+    },
+    "26_098": {
+        "code": "26_098",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_098.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_handle",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_098.gltf",
+        "subcategory": "None"
+    },
+    "26_020": {
+        "code": "26_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_020.gltf",
+        "subcategory": "None"
+    },
+    "26_093": {
+        "code": "26_093",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_093.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_handle",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_093.gltf",
+        "subcategory": "None"
+    },
+    "26_06a": {
+        "code": "26_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_06a.gltf",
+        "subcategory": "None"
+    },
+    "26_03f": {
+        "code": "26_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_03f.gltf",
+        "subcategory": "None"
+    },
+    "26_046": {
+        "code": "26_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_046.gltf",
+        "subcategory": "None"
+    },
+    "26_011": {
+        "code": "26_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_011.gltf",
+        "subcategory": "None"
+    },
+    "26_007": {
+        "code": "26_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_handle",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_007.gltf",
+        "subcategory": "None"
+    },
+    "26_050": {
+        "code": "26_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_050.gltf",
+        "subcategory": "None"
+    },
+    "26_027": {
+        "code": "26_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_027.gltf",
+        "subcategory": "None"
+    },
+    "26_070": {
+        "code": "26_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_070.gltf",
+        "subcategory": "None"
+    },
+    "26_09d": {
+        "code": "26_09d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09d.gltf",
+        "subcategory": "None"
+    },
+    "26_089": {
+        "code": "26_089",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_089.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_handle",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_089.gltf",
+        "subcategory": "None"
+    },
+    "26_08b": {
+        "code": "26_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08b.gltf",
+        "subcategory": "None"
+    },
+    "26_031": {
+        "code": "26_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_031.gltf",
+        "subcategory": "None"
+    },
+    "26_04a": {
+        "code": "26_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_04a.gltf",
+        "subcategory": "None"
+    },
+    "26_01f": {
+        "code": "26_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_01f.gltf",
+        "subcategory": "None"
+    },
+    "26_00a": {
+        "code": "26_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_00a.gltf",
+        "subcategory": "None"
+    },
+    "26_08c": {
+        "code": "26_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_08c.gltf",
+        "subcategory": "None"
+    },
+    "26_067": {
+        "code": "26_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_067.gltf",
+        "subcategory": "None"
+    },
+    "26_088": {
+        "code": "26_088",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_088.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_088.gltf",
+        "subcategory": "None"
+    },
+    "26_09e": {
+        "code": "26_09e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_09e.gltf",
+        "subcategory": "None"
+    },
+    "26_071": {
+        "code": "26_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_071.gltf",
+        "subcategory": "None"
+    },
+    "26_026": {
+        "code": "26_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_026.gltf",
+        "subcategory": "None"
+    },
+    "26_051": {
+        "code": "26_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_051.gltf",
+        "subcategory": "None"
+    },
+    "26_006": {
+        "code": "26_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_006.gltf",
+        "subcategory": "None"
+    },
+    "26_010": {
+        "code": "26_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_010.gltf",
+        "subcategory": "None"
+    },
+    "26_047": {
+        "code": "26_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_047.gltf",
+        "subcategory": "None"
+    },
+    "26_084": {
+        "code": "26_084",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_084.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_084.gltf",
+        "subcategory": "None"
+    },
+    "26_092": {
+        "code": "26_092",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_092.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_092.gltf",
+        "subcategory": "None"
+    },
+    "26_07f": {
+        "code": "26_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_flush_button",
+            "toilet_lid",
+            "toilet_seat",
+            "toilet_water_tank",
+            "toilet_water_tank_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_07f.gltf",
+        "subcategory": "None"
+    },
+    "26_02a": {
+        "code": "26_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "toilet_bowl",
+            "toilet_lid",
+            "toilet_seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/26_02a.gltf",
+        "subcategory": "None"
+    }
+}

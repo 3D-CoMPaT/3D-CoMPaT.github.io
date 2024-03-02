@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3DCoMPaT Dataset</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-solarizedlight.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs-bibtex@2.1.0/prism-bibtex.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
+
+    <link rel="stylesheet" href="./v2/static/css/bulma.min.css">
+    <link rel="stylesheet" href="./v2/static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="./v2/static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="./v2/static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="./v2/static/css/index.css">
+    <link rel="icon" href="./v2/static/img/favicon.png">
+
+    <script defer src="./v2/static/js/fontawesome.all.min.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        .shadow {
+            box-shadow: 0 0 10px rgb(164 155 155 / 65%) !important;
+        }
+
+        .shadow-sm {
+            box-shadow: 0 0 4px rgb(164 155 155 / 65%) !important;
+        }
+
+        pre {
+            width: 98%;
+            margin: 1.2em 0 !important
+        }
+
+        .copy-button {
+            position: relative;
+            float: right;
+            background-image: url("img/clippy.svg");
+            background-position: 0%;
+            background-size: 20px;
+            background-repeat: no-repeat;
+            background-position: 50%;
+            opacity: 0.5;
+            width: 30px;
+            height: 30px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            background-color: #f8f9fa !important;
+            transition: all 0.2s ease-in-out;
+            padding: 0;
+        }
+
+        .copy-button:hover {
+            cursor: pointer;
+            background-color: #e6e6e6 !important;
+            transition: all 0.2s ease-in-out;
+            opacity: 1;
+        }
+
+        .citations {
+            width: 65%;
+        }
+
+        .footer {
+            padding-top: 1rem;
+            padding-bottom: 0.5rem;
+            text-align: center;
+            position:absolute;
+            bottom:0;
+            width: 100%;
+            box-shadow: 0 0 10px rgb(164 155 155 / 20%) !important;
+        }
+
+        .footer .content {
+            margin-top: 0em;
+            margin-bottom: 0.75em;
+        }
+
+        #bibtex {
+            margin-top: -3rem;
+        }
+
+        .external-link {
+            box-shadow: 0 0 4px rgb(164 155 155 / 65%) !important;
+            background-color: #363636 !important;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .external-link:hover {
+            background-color: #b3b3b3 !important;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="section">
+        <div class="container is-centered has-text-centered">
+            <img src="v1/img/compat_logo.png" alt="Central Image" class="img-fluid" width="500px" />
+            </br>
+        </br>
+            <div class="mt-4">
+                <span class="link-block">
+                    <a href="v2/" class="external-link button is-normal is-rounded is-dark">
+                        <span class="is-size-5 icon">
+                            🪑
+                        </span>
+                        <span class="is-size-5">3DCoMPaT++</span>
+                    </a>
+                </span>
+                <span class="link-block ml-3">
+                    <a href="v1/" class="external-link button is-normal is-rounded is-dark">
+                        <span class="is-size-5">3DCoMPaT</span>
+                    </a>
+                </span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Target -->
+    <section class="section" id="bibtex">
+        <div class="container is-max-desktop">
+            <h2 class="title is-3">📖 Citations</h2>
+            If our work is useful to your research, please consider citing our work by referencing the following
+            research papers
+            for the 3DCoMPaT and 3DCoMPaT++ datasets:
+            </br>
+            </br>
+            <h3 class="title is-4">3DCoMPaT++</h3>
+
+            <!-- Trigger -->
+            <pre class="shadow-sm rounded p-3 bg-dark"><button data-toggle="tooltip" data-placement="top" title="Copy BibTeX" class="copy-button" data-clipboard-target="#compatplus"><span class="icon"><i class="fas fa-copy"></i></span></button><code class="language-bibtex" id="compatplus">@inproceedings {slim_3dcompatplus_2023,
+    title={{3DCoMPaT++}: An improved Large-scale 3D Vision Dataset
+    for Compositional Recognition},
+    author={ Habib Slim and Xiang Li and Yuchen Li,
+    Mahmoud Ahmed and Mohamed Ayman and Ujjwal Upadhyay
+    Ahmed Abdelreheem and Arpit Prajapati,
+    Suhail Pothigara and Peter Wonka and Mohamed Elhoseiny },
+    booktitle={arXiv},
+    year={2023}
+}</code></pre>
+            </br>
+            <h3 class="title is-4">3DCoMPaT v1:</h3>
+            <pre class="shadow-sm rounded p-3 bg-dark"><button data-toggle="tooltip" data-placement="top" title="Copy BibTeX" class="copy-button" data-clipboard-target="#compatv1"><span class="icon"><i class="fas fa-copy"></i></span></button><code class="language-bibtex" id="compatv1">@inproceedings {li20223d_compat,
+	title={{3DCoMPaT}: Composition of Materials on Parts of 3D Things},
+	author={Yuchen Li, Ujjwal Upadhyay, Habib Slim,
+	Ahmed Abdelreheem, Arpit Prajapati,
+	Suhail Pothigara, Peter Wonka, Mohamed Elhoseiny},
+	booktitle={17th European Conference on Computer Vision (ECCV)},
+	year={2022}
+}</code></pre>
+        </div>
+    </section>
+    </br> </br>
+    <!--
+    <footer class="footer">
+        <div class="content has-text-centered">
+            🪑 3DCoMPaT Dataset - Last updated Oct. 2023
+        </div>
+    </footer>
+    -->
+    <script src="https://cdn.jsdelivr.net/npm/prismjs-bibtex@2.1.0/prism-bibtex.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+        var clipboard = new ClipboardJS('.copy-button');
+    </script>
+</body>
+
+</html>

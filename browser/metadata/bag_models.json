@@ -1,0 +1,1552 @@
+{
+    "01_067": {
+        "code": "01_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_067.gltf",
+        "subcategory": "None"
+    },
+    "01_088": {
+        "code": "01_088",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_088.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "design",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_088.gltf",
+        "subcategory": "None"
+    },
+    "01_08c": {
+        "code": "01_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08c.gltf",
+        "subcategory": "None"
+    },
+    "01_030": {
+        "code": "01_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_030.gltf",
+        "subcategory": "None"
+    },
+    "01_026": {
+        "code": "01_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_026.gltf",
+        "subcategory": "None"
+    },
+    "01_071": {
+        "code": "01_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_071.gltf",
+        "subcategory": "None"
+    },
+    "01_00a": {
+        "code": "01_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00a.gltf",
+        "subcategory": "None"
+    },
+    "01_084": {
+        "code": "01_084",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_084.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_strap",
+            "design",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_084.gltf",
+        "subcategory": "None"
+    },
+    "01_02a": {
+        "code": "01_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02a.gltf",
+        "subcategory": "None"
+    },
+    "01_07f": {
+        "code": "01_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap",
+            "bag_zipper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07f.gltf",
+        "subcategory": "None"
+    },
+    "01_006": {
+        "code": "01_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "bag_strap",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_006.gltf",
+        "subcategory": "None"
+    },
+    "01_047": {
+        "code": "01_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "bag_zipper",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_047.gltf",
+        "subcategory": "None"
+    },
+    "01_010": {
+        "code": "01_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "bag_zipper",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_010.gltf",
+        "subcategory": "None"
+    },
+    "01_011": {
+        "code": "01_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_011.gltf",
+        "subcategory": "None"
+    },
+    "01_046": {
+        "code": "01_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "bag_zipper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_046.gltf",
+        "subcategory": "None"
+    },
+    "01_007": {
+        "code": "01_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_007.gltf",
+        "subcategory": "None"
+    },
+    "01_03f": {
+        "code": "01_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03f.gltf",
+        "subcategory": "None"
+    },
+    "01_01f": {
+        "code": "01_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01f.gltf",
+        "subcategory": "None"
+    },
+    "01_04a": {
+        "code": "01_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04a.gltf",
+        "subcategory": "None"
+    },
+    "01_070": {
+        "code": "01_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_070.gltf",
+        "subcategory": "None"
+    },
+    "01_027": {
+        "code": "01_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "foot",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_027.gltf",
+        "subcategory": "None"
+    },
+    "01_08b": {
+        "code": "01_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08b.gltf",
+        "subcategory": "None"
+    },
+    "01_066": {
+        "code": "01_066",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_066.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_066.gltf",
+        "subcategory": "None"
+    },
+    "01_089": {
+        "code": "01_089",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_089.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_lobster_clasp",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_089.gltf",
+        "subcategory": "None"
+    },
+    "01_082": {
+        "code": "01_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_082.gltf",
+        "subcategory": "None"
+    },
+    "01_03a": {
+        "code": "01_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "handle_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03a.gltf",
+        "subcategory": "None"
+    },
+    "01_000": {
+        "code": "01_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_000.gltf",
+        "subcategory": "None"
+    },
+    "01_057": {
+        "code": "01_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_057.gltf",
+        "subcategory": "None"
+    },
+    "01_041": {
+        "code": "01_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_041.gltf",
+        "subcategory": "None"
+    },
+    "01_016": {
+        "code": "01_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_016.gltf",
+        "subcategory": "None"
+    },
+    "01_061": {
+        "code": "01_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "bag_zipper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_061.gltf",
+        "subcategory": "None"
+    },
+    "01_08e": {
+        "code": "01_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08e.gltf",
+        "subcategory": "None"
+    },
+    "01_036": {
+        "code": "01_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_036.gltf",
+        "subcategory": "None"
+    },
+    "01_020": {
+        "code": "01_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_020.gltf",
+        "subcategory": "None"
+    },
+    "01_077": {
+        "code": "01_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_077.gltf",
+        "subcategory": "None"
+    },
+    "01_04f": {
+        "code": "01_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_strap"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04f.gltf",
+        "subcategory": "None"
+    },
+    "01_01a": {
+        "code": "01_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "handle_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01a.gltf",
+        "subcategory": "None"
+    },
+    "01_05a": {
+        "code": "01_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05a.gltf",
+        "subcategory": "None"
+    },
+    "01_076": {
+        "code": "01_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_076.gltf",
+        "subcategory": "None"
+    },
+    "01_08d": {
+        "code": "01_08d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08d.gltf",
+        "subcategory": "None"
+    },
+    "01_017": {
+        "code": "01_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "handle_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_017.gltf",
+        "subcategory": "None"
+    },
+    "01_040": {
+        "code": "01_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "bag_strap",
+            "bag_zipper",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_040.gltf",
+        "subcategory": "None"
+    },
+    "01_056": {
+        "code": "01_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "bag_zipper",
+            "handle",
+            "handle_connector",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_056.gltf",
+        "subcategory": "None"
+    },
+    "01_07a": {
+        "code": "01_07a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "design",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07a.gltf",
+        "subcategory": "None"
+    },
+    "01_02f": {
+        "code": "01_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_strap"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02f.gltf",
+        "subcategory": "None"
+    },
+    "01_083": {
+        "code": "01_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_083.gltf",
+        "subcategory": "None"
+    },
+    "01_043": {
+        "code": "01_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_043.gltf",
+        "subcategory": "None"
+    },
+    "01_055": {
+        "code": "01_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "handle_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_055.gltf",
+        "subcategory": "None"
+    },
+    "01_002": {
+        "code": "01_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_002.gltf",
+        "subcategory": "None"
+    },
+    "01_079": {
+        "code": "01_079",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_079.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "design",
+            "handle",
+            "handle_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_079.gltf",
+        "subcategory": "None"
+    },
+    "01_07b": {
+        "code": "01_07b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07b.gltf",
+        "subcategory": "None"
+    },
+    "01_02e": {
+        "code": "01_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "design",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02e.gltf",
+        "subcategory": "None"
+    },
+    "01_038": {
+        "code": "01_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_038.gltf",
+        "subcategory": "None"
+    },
+    "01_03c": {
+        "code": "01_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03c.gltf",
+        "subcategory": "None"
+    },
+    "01_080": {
+        "code": "01_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_080.gltf",
+        "subcategory": "None"
+    },
+    "01_06d": {
+        "code": "01_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "bag_zipper",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_06d.gltf",
+        "subcategory": "None"
+    },
+    "01_01c": {
+        "code": "01_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01c.gltf",
+        "subcategory": "None"
+    },
+    "01_04d": {
+        "code": "01_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04d.gltf",
+        "subcategory": "None"
+    },
+    "01_05b": {
+        "code": "01_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05b.gltf",
+        "subcategory": "None"
+    },
+    "01_059": {
+        "code": "01_059",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_059.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_059.gltf",
+        "subcategory": "None"
+    },
+    "01_00e": {
+        "code": "01_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "bag_zipper",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00e.gltf",
+        "subcategory": "None"
+    },
+    "01_022": {
+        "code": "01_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_022.gltf",
+        "subcategory": "None"
+    },
+    "01_08f": {
+        "code": "01_08f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08f.gltf",
+        "subcategory": "None"
+    },
+    "01_035": {
+        "code": "01_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_035.gltf",
+        "subcategory": "None"
+    },
+    "01_023": {
+        "code": "01_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "bag_zipper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_023.gltf",
+        "subcategory": "None"
+    },
+    "01_074": {
+        "code": "01_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_074.gltf",
+        "subcategory": "None"
+    },
+    "01_00d": {
+        "code": "01_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap",
+            "bag_zipper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00d.gltf",
+        "subcategory": "None"
+    },
+    "01_058": {
+        "code": "01_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_058.gltf",
+        "subcategory": "None"
+    },
+    "01_05c": {
+        "code": "01_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05c.gltf",
+        "subcategory": "None"
+    },
+    "01_04e": {
+        "code": "01_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "design",
+            "handle",
+            "handle_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04e.gltf",
+        "subcategory": "None"
+    },
+    "01_019": {
+        "code": "01_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_019.gltf",
+        "subcategory": "None"
+    },
+    "01_01b": {
+        "code": "01_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01b.gltf",
+        "subcategory": "None"
+    },
+    "01_06e": {
+        "code": "01_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_06e.gltf",
+        "subcategory": "None"
+    },
+    "01_081": {
+        "code": "01_081",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_081.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_081.gltf",
+        "subcategory": "None"
+    },
+    "01_03b": {
+        "code": "01_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "bag_strap",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03b.gltf",
+        "subcategory": "None"
+    },
+    "01_039": {
+        "code": "01_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_039.gltf",
+        "subcategory": "None"
+    },
+    "01_07c": {
+        "code": "01_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "bag_zipper",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07c.gltf",
+        "subcategory": "None"
+    },
+    "01_078": {
+        "code": "01_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_zipper",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_078.gltf",
+        "subcategory": "None"
+    },
+    "01_003": {
+        "code": "01_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_003.gltf",
+        "subcategory": "None"
+    },
+    "01_054": {
+        "code": "01_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_054.gltf",
+        "subcategory": "None"
+    },
+    "01_042": {
+        "code": "01_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_042.gltf",
+        "subcategory": "None"
+    },
+    "01_015": {
+        "code": "01_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_015.gltf",
+        "subcategory": "None"
+    },
+    "01_01e": {
+        "code": "01_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01e.gltf",
+        "subcategory": "None"
+    },
+    "01_049": {
+        "code": "01_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_049.gltf",
+        "subcategory": "None"
+    },
+    "01_05d": {
+        "code": "01_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05d.gltf",
+        "subcategory": "None"
+    },
+    "01_00c": {
+        "code": "01_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00c.gltf",
+        "subcategory": "None"
+    },
+    "01_008": {
+        "code": "01_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_008.gltf",
+        "subcategory": "None"
+    },
+    "01_024": {
+        "code": "01_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_024.gltf",
+        "subcategory": "None"
+    },
+    "01_032": {
+        "code": "01_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_032.gltf",
+        "subcategory": "None"
+    },
+    "01_08a": {
+        "code": "01_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_08a.gltf",
+        "subcategory": "None"
+    },
+    "01_065": {
+        "code": "01_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_065.gltf",
+        "subcategory": "None"
+    },
+    "01_045": {
+        "code": "01_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_045.gltf",
+        "subcategory": "None"
+    },
+    "01_053": {
+        "code": "01_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_053.gltf",
+        "subcategory": "None"
+    },
+    "01_004": {
+        "code": "01_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_004.gltf",
+        "subcategory": "None"
+    },
+    "01_090": {
+        "code": "01_090",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_090.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_090.gltf",
+        "subcategory": "None"
+    },
+    "01_07d": {
+        "code": "01_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07d.gltf",
+        "subcategory": "None"
+    },
+    "01_028": {
+        "code": "01_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "bag_lobster_clasp",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_028.gltf",
+        "subcategory": "None"
+    },
+    "01_02c": {
+        "code": "01_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02c.gltf",
+        "subcategory": "None"
+    },
+    "01_03e": {
+        "code": "01_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_strap",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_03e.gltf",
+        "subcategory": "None"
+    },
+    "01_086": {
+        "code": "01_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_lobster_clasp",
+            "bag_zipper",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_086.gltf",
+        "subcategory": "None"
+    },
+    "01_069": {
+        "code": "01_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_069.gltf",
+        "subcategory": "None"
+    },
+    "01_06c": {
+        "code": "01_06c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_06c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_06c.gltf",
+        "subcategory": "None"
+    },
+    "01_068": {
+        "code": "01_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_068.gltf",
+        "subcategory": "None"
+    },
+    "01_02b": {
+        "code": "01_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_clip_buckle",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "handle",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_02b.gltf",
+        "subcategory": "None"
+    },
+    "01_029": {
+        "code": "01_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_lobster_clasp",
+            "bag_strap",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_029.gltf",
+        "subcategory": "None"
+    },
+    "01_07e": {
+        "code": "01_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_07e.gltf",
+        "subcategory": "None"
+    },
+    "01_091": {
+        "code": "01_091",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_091.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_091.gltf",
+        "subcategory": "None"
+    },
+    "01_005": {
+        "code": "01_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_005.gltf",
+        "subcategory": "None"
+    },
+    "01_044": {
+        "code": "01_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "design",
+            "foot",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_044.gltf",
+        "subcategory": "None"
+    },
+    "01_013": {
+        "code": "01_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_zipper",
+            "handle",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_013.gltf",
+        "subcategory": "None"
+    },
+    "01_064": {
+        "code": "01_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_clip_buckle",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_064.gltf",
+        "subcategory": "None"
+    },
+    "01_033": {
+        "code": "01_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap",
+            "design"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_033.gltf",
+        "subcategory": "None"
+    },
+    "01_025": {
+        "code": "01_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_025.gltf",
+        "subcategory": "None"
+    },
+    "01_009": {
+        "code": "01_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_009.gltf",
+        "subcategory": "None"
+    },
+    "01_00b": {
+        "code": "01_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "handle",
+            "handle_connector",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_00b.gltf",
+        "subcategory": "None"
+    },
+    "01_05e": {
+        "code": "01_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_05e.gltf",
+        "subcategory": "None"
+    },
+    "01_048": {
+        "code": "01_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_strap",
+            "bag_zipper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_048.gltf",
+        "subcategory": "None"
+    },
+    "01_04c": {
+        "code": "01_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "bag_buckle",
+            "bag_zipper",
+            "design",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_04c.gltf",
+        "subcategory": "None"
+    },
+    "01_01d": {
+        "code": "01_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bag_body",
+            "design",
+            "handle",
+            "handle_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/01_01d.gltf",
+        "subcategory": "None"
+    }
+}

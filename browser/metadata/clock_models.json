@@ -1,0 +1,3056 @@
+{
+    "0d_00a": {
+        "code": "0d_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00a.gltf",
+        "subcategory": "None"
+    },
+    "0d_0e4": {
+        "code": "0d_0e4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e4.gltf",
+        "subcategory": "None"
+    },
+    "0d_05f": {
+        "code": "0d_05f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05f.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d2": {
+        "code": "0d_0d2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d2.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a5": {
+        "code": "0d_0a5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a5.gltf",
+        "subcategory": "None"
+    },
+    "0d_088": {
+        "code": "0d_088",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_088.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_088.gltf",
+        "subcategory": "None"
+    },
+    "0d_067": {
+        "code": "0d_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_067.gltf",
+        "subcategory": "None"
+    },
+    "0d_08c": {
+        "code": "0d_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08c.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c9": {
+        "code": "0d_0c9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c9.gltf",
+        "subcategory": "None"
+    },
+    "0d_030": {
+        "code": "0d_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_030.gltf",
+        "subcategory": "None"
+    },
+    "0d_0cb": {
+        "code": "0d_0cb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0cb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0cb.gltf",
+        "subcategory": "None"
+    },
+    "0d_026": {
+        "code": "0d_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_026.gltf",
+        "subcategory": "None"
+    },
+    "0d_0bd": {
+        "code": "0d_0bd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0bd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0bd.gltf",
+        "subcategory": "None"
+    },
+    "0d_071": {
+        "code": "0d_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_071.gltf",
+        "subcategory": "None"
+    },
+    "0d_09e": {
+        "code": "0d_09e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09e.gltf",
+        "subcategory": "None"
+    },
+    "0d_006": {
+        "code": "0d_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_006.gltf",
+        "subcategory": "None"
+    },
+    "0d_0de": {
+        "code": "0d_0de",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0de.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0de.gltf",
+        "subcategory": "None"
+    },
+    "0d_047": {
+        "code": "0d_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_047.gltf",
+        "subcategory": "None"
+    },
+    "0d_0ab": {
+        "code": "0d_0ab",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ab.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ab.gltf",
+        "subcategory": "None"
+    },
+    "0d_010": {
+        "code": "0d_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_010.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a9": {
+        "code": "0d_0a9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a9.gltf",
+        "subcategory": "None"
+    },
+    "0d_084": {
+        "code": "0d_084",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_084.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_084.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c5": {
+        "code": "0d_0c5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c5.gltf",
+        "subcategory": "None"
+    },
+    "0d_02a": {
+        "code": "0d_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02a.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b3": {
+        "code": "0d_0b3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b3.gltf",
+        "subcategory": "None"
+    },
+    "0d_07f": {
+        "code": "0d_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07f.gltf",
+        "subcategory": "None"
+    },
+    "0d_092": {
+        "code": "0d_092",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_092.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_092.gltf",
+        "subcategory": "None"
+    },
+    "0d_093": {
+        "code": "0d_093",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_093.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_093.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b2": {
+        "code": "0d_0b2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b2.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c4": {
+        "code": "0d_0c4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "glass_panel",
+            "vertical_back_panel",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c4.gltf",
+        "subcategory": "None"
+    },
+    "0d_085": {
+        "code": "0d_085",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_085.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_085.gltf",
+        "subcategory": "None"
+    },
+    "0d_06a": {
+        "code": "0d_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06a.gltf",
+        "subcategory": "None"
+    },
+    "0d_011": {
+        "code": "0d_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_011.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a8": {
+        "code": "0d_0a8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a8.gltf",
+        "subcategory": "None"
+    },
+    "0d_0ac": {
+        "code": "0d_0ac",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ac.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ac.gltf",
+        "subcategory": "None"
+    },
+    "0d_046": {
+        "code": "0d_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_046.gltf",
+        "subcategory": "None"
+    },
+    "0d_0dd": {
+        "code": "0d_0dd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0dd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0dd.gltf",
+        "subcategory": "None"
+    },
+    "0d_050": {
+        "code": "0d_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_050.gltf",
+        "subcategory": "None"
+    },
+    "0d_007": {
+        "code": "0d_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_007.gltf",
+        "subcategory": "None"
+    },
+    "0d_09d": {
+        "code": "0d_09d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09d.gltf",
+        "subcategory": "None"
+    },
+    "0d_070": {
+        "code": "0d_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_070.gltf",
+        "subcategory": "None"
+    },
+    "0d_0be": {
+        "code": "0d_0be",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0be.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0be.gltf",
+        "subcategory": "None"
+    },
+    "0d_027": {
+        "code": "0d_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_027.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c8": {
+        "code": "0d_0c8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c8.gltf",
+        "subcategory": "None"
+    },
+    "0d_031": {
+        "code": "0d_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_031.gltf",
+        "subcategory": "None"
+    },
+    "0d_08b": {
+        "code": "0d_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08b.gltf",
+        "subcategory": "None"
+    },
+    "0d_066": {
+        "code": "0d_066",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_066.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_066.gltf",
+        "subcategory": "None"
+    },
+    "0d_01f": {
+        "code": "0d_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01f.gltf",
+        "subcategory": "None"
+    },
+    "0d_04a": {
+        "code": "0d_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04a.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d3": {
+        "code": "0d_0d3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d3.gltf",
+        "subcategory": "None"
+    },
+    "0d_0e5": {
+        "code": "0d_0e5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e5.gltf",
+        "subcategory": "None"
+    },
+    "0d_000": {
+        "code": "0d_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_000.gltf",
+        "subcategory": "None"
+    },
+    "0d_057": {
+        "code": "0d_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_057.gltf",
+        "subcategory": "None"
+    },
+    "0d_0dc": {
+        "code": "0d_0dc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0dc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0dc.gltf",
+        "subcategory": "None"
+    },
+    "0d_041": {
+        "code": "0d_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_041.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d8": {
+        "code": "0d_0d8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d8.gltf",
+        "subcategory": "None"
+    },
+    "0d_0ad": {
+        "code": "0d_0ad",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ad.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ad.gltf",
+        "subcategory": "None"
+    },
+    "0d_016": {
+        "code": "0d_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_016.gltf",
+        "subcategory": "None"
+    },
+    "0d_06f": {
+        "code": "0d_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06f.gltf",
+        "subcategory": "None"
+    },
+    "0d_082": {
+        "code": "0d_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_082.gltf",
+        "subcategory": "None"
+    },
+    "0d_03a": {
+        "code": "0d_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03a.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c3": {
+        "code": "0d_0c3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c3.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b5": {
+        "code": "0d_0b5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b5.gltf",
+        "subcategory": "None"
+    },
+    "0d_094": {
+        "code": "0d_094",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_094.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_094.gltf",
+        "subcategory": "None"
+    },
+    "0d_0e2": {
+        "code": "0d_0e2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e2.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d4": {
+        "code": "0d_0d4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d4.gltf",
+        "subcategory": "None"
+    },
+    "0d_04f": {
+        "code": "0d_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "pedestal",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04f.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a3": {
+        "code": "0d_0a3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a3.gltf",
+        "subcategory": "None"
+    },
+    "0d_01a": {
+        "code": "0d_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01a.gltf",
+        "subcategory": "None"
+    },
+    "0d_061": {
+        "code": "0d_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_061.gltf",
+        "subcategory": "None"
+    },
+    "0d_08e": {
+        "code": "0d_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08e.gltf",
+        "subcategory": "None"
+    },
+    "0d_036": {
+        "code": "0d_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_036.gltf",
+        "subcategory": "None"
+    },
+    "0d_0cd": {
+        "code": "0d_0cd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0cd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0cd.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b9": {
+        "code": "0d_0b9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b9.gltf",
+        "subcategory": "None"
+    },
+    "0d_020": {
+        "code": "0d_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_020.gltf",
+        "subcategory": "None"
+    },
+    "0d_098": {
+        "code": "0d_098",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_098.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_098.gltf",
+        "subcategory": "None"
+    },
+    "0d_077": {
+        "code": "0d_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_077.gltf",
+        "subcategory": "None"
+    },
+    "0d_09c": {
+        "code": "0d_09c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09c.gltf",
+        "subcategory": "None"
+    },
+    "0d_09b": {
+        "code": "0d_09b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09b.gltf",
+        "subcategory": "None"
+    },
+    "0d_099": {
+        "code": "0d_099",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_099.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_099.gltf",
+        "subcategory": "None"
+    },
+    "0d_076": {
+        "code": "0d_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_076.gltf",
+        "subcategory": "None"
+    },
+    "0d_0bc": {
+        "code": "0d_0bc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0bc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0bc.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b8": {
+        "code": "0d_0b8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b8.gltf",
+        "subcategory": "None"
+    },
+    "0d_021": {
+        "code": "0d_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_021.gltf",
+        "subcategory": "None"
+    },
+    "0d_0ce": {
+        "code": "0d_0ce",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ce.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ce.gltf",
+        "subcategory": "None"
+    },
+    "0d_037": {
+        "code": "0d_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_037.gltf",
+        "subcategory": "None"
+    },
+    "0d_08d": {
+        "code": "0d_08d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08d.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a2": {
+        "code": "0d_0a2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a2.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d5": {
+        "code": "0d_0d5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d5.gltf",
+        "subcategory": "None"
+    },
+    "0d_05a": {
+        "code": "0d_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05a.gltf",
+        "subcategory": "None"
+    },
+    "0d_0e3": {
+        "code": "0d_0e3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e3.gltf",
+        "subcategory": "None"
+    },
+    "0d_00f": {
+        "code": "0d_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00f.gltf",
+        "subcategory": "None"
+    },
+    "0d_095": {
+        "code": "0d_095",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_095.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_095.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b4": {
+        "code": "0d_0b4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b4.gltf",
+        "subcategory": "None"
+    },
+    "0d_02f": {
+        "code": "0d_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02f.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c2": {
+        "code": "0d_0c2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c2.gltf",
+        "subcategory": "None"
+    },
+    "0d_083": {
+        "code": "0d_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_pendulum",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_083.gltf",
+        "subcategory": "None"
+    },
+    "0d_017": {
+        "code": "0d_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_017.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d9": {
+        "code": "0d_0d9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d9.gltf",
+        "subcategory": "None"
+    },
+    "0d_0db": {
+        "code": "0d_0db",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0db.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0db.gltf",
+        "subcategory": "None"
+    },
+    "0d_056": {
+        "code": "0d_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_056.gltf",
+        "subcategory": "None"
+    },
+    "0d_001": {
+        "code": "0d_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_001.gltf",
+        "subcategory": "None"
+    },
+    "0d_079": {
+        "code": "0d_079",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_079.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_079.gltf",
+        "subcategory": "None"
+    },
+    "0d_096": {
+        "code": "0d_096",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_096.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_096.gltf",
+        "subcategory": "None"
+    },
+    "0d_07b": {
+        "code": "0d_07b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07b.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b7": {
+        "code": "0d_0b7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b7.gltf",
+        "subcategory": "None"
+    },
+    "0d_02e": {
+        "code": "0d_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02e.gltf",
+        "subcategory": "None"
+    },
+    "0d_038": {
+        "code": "0d_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_038.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c1": {
+        "code": "0d_0c1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c1.gltf",
+        "subcategory": "None"
+    },
+    "0d_03c": {
+        "code": "0d_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03c.gltf",
+        "subcategory": "None"
+    },
+    "0d_080": {
+        "code": "0d_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_080.gltf",
+        "subcategory": "None"
+    },
+    "0d_06d": {
+        "code": "0d_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06d.gltf",
+        "subcategory": "None"
+    },
+    "0d_014": {
+        "code": "0d_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_014.gltf",
+        "subcategory": "None"
+    },
+    "0d_0af": {
+        "code": "0d_0af",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0af.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0af.gltf",
+        "subcategory": "None"
+    },
+    "0d_043": {
+        "code": "0d_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_043.gltf",
+        "subcategory": "None"
+    },
+    "0d_0da": {
+        "code": "0d_0da",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0da.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0da.gltf",
+        "subcategory": "None"
+    },
+    "0d_055": {
+        "code": "0d_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_055.gltf",
+        "subcategory": "None"
+    },
+    "0d_09a": {
+        "code": "0d_09a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_pendulum",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09a.gltf",
+        "subcategory": "None"
+    },
+    "0d_022": {
+        "code": "0d_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_022.gltf",
+        "subcategory": "None"
+    },
+    "0d_0cf": {
+        "code": "0d_0cf",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0cf.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0cf.gltf",
+        "subcategory": "None"
+    },
+    "0d_034": {
+        "code": "0d_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_034.gltf",
+        "subcategory": "None"
+    },
+    "0d_063": {
+        "code": "0d_063",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_063.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_063.gltf",
+        "subcategory": "None"
+    },
+    "0d_01c": {
+        "code": "0d_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01c.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a1": {
+        "code": "0d_0a1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a1.gltf",
+        "subcategory": "None"
+    },
+    "0d_018": {
+        "code": "0d_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_018.gltf",
+        "subcategory": "None"
+    },
+    "0d_04d": {
+        "code": "0d_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04d.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d6": {
+        "code": "0d_0d6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d6.gltf",
+        "subcategory": "None"
+    },
+    "0d_05b": {
+        "code": "0d_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05b.gltf",
+        "subcategory": "None"
+    },
+    "0d_0e0": {
+        "code": "0d_0e0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0e0.gltf",
+        "subcategory": "None"
+    },
+    "0d_059": {
+        "code": "0d_059",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_059.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_pendulum",
+            "pedestal",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_059.gltf",
+        "subcategory": "None"
+    },
+    "0d_00d": {
+        "code": "0d_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00d.gltf",
+        "subcategory": "None"
+    },
+    "0d_058": {
+        "code": "0d_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_058.gltf",
+        "subcategory": "None"
+    },
+    "0d_05c": {
+        "code": "0d_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05c.gltf",
+        "subcategory": "None"
+    },
+    "0d_0d7": {
+        "code": "0d_0d7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0d7.gltf",
+        "subcategory": "None"
+    },
+    "0d_04e": {
+        "code": "0d_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04e.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a0": {
+        "code": "0d_0a0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a0.gltf",
+        "subcategory": "None"
+    },
+    "0d_019": {
+        "code": "0d_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_019.gltf",
+        "subcategory": "None"
+    },
+    "0d_01b": {
+        "code": "0d_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01b.gltf",
+        "subcategory": "None"
+    },
+    "0d_062": {
+        "code": "0d_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_062.gltf",
+        "subcategory": "None"
+    },
+    "0d_08f": {
+        "code": "0d_08f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08f.gltf",
+        "subcategory": "None"
+    },
+    "0d_0ba": {
+        "code": "0d_0ba",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ba.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ba.gltf",
+        "subcategory": "None"
+    },
+    "0d_074": {
+        "code": "0d_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_074.gltf",
+        "subcategory": "None"
+    },
+    "0d_003": {
+        "code": "0d_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_pendulum",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_003.gltf",
+        "subcategory": "None"
+    },
+    "0d_054": {
+        "code": "0d_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_054.gltf",
+        "subcategory": "None"
+    },
+    "0d_042": {
+        "code": "0d_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_042.gltf",
+        "subcategory": "None"
+    },
+    "0d_06e": {
+        "code": "0d_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06e.gltf",
+        "subcategory": "None"
+    },
+    "0d_081": {
+        "code": "0d_081",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_081.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_081.gltf",
+        "subcategory": "None"
+    },
+    "0d_03b": {
+        "code": "0d_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03b.gltf",
+        "subcategory": "None"
+    },
+    "0d_039": {
+        "code": "0d_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_039.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c0": {
+        "code": "0d_0c0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c0.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b6": {
+        "code": "0d_0b6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b6.gltf",
+        "subcategory": "None"
+    },
+    "0d_07c": {
+        "code": "0d_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07c.gltf",
+        "subcategory": "None"
+    },
+    "0d_078": {
+        "code": "0d_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_078.gltf",
+        "subcategory": "None"
+    },
+    "0d_097": {
+        "code": "0d_097",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_097.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_097.gltf",
+        "subcategory": "None"
+    },
+    "0d_0bf": {
+        "code": "0d_0bf",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0bf.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0bf.gltf",
+        "subcategory": "None"
+    },
+    "0d_024": {
+        "code": "0d_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_024.gltf",
+        "subcategory": "None"
+    },
+    "0d_032": {
+        "code": "0d_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_032.gltf",
+        "subcategory": "None"
+    },
+    "0d_08a": {
+        "code": "0d_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_08a.gltf",
+        "subcategory": "None"
+    },
+    "0d_065": {
+        "code": "0d_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_065.gltf",
+        "subcategory": "None"
+    },
+    "0d_01e": {
+        "code": "0d_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01e.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a7": {
+        "code": "0d_0a7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a7.gltf",
+        "subcategory": "None"
+    },
+    "0d_04b": {
+        "code": "0d_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04b.gltf",
+        "subcategory": "None"
+    },
+    "0d_049": {
+        "code": "0d_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_049.gltf",
+        "subcategory": "None"
+    },
+    "0d_05d": {
+        "code": "0d_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05d.gltf",
+        "subcategory": "None"
+    },
+    "0d_00c": {
+        "code": "0d_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00c.gltf",
+        "subcategory": "None"
+    },
+    "0d_008": {
+        "code": "0d_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_008.gltf",
+        "subcategory": "None"
+    },
+    "0d_090": {
+        "code": "0d_090",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_090.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_090.gltf",
+        "subcategory": "None"
+    },
+    "0d_07d": {
+        "code": "0d_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07d.gltf",
+        "subcategory": "None"
+    },
+    "0d_028": {
+        "code": "0d_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_028.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b1": {
+        "code": "0d_0b1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b1.gltf",
+        "subcategory": "None"
+    },
+    "0d_02c": {
+        "code": "0d_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02c.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c7": {
+        "code": "0d_0c7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c7.gltf",
+        "subcategory": "None"
+    },
+    "0d_03e": {
+        "code": "0d_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03e.gltf",
+        "subcategory": "None"
+    },
+    "0d_069": {
+        "code": "0d_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_069.gltf",
+        "subcategory": "None"
+    },
+    "0d_086": {
+        "code": "0d_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_086.gltf",
+        "subcategory": "None"
+    },
+    "0d_06b": {
+        "code": "0d_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06b.gltf",
+        "subcategory": "None"
+    },
+    "0d_012": {
+        "code": "0d_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_012.gltf",
+        "subcategory": "None"
+    },
+    "0d_045": {
+        "code": "0d_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_045.gltf",
+        "subcategory": "None"
+    },
+    "0d_053": {
+        "code": "0d_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_053.gltf",
+        "subcategory": "None"
+    },
+    "0d_004": {
+        "code": "0d_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_004.gltf",
+        "subcategory": "None"
+    },
+    "0d_005": {
+        "code": "0d_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_005.gltf",
+        "subcategory": "None"
+    },
+    "0d_0df": {
+        "code": "0d_0df",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0df.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0df.gltf",
+        "subcategory": "None"
+    },
+    "0d_044": {
+        "code": "0d_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_044.gltf",
+        "subcategory": "None"
+    },
+    "0d_0aa": {
+        "code": "0d_0aa",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0aa.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0aa.gltf",
+        "subcategory": "None"
+    },
+    "0d_013": {
+        "code": "0d_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "glass_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_013.gltf",
+        "subcategory": "None"
+    },
+    "0d_06c": {
+        "code": "0d_06c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_06c.gltf",
+        "subcategory": "None"
+    },
+    "0d_068": {
+        "code": "0d_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_068.gltf",
+        "subcategory": "None"
+    },
+    "0d_03d": {
+        "code": "0d_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_03d.gltf",
+        "subcategory": "None"
+    },
+    "0d_0c6": {
+        "code": "0d_0c6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0c6.gltf",
+        "subcategory": "None"
+    },
+    "0d_02b": {
+        "code": "0d_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_02b.gltf",
+        "subcategory": "None"
+    },
+    "0d_029": {
+        "code": "0d_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_029.gltf",
+        "subcategory": "None"
+    },
+    "0d_0b0": {
+        "code": "0d_0b0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0b0.gltf",
+        "subcategory": "None"
+    },
+    "0d_07e": {
+        "code": "0d_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_07e.gltf",
+        "subcategory": "None"
+    },
+    "0d_091": {
+        "code": "0d_091",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_091.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_091.gltf",
+        "subcategory": "None"
+    },
+    "0d_009": {
+        "code": "0d_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_009.gltf",
+        "subcategory": "None"
+    },
+    "0d_00b": {
+        "code": "0d_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_00b.gltf",
+        "subcategory": "None"
+    },
+    "0d_05e": {
+        "code": "0d_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_05e.gltf",
+        "subcategory": "None"
+    },
+    "0d_048": {
+        "code": "0d_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_048.gltf",
+        "subcategory": "None"
+    },
+    "0d_04c": {
+        "code": "0d_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_04c.gltf",
+        "subcategory": "None"
+    },
+    "0d_0a6": {
+        "code": "0d_0a6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_battery_box",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0a6.gltf",
+        "subcategory": "None"
+    },
+    "0d_01d": {
+        "code": "0d_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_01d.gltf",
+        "subcategory": "None"
+    },
+    "0d_064": {
+        "code": "0d_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_064.gltf",
+        "subcategory": "None"
+    },
+    "0d_033": {
+        "code": "0d_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "glass_panel",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_033.gltf",
+        "subcategory": "None"
+    },
+    "0d_0ca": {
+        "code": "0d_0ca",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ca.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_0ca.gltf",
+        "subcategory": "None"
+    },
+    "0d_025": {
+        "code": "0d_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_frame",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_number",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_025.gltf",
+        "subcategory": "None"
+    },
+    "0d_072": {
+        "code": "0d_072",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_072.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand",
+            "clock_second_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_072.gltf",
+        "subcategory": "None"
+    },
+    "0d_09f": {
+        "code": "0d_09f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "clock_body",
+            "clock_hand_axis",
+            "clock_hour_hand",
+            "clock_minute_hand"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0d_09f.gltf",
+        "subcategory": "None"
+    }
+}

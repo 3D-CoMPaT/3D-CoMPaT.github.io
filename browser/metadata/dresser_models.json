@@ -1,0 +1,4707 @@
+{
+    "11_0b5": {
+        "code": "11_0b5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b5.gltf",
+        "subcategory": "None"
+    },
+    "11_094": {
+        "code": "11_094",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_094.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_094.gltf",
+        "subcategory": "None"
+    },
+    "11_06f": {
+        "code": "11_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06f.gltf",
+        "subcategory": "None"
+    },
+    "11_0f4": {
+        "code": "11_0f4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f4.gltf",
+        "subcategory": "None"
+    },
+    "11_082": {
+        "code": "11_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_082.gltf",
+        "subcategory": "None"
+    },
+    "11_03a": {
+        "code": "11_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03a.gltf",
+        "subcategory": "None"
+    },
+    "11_0c3": {
+        "code": "11_0c3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c3.gltf",
+        "subcategory": "None"
+    },
+    "11_0dc": {
+        "code": "11_0dc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0dc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0dc.gltf",
+        "subcategory": "None"
+    },
+    "11_041": {
+        "code": "11_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_041.gltf",
+        "subcategory": "None"
+    },
+    "11_0d8": {
+        "code": "11_0d8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d8.gltf",
+        "subcategory": "None"
+    },
+    "11_104": {
+        "code": "11_104",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_104.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_104.gltf",
+        "subcategory": "None"
+    },
+    "11_0ad": {
+        "code": "11_0ad",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ad.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ad.gltf",
+        "subcategory": "None"
+    },
+    "11_016": {
+        "code": "11_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_016.gltf",
+        "subcategory": "None"
+    },
+    "11_000": {
+        "code": "11_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_000.gltf",
+        "subcategory": "None"
+    },
+    "11_0ee": {
+        "code": "11_0ee",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ee.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ee.gltf",
+        "subcategory": "None"
+    },
+    "11_057": {
+        "code": "11_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_057.gltf",
+        "subcategory": "None"
+    },
+    "11_0b9": {
+        "code": "11_0b9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b9.gltf",
+        "subcategory": "None"
+    },
+    "11_0bb": {
+        "code": "11_0bb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bb.gltf",
+        "subcategory": "None"
+    },
+    "11_098": {
+        "code": "11_098",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_098.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_098.gltf",
+        "subcategory": "None"
+    },
+    "11_077": {
+        "code": "11_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_077.gltf",
+        "subcategory": "None"
+    },
+    "11_09c": {
+        "code": "11_09c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09c.gltf",
+        "subcategory": "None"
+    },
+    "11_0f8": {
+        "code": "11_0f8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f8.gltf",
+        "subcategory": "None"
+    },
+    "11_124": {
+        "code": "11_124",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_124.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_124.gltf",
+        "subcategory": "None"
+    },
+    "11_061": {
+        "code": "11_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_061.gltf",
+        "subcategory": "None"
+    },
+    "11_08e": {
+        "code": "11_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08e.gltf",
+        "subcategory": "None"
+    },
+    "11_0fc": {
+        "code": "11_0fc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fc.gltf",
+        "subcategory": "None"
+    },
+    "11_036": {
+        "code": "11_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_036.gltf",
+        "subcategory": "None"
+    },
+    "11_0cd": {
+        "code": "11_0cd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "support",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cd.gltf",
+        "subcategory": "None"
+    },
+    "11_108": {
+        "code": "11_108",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_108.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_108.gltf",
+        "subcategory": "None"
+    },
+    "11_0d4": {
+        "code": "11_0d4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "stretcher",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d4.gltf",
+        "subcategory": "None"
+    },
+    "11_10c": {
+        "code": "11_10c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10c.gltf",
+        "subcategory": "None"
+    },
+    "11_04f": {
+        "code": "11_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "top_frame",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04f.gltf",
+        "subcategory": "None"
+    },
+    "11_0a3": {
+        "code": "11_0a3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a3.gltf",
+        "subcategory": "None"
+    },
+    "11_01a": {
+        "code": "11_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01a.gltf",
+        "subcategory": "None"
+    },
+    "11_0e2": {
+        "code": "11_0e2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e2.gltf",
+        "subcategory": "None"
+    },
+    "11_11e": {
+        "code": "11_11e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11e.gltf",
+        "subcategory": "None"
+    },
+    "11_11d": {
+        "code": "11_11d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11d.gltf",
+        "subcategory": "None"
+    },
+    "11_05a": {
+        "code": "11_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05a.gltf",
+        "subcategory": "None"
+    },
+    "11_0e3": {
+        "code": "11_0e3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e3.gltf",
+        "subcategory": "None"
+    },
+    "11_00f": {
+        "code": "11_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00f.gltf",
+        "subcategory": "None"
+    },
+    "11_0a2": {
+        "code": "11_0a2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a2.gltf",
+        "subcategory": "None"
+    },
+    "11_10b": {
+        "code": "11_10b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10b.gltf",
+        "subcategory": "None"
+    },
+    "11_109": {
+        "code": "11_109",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_109.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_109.gltf",
+        "subcategory": "None"
+    },
+    "11_0ce": {
+        "code": "11_0ce",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ce.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ce.gltf",
+        "subcategory": "None"
+    },
+    "11_037": {
+        "code": "11_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_037.gltf",
+        "subcategory": "None"
+    },
+    "11_08d": {
+        "code": "11_08d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08d.gltf",
+        "subcategory": "None"
+    },
+    "11_0fb": {
+        "code": "11_0fb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fb.gltf",
+        "subcategory": "None"
+    },
+    "11_125": {
+        "code": "11_125",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_125.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_125.gltf",
+        "subcategory": "None"
+    },
+    "11_0f9": {
+        "code": "11_0f9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f9.gltf",
+        "subcategory": "None"
+    },
+    "11_060": {
+        "code": "11_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_060.gltf",
+        "subcategory": "None"
+    },
+    "11_09b": {
+        "code": "11_09b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09b.gltf",
+        "subcategory": "None"
+    },
+    "11_099": {
+        "code": "11_099",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_099.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_099.gltf",
+        "subcategory": "None"
+    },
+    "11_076": {
+        "code": "11_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_076.gltf",
+        "subcategory": "None"
+    },
+    "11_0bc": {
+        "code": "11_0bc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bc.gltf",
+        "subcategory": "None"
+    },
+    "11_0b8": {
+        "code": "11_0b8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b8.gltf",
+        "subcategory": "None"
+    },
+    "11_021": {
+        "code": "11_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_021.gltf",
+        "subcategory": "None"
+    },
+    "11_056": {
+        "code": "11_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_056.gltf",
+        "subcategory": "None"
+    },
+    "11_113": {
+        "code": "11_113",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_113.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_113.gltf",
+        "subcategory": "None"
+    },
+    "11_0ed": {
+        "code": "11_0ed",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ed.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ed.gltf",
+        "subcategory": "None"
+    },
+    "11_001": {
+        "code": "11_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_001.gltf",
+        "subcategory": "None"
+    },
+    "11_017": {
+        "code": "11_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_017.gltf",
+        "subcategory": "None"
+    },
+    "11_105": {
+        "code": "11_105",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_105.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "front_frame",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "stretcher",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_105.gltf",
+        "subcategory": "None"
+    },
+    "11_0d9": {
+        "code": "11_0d9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bottom_frame",
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d9.gltf",
+        "subcategory": "None"
+    },
+    "11_0db": {
+        "code": "11_0db",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0db.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0db.gltf",
+        "subcategory": "None"
+    },
+    "11_0c2": {
+        "code": "11_0c2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c2.gltf",
+        "subcategory": "None"
+    },
+    "11_0f5": {
+        "code": "11_0f5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "support",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f5.gltf",
+        "subcategory": "None"
+    },
+    "11_083": {
+        "code": "11_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_083.gltf",
+        "subcategory": "None"
+    },
+    "11_095": {
+        "code": "11_095",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_095.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_095.gltf",
+        "subcategory": "None"
+    },
+    "11_07a": {
+        "code": "11_07a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07a.gltf",
+        "subcategory": "None"
+    },
+    "11_0b4": {
+        "code": "11_0b4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b4.gltf",
+        "subcategory": "None"
+    },
+    "11_02f": {
+        "code": "11_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02f.gltf",
+        "subcategory": "None"
+    },
+    "11_026": {
+        "code": "11_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "design",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_026.gltf",
+        "subcategory": "None"
+    },
+    "11_0bd": {
+        "code": "11_0bd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bd.gltf",
+        "subcategory": "None"
+    },
+    "11_071": {
+        "code": "11_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "front_frame",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_071.gltf",
+        "subcategory": "None"
+    },
+    "11_09e": {
+        "code": "11_09e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09e.gltf",
+        "subcategory": "None"
+    },
+    "11_122": {
+        "code": "11_122",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_122.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_122.gltf",
+        "subcategory": "None"
+    },
+    "11_067": {
+        "code": "11_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_067.gltf",
+        "subcategory": "None"
+    },
+    "11_08c": {
+        "code": "11_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08c.gltf",
+        "subcategory": "None"
+    },
+    "11_0fe": {
+        "code": "11_0fe",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fe.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fe.gltf",
+        "subcategory": "None"
+    },
+    "11_0c9": {
+        "code": "11_0c9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c9.gltf",
+        "subcategory": "None"
+    },
+    "11_030": {
+        "code": "11_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bottom_frame",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_030.gltf",
+        "subcategory": "None"
+    },
+    "11_0cb": {
+        "code": "11_0cb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cb.gltf",
+        "subcategory": "None"
+    },
+    "11_0d2": {
+        "code": "11_0d2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d2.gltf",
+        "subcategory": "None"
+    },
+    "11_10e": {
+        "code": "11_10e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10e.gltf",
+        "subcategory": "None"
+    },
+    "11_0a5": {
+        "code": "11_0a5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_top_panel",
+            "leg",
+            "top_frame",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a5.gltf",
+        "subcategory": "None"
+    },
+    "11_00a": {
+        "code": "11_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00a.gltf",
+        "subcategory": "None"
+    },
+    "11_118": {
+        "code": "11_118",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_118.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "top_connector",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_118.gltf",
+        "subcategory": "None"
+    },
+    "11_11c": {
+        "code": "11_11c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11c.gltf",
+        "subcategory": "None"
+    },
+    "11_05f": {
+        "code": "11_05f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05f.gltf",
+        "subcategory": "None"
+    },
+    "11_02a": {
+        "code": "11_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "pedestal",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02a.gltf",
+        "subcategory": "None"
+    },
+    "11_0b3": {
+        "code": "11_0b3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b3.gltf",
+        "subcategory": "None"
+    },
+    "11_07f": {
+        "code": "11_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07f.gltf",
+        "subcategory": "None"
+    },
+    "11_092": {
+        "code": "11_092",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_092.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_092.gltf",
+        "subcategory": "None"
+    },
+    "11_0f2": {
+        "code": "11_0f2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f2.gltf",
+        "subcategory": "None"
+    },
+    "11_0c5": {
+        "code": "11_0c5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c5.gltf",
+        "subcategory": "None"
+    },
+    "11_0de": {
+        "code": "11_0de",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0de.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0de.gltf",
+        "subcategory": "None"
+    },
+    "11_047": {
+        "code": "11_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_047.gltf",
+        "subcategory": "None"
+    },
+    "11_102": {
+        "code": "11_102",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_102.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_102.gltf",
+        "subcategory": "None"
+    },
+    "11_0ab": {
+        "code": "11_0ab",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ab.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ab.gltf",
+        "subcategory": "None"
+    },
+    "11_010": {
+        "code": "11_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "stretcher",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_010.gltf",
+        "subcategory": "None"
+    },
+    "11_0a9": {
+        "code": "11_0a9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a9.gltf",
+        "subcategory": "None"
+    },
+    "11_006": {
+        "code": "11_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_006.gltf",
+        "subcategory": "None"
+    },
+    "11_0ec": {
+        "code": "11_0ec",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ec.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ec.gltf",
+        "subcategory": "None"
+    },
+    "11_051": {
+        "code": "11_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_051.gltf",
+        "subcategory": "None"
+    },
+    "11_114": {
+        "code": "11_114",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_114.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_114.gltf",
+        "subcategory": "None"
+    },
+    "11_0e8": {
+        "code": "11_0e8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e8.gltf",
+        "subcategory": "None"
+    },
+    "11_050": {
+        "code": "11_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bottom_frame",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_050.gltf",
+        "subcategory": "None"
+    },
+    "11_0e9": {
+        "code": "11_0e9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e9.gltf",
+        "subcategory": "None"
+    },
+    "11_115": {
+        "code": "11_115",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_115.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_115.gltf",
+        "subcategory": "None"
+    },
+    "11_0eb": {
+        "code": "11_0eb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0eb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "design",
+            "door",
+            "foot",
+            "front_frame",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "support",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0eb.gltf",
+        "subcategory": "None"
+    },
+    "11_007": {
+        "code": "11_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_007.gltf",
+        "subcategory": "None"
+    },
+    "11_011": {
+        "code": "11_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_011.gltf",
+        "subcategory": "None"
+    },
+    "11_0a8": {
+        "code": "11_0a8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a8.gltf",
+        "subcategory": "None"
+    },
+    "11_0ac": {
+        "code": "11_0ac",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ac.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "stretcher",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ac.gltf",
+        "subcategory": "None"
+    },
+    "11_103": {
+        "code": "11_103",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_103.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_103.gltf",
+        "subcategory": "None"
+    },
+    "11_0dd": {
+        "code": "11_0dd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0dd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0dd.gltf",
+        "subcategory": "None"
+    },
+    "11_03f": {
+        "code": "11_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "stretcher",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03f.gltf",
+        "subcategory": "None"
+    },
+    "11_0f3": {
+        "code": "11_0f3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f3.gltf",
+        "subcategory": "None"
+    },
+    "11_085": {
+        "code": "11_085",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_085.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_085.gltf",
+        "subcategory": "None"
+    },
+    "11_06a": {
+        "code": "11_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06a.gltf",
+        "subcategory": "None"
+    },
+    "11_093": {
+        "code": "11_093",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_093.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_093.gltf",
+        "subcategory": "None"
+    },
+    "11_0b2": {
+        "code": "11_0b2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b2.gltf",
+        "subcategory": "None"
+    },
+    "11_11b": {
+        "code": "11_11b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11b.gltf",
+        "subcategory": "None"
+    },
+    "11_119": {
+        "code": "11_119",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_119.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_119.gltf",
+        "subcategory": "None"
+    },
+    "11_0e5": {
+        "code": "11_0e5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e5.gltf",
+        "subcategory": "None"
+    },
+    "11_01f": {
+        "code": "11_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01f.gltf",
+        "subcategory": "None"
+    },
+    "11_0a4": {
+        "code": "11_0a4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a4.gltf",
+        "subcategory": "None"
+    },
+    "11_10d": {
+        "code": "11_10d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10d.gltf",
+        "subcategory": "None"
+    },
+    "11_04a": {
+        "code": "11_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04a.gltf",
+        "subcategory": "None"
+    },
+    "11_0d3": {
+        "code": "11_0d3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d3.gltf",
+        "subcategory": "None"
+    },
+    "11_0cc": {
+        "code": "11_0cc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cc.gltf",
+        "subcategory": "None"
+    },
+    "11_0c8": {
+        "code": "11_0c8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c8.gltf",
+        "subcategory": "None"
+    },
+    "11_031": {
+        "code": "11_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_031.gltf",
+        "subcategory": "None"
+    },
+    "11_08b": {
+        "code": "11_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bottom_frame",
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08b.gltf",
+        "subcategory": "None"
+    },
+    "11_0fd": {
+        "code": "11_0fd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fd.gltf",
+        "subcategory": "None"
+    },
+    "11_089": {
+        "code": "11_089",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_089.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_089.gltf",
+        "subcategory": "None"
+    },
+    "11_123": {
+        "code": "11_123",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_123.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "shelf",
+            "support",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_123.gltf",
+        "subcategory": "None"
+    },
+    "11_070": {
+        "code": "11_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_070.gltf",
+        "subcategory": "None"
+    },
+    "11_0be": {
+        "code": "11_0be",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0be.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0be.gltf",
+        "subcategory": "None"
+    },
+    "11_027": {
+        "code": "11_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_027.gltf",
+        "subcategory": "None"
+    },
+    "11_05d": {
+        "code": "11_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05d.gltf",
+        "subcategory": "None"
+    },
+    "11_11a": {
+        "code": "11_11a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11a.gltf",
+        "subcategory": "None"
+    },
+    "11_0e6": {
+        "code": "11_0e6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e6.gltf",
+        "subcategory": "None"
+    },
+    "11_00c": {
+        "code": "11_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00c.gltf",
+        "subcategory": "None"
+    },
+    "11_008": {
+        "code": "11_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_008.gltf",
+        "subcategory": "None"
+    },
+    "11_01e": {
+        "code": "11_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "stretcher",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01e.gltf",
+        "subcategory": "None"
+    },
+    "11_0a7": {
+        "code": "11_0a7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a7.gltf",
+        "subcategory": "None"
+    },
+    "11_04b": {
+        "code": "11_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04b.gltf",
+        "subcategory": "None"
+    },
+    "11_0d0": {
+        "code": "11_0d0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bottom_frame",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "shelf",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d0.gltf",
+        "subcategory": "None"
+    },
+    "11_049": {
+        "code": "11_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_049.gltf",
+        "subcategory": "None"
+    },
+    "11_032": {
+        "code": "11_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_032.gltf",
+        "subcategory": "None"
+    },
+    "11_08a": {
+        "code": "11_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "design",
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08a.gltf",
+        "subcategory": "None"
+    },
+    "11_065": {
+        "code": "11_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_065.gltf",
+        "subcategory": "None"
+    },
+    "11_073": {
+        "code": "11_073",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_073.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_073.gltf",
+        "subcategory": "None"
+    },
+    "11_0bf": {
+        "code": "11_0bf",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bf.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0bf.gltf",
+        "subcategory": "None"
+    },
+    "11_024": {
+        "code": "11_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_024.gltf",
+        "subcategory": "None"
+    },
+    "11_116": {
+        "code": "11_116",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_116.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_116.gltf",
+        "subcategory": "None"
+    },
+    "11_053": {
+        "code": "11_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_053.gltf",
+        "subcategory": "None"
+    },
+    "11_0ea": {
+        "code": "11_0ea",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ea.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ea.gltf",
+        "subcategory": "None"
+    },
+    "11_004": {
+        "code": "11_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_004.gltf",
+        "subcategory": "None"
+    },
+    "11_012": {
+        "code": "11_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_012.gltf",
+        "subcategory": "None"
+    },
+    "11_100": {
+        "code": "11_100",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_100.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_100.gltf",
+        "subcategory": "None"
+    },
+    "11_045": {
+        "code": "11_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_045.gltf",
+        "subcategory": "None"
+    },
+    "11_0c7": {
+        "code": "11_0c7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c7.gltf",
+        "subcategory": "None"
+    },
+    "11_0f0": {
+        "code": "11_0f0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f0.gltf",
+        "subcategory": "None"
+    },
+    "11_086": {
+        "code": "11_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_086.gltf",
+        "subcategory": "None"
+    },
+    "11_06b": {
+        "code": "11_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06b.gltf",
+        "subcategory": "None"
+    },
+    "11_090": {
+        "code": "11_090",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_090.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_090.gltf",
+        "subcategory": "None"
+    },
+    "11_07d": {
+        "code": "11_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "front_frame",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07d.gltf",
+        "subcategory": "None"
+    },
+    "11_028": {
+        "code": "11_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_028.gltf",
+        "subcategory": "None"
+    },
+    "11_02c": {
+        "code": "11_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02c.gltf",
+        "subcategory": "None"
+    },
+    "11_02b": {
+        "code": "11_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02b.gltf",
+        "subcategory": "None"
+    },
+    "11_029": {
+        "code": "11_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_029.gltf",
+        "subcategory": "None"
+    },
+    "11_07e": {
+        "code": "11_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07e.gltf",
+        "subcategory": "None"
+    },
+    "11_091": {
+        "code": "11_091",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_091.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_091.gltf",
+        "subcategory": "None"
+    },
+    "11_06c": {
+        "code": "11_06c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06c.gltf",
+        "subcategory": "None"
+    },
+    "11_068": {
+        "code": "11_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_068.gltf",
+        "subcategory": "None"
+    },
+    "11_0f1": {
+        "code": "11_0f1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f1.gltf",
+        "subcategory": "None"
+    },
+    "11_087": {
+        "code": "11_087",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_087.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_087.gltf",
+        "subcategory": "None"
+    },
+    "11_03d": {
+        "code": "11_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03d.gltf",
+        "subcategory": "None"
+    },
+    "11_0c6": {
+        "code": "11_0c6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c6.gltf",
+        "subcategory": "None"
+    },
+    "11_0df": {
+        "code": "11_0df",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0df.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0df.gltf",
+        "subcategory": "None"
+    },
+    "11_101": {
+        "code": "11_101",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_101.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_101.gltf",
+        "subcategory": "None"
+    },
+    "11_0aa": {
+        "code": "11_0aa",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0aa.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0aa.gltf",
+        "subcategory": "None"
+    },
+    "11_013": {
+        "code": "11_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_013.gltf",
+        "subcategory": "None"
+    },
+    "11_005": {
+        "code": "11_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_005.gltf",
+        "subcategory": "None"
+    },
+    "11_117": {
+        "code": "11_117",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_117.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "front_frame",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "top_connector",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_117.gltf",
+        "subcategory": "None"
+    },
+    "11_052": {
+        "code": "11_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_052.gltf",
+        "subcategory": "None"
+    },
+    "11_025": {
+        "code": "11_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "front_frame",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_025.gltf",
+        "subcategory": "None"
+    },
+    "11_072": {
+        "code": "11_072",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_072.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_072.gltf",
+        "subcategory": "None"
+    },
+    "11_064": {
+        "code": "11_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_064.gltf",
+        "subcategory": "None"
+    },
+    "11_121": {
+        "code": "11_121",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_121.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_121.gltf",
+        "subcategory": "None"
+    },
+    "11_0ff": {
+        "code": "11_0ff",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ff.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ff.gltf",
+        "subcategory": "None"
+    },
+    "11_033": {
+        "code": "11_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_033.gltf",
+        "subcategory": "None"
+    },
+    "11_0ca": {
+        "code": "11_0ca",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ca.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ca.gltf",
+        "subcategory": "None"
+    },
+    "11_0d1": {
+        "code": "11_0d1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d1.gltf",
+        "subcategory": "None"
+    },
+    "11_048": {
+        "code": "11_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_048.gltf",
+        "subcategory": "None"
+    },
+    "11_04c": {
+        "code": "11_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04c.gltf",
+        "subcategory": "None"
+    },
+    "11_10f": {
+        "code": "11_10f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "front_frame",
+            "horizontal_top_panel",
+            "leg",
+            "mirror"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10f.gltf",
+        "subcategory": "None"
+    },
+    "11_01d": {
+        "code": "11_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "support_bar",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01d.gltf",
+        "subcategory": "None"
+    },
+    "11_009": {
+        "code": "11_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_009.gltf",
+        "subcategory": "None"
+    },
+    "11_00b": {
+        "code": "11_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00b.gltf",
+        "subcategory": "None"
+    },
+    "11_0e7": {
+        "code": "11_0e7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e7.gltf",
+        "subcategory": "None"
+    },
+    "11_05e": {
+        "code": "11_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05e.gltf",
+        "subcategory": "None"
+    },
+    "11_110": {
+        "code": "11_110",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_110.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_110.gltf",
+        "subcategory": "None"
+    },
+    "11_055": {
+        "code": "11_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bottom_frame",
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_055.gltf",
+        "subcategory": "None"
+    },
+    "11_014": {
+        "code": "11_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_014.gltf",
+        "subcategory": "None"
+    },
+    "11_0af": {
+        "code": "11_0af",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0af.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "design",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0af.gltf",
+        "subcategory": "None"
+    },
+    "11_0da": {
+        "code": "11_0da",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0da.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0da.gltf",
+        "subcategory": "None"
+    },
+    "11_038": {
+        "code": "11_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_038.gltf",
+        "subcategory": "None"
+    },
+    "11_0c1": {
+        "code": "11_0c1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0c1.gltf",
+        "subcategory": "None"
+    },
+    "11_03c": {
+        "code": "11_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03c.gltf",
+        "subcategory": "None"
+    },
+    "11_0f6": {
+        "code": "11_0f6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f6.gltf",
+        "subcategory": "None"
+    },
+    "11_080": {
+        "code": "11_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_080.gltf",
+        "subcategory": "None"
+    },
+    "11_06d": {
+        "code": "11_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06d.gltf",
+        "subcategory": "None"
+    },
+    "11_079": {
+        "code": "11_079",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_079.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "pedestal",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_079.gltf",
+        "subcategory": "None"
+    },
+    "11_096": {
+        "code": "11_096",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_096.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_096.gltf",
+        "subcategory": "None"
+    },
+    "11_07b": {
+        "code": "11_07b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "design",
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07b.gltf",
+        "subcategory": "None"
+    },
+    "11_0b7": {
+        "code": "11_0b7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b7.gltf",
+        "subcategory": "None"
+    },
+    "11_02e": {
+        "code": "11_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_top_panel",
+            "pedestal",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02e.gltf",
+        "subcategory": "None"
+    },
+    "11_05b": {
+        "code": "11_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05b.gltf",
+        "subcategory": "None"
+    },
+    "11_0e0": {
+        "code": "11_0e0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e0.gltf",
+        "subcategory": "None"
+    },
+    "11_00e": {
+        "code": "11_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00e.gltf",
+        "subcategory": "None"
+    },
+    "11_0a1": {
+        "code": "11_0a1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "stretcher",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a1.gltf",
+        "subcategory": "None"
+    },
+    "11_018": {
+        "code": "11_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_018.gltf",
+        "subcategory": "None"
+    },
+    "11_04d": {
+        "code": "11_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04d.gltf",
+        "subcategory": "None"
+    },
+    "11_10a": {
+        "code": "11_10a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_10a.gltf",
+        "subcategory": "None"
+    },
+    "11_0d6": {
+        "code": "11_0d6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d6.gltf",
+        "subcategory": "None"
+    },
+    "11_0cf": {
+        "code": "11_0cf",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cf.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0cf.gltf",
+        "subcategory": "None"
+    },
+    "11_034": {
+        "code": "11_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_034.gltf",
+        "subcategory": "None"
+    },
+    "11_0fa": {
+        "code": "11_0fa",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fa.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "front_frame",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0fa.gltf",
+        "subcategory": "None"
+    },
+    "11_063": {
+        "code": "11_063",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_063.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_063.gltf",
+        "subcategory": "None"
+    },
+    "11_09a": {
+        "code": "11_09a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_09a.gltf",
+        "subcategory": "None"
+    },
+    "11_075": {
+        "code": "11_075",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_075.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_075.gltf",
+        "subcategory": "None"
+    },
+    "11_022": {
+        "code": "11_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_022.gltf",
+        "subcategory": "None"
+    },
+    "11_023": {
+        "code": "11_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_023.gltf",
+        "subcategory": "None"
+    },
+    "11_0ba": {
+        "code": "11_0ba",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ba.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ba.gltf",
+        "subcategory": "None"
+    },
+    "11_074": {
+        "code": "11_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "design",
+            "door",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_074.gltf",
+        "subcategory": "None"
+    },
+    "11_08f": {
+        "code": "11_08f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_08f.gltf",
+        "subcategory": "None"
+    },
+    "11_035": {
+        "code": "11_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_035.gltf",
+        "subcategory": "None"
+    },
+    "11_0d7": {
+        "code": "11_0d7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0d7.gltf",
+        "subcategory": "None"
+    },
+    "11_04e": {
+        "code": "11_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_04e.gltf",
+        "subcategory": "None"
+    },
+    "11_0a0": {
+        "code": "11_0a0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0a0.gltf",
+        "subcategory": "None"
+    },
+    "11_019": {
+        "code": "11_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_019.gltf",
+        "subcategory": "None"
+    },
+    "11_01b": {
+        "code": "11_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "glass_panel",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_01b.gltf",
+        "subcategory": "None"
+    },
+    "11_00d": {
+        "code": "11_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_00d.gltf",
+        "subcategory": "None"
+    },
+    "11_0e1": {
+        "code": "11_0e1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0e1.gltf",
+        "subcategory": "None"
+    },
+    "11_058": {
+        "code": "11_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_058.gltf",
+        "subcategory": "None"
+    },
+    "11_05c": {
+        "code": "11_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_05c.gltf",
+        "subcategory": "None"
+    },
+    "11_11f": {
+        "code": "11_11f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_11f.gltf",
+        "subcategory": "None"
+    },
+    "11_02d": {
+        "code": "11_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "design",
+            "drawer",
+            "foot",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_divider_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_02d.gltf",
+        "subcategory": "None"
+    },
+    "11_0b6": {
+        "code": "11_0b6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0b6.gltf",
+        "subcategory": "None"
+    },
+    "11_07c": {
+        "code": "11_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_07c.gltf",
+        "subcategory": "None"
+    },
+    "11_097": {
+        "code": "11_097",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_097.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_097.gltf",
+        "subcategory": "None"
+    },
+    "11_06e": {
+        "code": "11_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_06e.gltf",
+        "subcategory": "None"
+    },
+    "11_0f7": {
+        "code": "11_0f7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "front_frame",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "mirror",
+            "shelf",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0f7.gltf",
+        "subcategory": "None"
+    },
+    "11_081": {
+        "code": "11_081",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_081.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_081.gltf",
+        "subcategory": "None"
+    },
+    "11_03b": {
+        "code": "11_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_03b.gltf",
+        "subcategory": "None"
+    },
+    "11_039": {
+        "code": "11_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_039.gltf",
+        "subcategory": "None"
+    },
+    "11_042": {
+        "code": "11_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_042.gltf",
+        "subcategory": "None"
+    },
+    "11_015": {
+        "code": "11_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_015.gltf",
+        "subcategory": "None"
+    },
+    "11_003": {
+        "code": "11_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "front_frame",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "mirror",
+            "support",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_003.gltf",
+        "subcategory": "None"
+    },
+    "11_0ef": {
+        "code": "11_0ef",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ef.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_0ef.gltf",
+        "subcategory": "None"
+    },
+    "11_111": {
+        "code": "11_111",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_111.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "drawer",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "top_connector",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_111.gltf",
+        "subcategory": "None"
+    },
+    "11_054": {
+        "code": "11_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "drawer",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "leg",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/11_054.gltf",
+        "subcategory": "None"
+    }
+}

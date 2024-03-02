@@ -1,0 +1,568 @@
+{
+    "10_016": {
+        "code": "10_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_016.gltf",
+        "subcategory": "None"
+    },
+    "10_000": {
+        "code": "10_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_000.gltf",
+        "subcategory": "None"
+    },
+    "10_020": {
+        "code": "10_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_020.gltf",
+        "subcategory": "None"
+    },
+    "10_01a": {
+        "code": "10_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01a.gltf",
+        "subcategory": "None"
+    },
+    "10_00f": {
+        "code": "10_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00f.gltf",
+        "subcategory": "None"
+    },
+    "10_017": {
+        "code": "10_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_017.gltf",
+        "subcategory": "None"
+    },
+    "10_026": {
+        "code": "10_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_026.gltf",
+        "subcategory": "None"
+    },
+    "10_00a": {
+        "code": "10_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00a.gltf",
+        "subcategory": "None"
+    },
+    "10_006": {
+        "code": "10_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_006.gltf",
+        "subcategory": "None"
+    },
+    "10_007": {
+        "code": "10_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_007.gltf",
+        "subcategory": "None"
+    },
+    "10_011": {
+        "code": "10_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_011.gltf",
+        "subcategory": "None"
+    },
+    "10_01f": {
+        "code": "10_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01f.gltf",
+        "subcategory": "None"
+    },
+    "10_027": {
+        "code": "10_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_027.gltf",
+        "subcategory": "None"
+    },
+    "10_00c": {
+        "code": "10_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00c.gltf",
+        "subcategory": "None"
+    },
+    "10_008": {
+        "code": "10_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_008.gltf",
+        "subcategory": "None"
+    },
+    "10_01e": {
+        "code": "10_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01e.gltf",
+        "subcategory": "None"
+    },
+    "10_024": {
+        "code": "10_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_024.gltf",
+        "subcategory": "None"
+    },
+    "10_028": {
+        "code": "10_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_028.gltf",
+        "subcategory": "None"
+    },
+    "10_013": {
+        "code": "10_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_013.gltf",
+        "subcategory": "None"
+    },
+    "10_005": {
+        "code": "10_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_005.gltf",
+        "subcategory": "None"
+    },
+    "10_025": {
+        "code": "10_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_025.gltf",
+        "subcategory": "None"
+    },
+    "10_01d": {
+        "code": "10_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01d.gltf",
+        "subcategory": "None"
+    },
+    "10_009": {
+        "code": "10_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_009.gltf",
+        "subcategory": "None"
+    },
+    "10_014": {
+        "code": "10_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_014.gltf",
+        "subcategory": "None"
+    },
+    "10_00e": {
+        "code": "10_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00e.gltf",
+        "subcategory": "None"
+    },
+    "10_01c": {
+        "code": "10_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01c.gltf",
+        "subcategory": "None"
+    },
+    "10_018": {
+        "code": "10_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_018.gltf",
+        "subcategory": "None"
+    },
+    "10_022": {
+        "code": "10_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_022.gltf",
+        "subcategory": "None"
+    },
+    "10_023": {
+        "code": "10_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_023.gltf",
+        "subcategory": "None"
+    },
+    "10_019": {
+        "code": "10_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_019.gltf",
+        "subcategory": "None"
+    },
+    "10_01b": {
+        "code": "10_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_01b.gltf",
+        "subcategory": "None"
+    },
+    "10_00d": {
+        "code": "10_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_00d.gltf",
+        "subcategory": "None"
+    },
+    "10_015": {
+        "code": "10_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_015.gltf",
+        "subcategory": "None"
+    },
+    "10_003": {
+        "code": "10_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "dishwasher_button",
+            "door",
+            "handle",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/10_003.gltf",
+        "subcategory": "None"
+    }
+}

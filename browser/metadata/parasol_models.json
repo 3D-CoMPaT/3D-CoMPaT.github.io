@@ -1,0 +1,1059 @@
+{
+    "1b_03f": {
+        "code": "1b_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03f.gltf",
+        "subcategory": "None"
+    },
+    "1b_007": {
+        "code": "1b_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_007.gltf",
+        "subcategory": "None"
+    },
+    "1b_031": {
+        "code": "1b_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_031.gltf",
+        "subcategory": "None"
+    },
+    "1b_027": {
+        "code": "1b_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_tie_wrap",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_027.gltf",
+        "subcategory": "None"
+    },
+    "1b_04a": {
+        "code": "1b_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04a.gltf",
+        "subcategory": "None"
+    },
+    "1b_00a": {
+        "code": "1b_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00a.gltf",
+        "subcategory": "None"
+    },
+    "1b_026": {
+        "code": "1b_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_026.gltf",
+        "subcategory": "None"
+    },
+    "1b_030": {
+        "code": "1b_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_030.gltf",
+        "subcategory": "None"
+    },
+    "1b_010": {
+        "code": "1b_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_010.gltf",
+        "subcategory": "None"
+    },
+    "1b_051": {
+        "code": "1b_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_051.gltf",
+        "subcategory": "None"
+    },
+    "1b_02a": {
+        "code": "1b_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02a.gltf",
+        "subcategory": "None"
+    },
+    "1b_021": {
+        "code": "1b_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_021.gltf",
+        "subcategory": "None"
+    },
+    "1b_00f": {
+        "code": "1b_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00f.gltf",
+        "subcategory": "None"
+    },
+    "1b_02f": {
+        "code": "1b_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02f.gltf",
+        "subcategory": "None"
+    },
+    "1b_040": {
+        "code": "1b_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_040.gltf",
+        "subcategory": "None"
+    },
+    "1b_017": {
+        "code": "1b_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_017.gltf",
+        "subcategory": "None"
+    },
+    "1b_016": {
+        "code": "1b_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_016.gltf",
+        "subcategory": "None"
+    },
+    "1b_041": {
+        "code": "1b_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_041.gltf",
+        "subcategory": "None"
+    },
+    "1b_000": {
+        "code": "1b_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_tie_wrap",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_000.gltf",
+        "subcategory": "None"
+    },
+    "1b_03a": {
+        "code": "1b_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "pedestal",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03a.gltf",
+        "subcategory": "None"
+    },
+    "1b_01a": {
+        "code": "1b_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01a.gltf",
+        "subcategory": "None"
+    },
+    "1b_04f": {
+        "code": "1b_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "handle",
+            "parasol_canopy",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04f.gltf",
+        "subcategory": "None"
+    },
+    "1b_020": {
+        "code": "1b_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_020.gltf",
+        "subcategory": "None"
+    },
+    "1b_036": {
+        "code": "1b_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_036.gltf",
+        "subcategory": "None"
+    },
+    "1b_019": {
+        "code": "1b_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_tie_wrap",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_019.gltf",
+        "subcategory": "None"
+    },
+    "1b_01b": {
+        "code": "1b_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01b.gltf",
+        "subcategory": "None"
+    },
+    "1b_04e": {
+        "code": "1b_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04e.gltf",
+        "subcategory": "None"
+    },
+    "1b_00d": {
+        "code": "1b_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00d.gltf",
+        "subcategory": "None"
+    },
+    "1b_023": {
+        "code": "1b_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_023.gltf",
+        "subcategory": "None"
+    },
+    "1b_035": {
+        "code": "1b_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_035.gltf",
+        "subcategory": "None"
+    },
+    "1b_015": {
+        "code": "1b_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_015.gltf",
+        "subcategory": "None"
+    },
+    "1b_003": {
+        "code": "1b_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_003.gltf",
+        "subcategory": "None"
+    },
+    "1b_02d": {
+        "code": "1b_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_tie_wrap",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02d.gltf",
+        "subcategory": "None"
+    },
+    "1b_03b": {
+        "code": "1b_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03b.gltf",
+        "subcategory": "None"
+    },
+    "1b_039": {
+        "code": "1b_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_039.gltf",
+        "subcategory": "None"
+    },
+    "1b_038": {
+        "code": "1b_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_038.gltf",
+        "subcategory": "None"
+    },
+    "1b_02e": {
+        "code": "1b_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02e.gltf",
+        "subcategory": "None"
+    },
+    "1b_043": {
+        "code": "1b_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_043.gltf",
+        "subcategory": "None"
+    },
+    "1b_014": {
+        "code": "1b_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_014.gltf",
+        "subcategory": "None"
+    },
+    "1b_034": {
+        "code": "1b_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_034.gltf",
+        "subcategory": "None"
+    },
+    "1b_022": {
+        "code": "1b_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_022.gltf",
+        "subcategory": "None"
+    },
+    "1b_00e": {
+        "code": "1b_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00e.gltf",
+        "subcategory": "None"
+    },
+    "1b_04d": {
+        "code": "1b_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04d.gltf",
+        "subcategory": "None"
+    },
+    "1b_01c": {
+        "code": "1b_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01c.gltf",
+        "subcategory": "None"
+    },
+    "1b_018": {
+        "code": "1b_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_018.gltf",
+        "subcategory": "None"
+    },
+    "1b_044": {
+        "code": "1b_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_044.gltf",
+        "subcategory": "None"
+    },
+    "1b_052": {
+        "code": "1b_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_052.gltf",
+        "subcategory": "None"
+    },
+    "1b_005": {
+        "code": "1b_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_005.gltf",
+        "subcategory": "None"
+    },
+    "1b_02b": {
+        "code": "1b_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02b.gltf",
+        "subcategory": "None"
+    },
+    "1b_029": {
+        "code": "1b_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_029.gltf",
+        "subcategory": "None"
+    },
+    "1b_03d": {
+        "code": "1b_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_tie_wrap",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03d.gltf",
+        "subcategory": "None"
+    },
+    "1b_01d": {
+        "code": "1b_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01d.gltf",
+        "subcategory": "None"
+    },
+    "1b_048": {
+        "code": "1b_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_048.gltf",
+        "subcategory": "None"
+    },
+    "1b_009": {
+        "code": "1b_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_009.gltf",
+        "subcategory": "None"
+    },
+    "1b_00b": {
+        "code": "1b_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_00b.gltf",
+        "subcategory": "None"
+    },
+    "1b_033": {
+        "code": "1b_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_033.gltf",
+        "subcategory": "None"
+    },
+    "1b_032": {
+        "code": "1b_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_032.gltf",
+        "subcategory": "None"
+    },
+    "1b_024": {
+        "code": "1b_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_024.gltf",
+        "subcategory": "None"
+    },
+    "1b_008": {
+        "code": "1b_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_008.gltf",
+        "subcategory": "None"
+    },
+    "1b_04b": {
+        "code": "1b_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_04b.gltf",
+        "subcategory": "None"
+    },
+    "1b_049": {
+        "code": "1b_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_049.gltf",
+        "subcategory": "None"
+    },
+    "1b_01e": {
+        "code": "1b_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_01e.gltf",
+        "subcategory": "None"
+    },
+    "1b_03e": {
+        "code": "1b_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_button",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_03e.gltf",
+        "subcategory": "None"
+    },
+    "1b_028": {
+        "code": "1b_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "parasol_canopy",
+            "parasol_lock",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_028.gltf",
+        "subcategory": "None"
+    },
+    "1b_02c": {
+        "code": "1b_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_02c.gltf",
+        "subcategory": "None"
+    },
+    "1b_053": {
+        "code": "1b_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pedestal",
+            "pole",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_053.gltf",
+        "subcategory": "None"
+    },
+    "1b_045": {
+        "code": "1b_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "pedestal",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_045.gltf",
+        "subcategory": "None"
+    },
+    "1b_012": {
+        "code": "1b_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "handle",
+            "parasol_canopy",
+            "parasol_long_rib",
+            "parasol_runner",
+            "parasol_short_rib",
+            "pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1b_012.gltf",
+        "subcategory": "None"
+    }
+}

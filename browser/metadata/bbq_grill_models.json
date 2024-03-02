@@ -1,0 +1,259 @@
+{
+    "03_003": {
+        "code": "03_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "handle",
+            "leg",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_003.gltf",
+        "subcategory": "None"
+    },
+    "03_00d": {
+        "code": "03_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_control_knob",
+            "bbq_cooking_grate",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00d.gltf",
+        "subcategory": "None"
+    },
+    "03_018": {
+        "code": "03_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "leg",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_018.gltf",
+        "subcategory": "None"
+    },
+    "03_00e": {
+        "code": "03_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "handle",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00e.gltf",
+        "subcategory": "None"
+    },
+    "03_014": {
+        "code": "03_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_control_knob",
+            "bbq_cooking_grate",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_014.gltf",
+        "subcategory": "None"
+    },
+    "03_00b": {
+        "code": "03_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "handle",
+            "horizontal_bottom_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00b.gltf",
+        "subcategory": "None"
+    },
+    "03_009": {
+        "code": "03_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_control_knob",
+            "bbq_cooking_grate",
+            "horizontal_bottom_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_009.gltf",
+        "subcategory": "None"
+    },
+    "03_013": {
+        "code": "03_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_013.gltf",
+        "subcategory": "None"
+    },
+    "03_004": {
+        "code": "03_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_004.gltf",
+        "subcategory": "None"
+    },
+    "03_00c": {
+        "code": "03_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_control_knob",
+            "bbq_cooking_grate",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00c.gltf",
+        "subcategory": "None"
+    },
+    "03_011": {
+        "code": "03_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "handle",
+            "leg",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_011.gltf",
+        "subcategory": "None"
+    },
+    "03_006": {
+        "code": "03_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "foot",
+            "handle",
+            "horizontal_bottom_panel",
+            "leg",
+            "shelf",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_006.gltf",
+        "subcategory": "None"
+    },
+    "03_010": {
+        "code": "03_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "horizontal_bottom_panel",
+            "pedestal",
+            "top_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_010.gltf",
+        "subcategory": "None"
+    },
+    "03_017": {
+        "code": "03_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_control_knob",
+            "bbq_cooking_grate",
+            "horizontal_bottom_panel",
+            "leg",
+            "stretcher",
+            "support",
+            "top_connector",
+            "top_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_017.gltf",
+        "subcategory": "None"
+    },
+    "03_001": {
+        "code": "03_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "handle",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_001.gltf",
+        "subcategory": "None"
+    },
+    "03_00f": {
+        "code": "03_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_00f.gltf",
+        "subcategory": "None"
+    },
+    "03_000": {
+        "code": "03_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "leg",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_000.gltf",
+        "subcategory": "None"
+    },
+    "03_016": {
+        "code": "03_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bbq_cooking_grate",
+            "handle",
+            "horizontal_bottom_panel",
+            "top_frame",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/03_016.gltf",
+        "subcategory": "None"
+    }
+}

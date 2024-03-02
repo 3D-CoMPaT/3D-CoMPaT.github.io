@@ -1,0 +1,771 @@
+{
+    "08_023": {
+        "code": "08_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "boat_body",
+            "boat_helm",
+            "boat_mast",
+            "boat_motor_propeller",
+            "boat_sail",
+            "boat_throttle_lever",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_023.gltf",
+        "subcategory": "None"
+    },
+    "08_035": {
+        "code": "08_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_035.gltf",
+        "subcategory": "None"
+    },
+    "08_019": {
+        "code": "08_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_019.gltf",
+        "subcategory": "None"
+    },
+    "08_00d": {
+        "code": "08_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00d.gltf",
+        "subcategory": "None"
+    },
+    "08_02d": {
+        "code": "08_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02d.gltf",
+        "subcategory": "None"
+    },
+    "08_03b": {
+        "code": "08_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_motor",
+            "boat_motor_propeller",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03b.gltf",
+        "subcategory": "None"
+    },
+    "08_015": {
+        "code": "08_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_015.gltf",
+        "subcategory": "None"
+    },
+    "08_042": {
+        "code": "08_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_motor",
+            "boat_motor_propeller",
+            "boat_side_cable",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_042.gltf",
+        "subcategory": "None"
+    },
+    "08_043": {
+        "code": "08_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_043.gltf",
+        "subcategory": "None"
+    },
+    "08_014": {
+        "code": "08_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "boat_body",
+            "boat_frame",
+            "boat_paddle",
+            "boat_side_cable",
+            "boat_side_cable_connector",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_014.gltf",
+        "subcategory": "None"
+    },
+    "08_038": {
+        "code": "08_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_038.gltf",
+        "subcategory": "None"
+    },
+    "08_03c": {
+        "code": "08_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "boat_paddle_holder",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03c.gltf",
+        "subcategory": "None"
+    },
+    "08_00e": {
+        "code": "08_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00e.gltf",
+        "subcategory": "None"
+    },
+    "08_01c": {
+        "code": "08_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01c.gltf",
+        "subcategory": "None"
+    },
+    "08_018": {
+        "code": "08_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_018.gltf",
+        "subcategory": "None"
+    },
+    "08_034": {
+        "code": "08_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_mast"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_034.gltf",
+        "subcategory": "None"
+    },
+    "08_022": {
+        "code": "08_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_keel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_022.gltf",
+        "subcategory": "None"
+    },
+    "08_02b": {
+        "code": "08_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_helm",
+            "boat_helm_connector",
+            "boat_motor",
+            "boat_window",
+            "boat_windshield"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02b.gltf",
+        "subcategory": "None"
+    },
+    "08_029": {
+        "code": "08_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_029.gltf",
+        "subcategory": "None"
+    },
+    "08_03d": {
+        "code": "08_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "boat_paddle_holder",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03d.gltf",
+        "subcategory": "None"
+    },
+    "08_044": {
+        "code": "08_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "handle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_044.gltf",
+        "subcategory": "None"
+    },
+    "08_005": {
+        "code": "08_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_anchor",
+            "boat_body",
+            "boat_frame",
+            "boat_ladder",
+            "boat_mast",
+            "boat_motor",
+            "boat_motor_propeller",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_005.gltf",
+        "subcategory": "None"
+    },
+    "08_025": {
+        "code": "08_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_025.gltf",
+        "subcategory": "None"
+    },
+    "08_01d": {
+        "code": "08_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "boat_paddle",
+            "boat_paddle_holder",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01d.gltf",
+        "subcategory": "None"
+    },
+    "08_009": {
+        "code": "08_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_009.gltf",
+        "subcategory": "None"
+    },
+    "08_00b": {
+        "code": "08_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "boat_paddle_holder",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00b.gltf",
+        "subcategory": "None"
+    },
+    "08_00c": {
+        "code": "08_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_keel",
+            "boat_mast",
+            "boat_sail"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00c.gltf",
+        "subcategory": "None"
+    },
+    "08_008": {
+        "code": "08_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_helm",
+            "boat_helm_connector",
+            "boat_mast",
+            "boat_sail"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_008.gltf",
+        "subcategory": "None"
+    },
+    "08_01e": {
+        "code": "08_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "boat_body",
+            "boat_dashboard",
+            "boat_frame",
+            "boat_helm",
+            "boat_helm_connector",
+            "boat_motor",
+            "boat_motor_propeller",
+            "boat_window",
+            "boat_windshield",
+            "handle",
+            "headrest",
+            "pedestal",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01e.gltf",
+        "subcategory": "None"
+    },
+    "08_024": {
+        "code": "08_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_mast",
+            "pedestal",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_024.gltf",
+        "subcategory": "None"
+    },
+    "08_004": {
+        "code": "08_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_004.gltf",
+        "subcategory": "None"
+    },
+    "08_012": {
+        "code": "08_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_012.gltf",
+        "subcategory": "None"
+    },
+    "08_03e": {
+        "code": "08_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03e.gltf",
+        "subcategory": "None"
+    },
+    "08_028": {
+        "code": "08_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "boat_mast",
+            "boat_sail",
+            "boat_side_cable",
+            "boat_window"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_028.gltf",
+        "subcategory": "None"
+    },
+    "08_02c": {
+        "code": "08_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02c.gltf",
+        "subcategory": "None"
+    },
+    "08_011": {
+        "code": "08_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "boat_body",
+            "boat_dashboard",
+            "boat_frame",
+            "boat_helm",
+            "boat_helm_connector",
+            "boat_motor",
+            "boat_motor_propeller",
+            "boat_windshield",
+            "handle",
+            "headrest",
+            "pedestal",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_011.gltf",
+        "subcategory": "None"
+    },
+    "08_03f": {
+        "code": "08_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_03f.gltf",
+        "subcategory": "None"
+    },
+    "08_031": {
+        "code": "08_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "boat_rudder",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_031.gltf",
+        "subcategory": "None"
+    },
+    "08_027": {
+        "code": "08_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_mast",
+            "boat_side_cable",
+            "boat_window"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_027.gltf",
+        "subcategory": "None"
+    },
+    "08_026": {
+        "code": "08_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_helm",
+            "boat_motor",
+            "boat_motor_propeller",
+            "boat_throttle_lever",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_026.gltf",
+        "subcategory": "None"
+    },
+    "08_030": {
+        "code": "08_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_030.gltf",
+        "subcategory": "None"
+    },
+    "08_00a": {
+        "code": "08_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_keel",
+            "boat_paddle",
+            "boat_paddle_holder",
+            "boat_side_cable",
+            "boat_side_cable_connector",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00a.gltf",
+        "subcategory": "None"
+    },
+    "08_02a": {
+        "code": "08_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_paddle",
+            "boat_paddle_holder",
+            "boat_side_cable",
+            "boat_side_cable_connector",
+            "handle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02a.gltf",
+        "subcategory": "None"
+    },
+    "08_010": {
+        "code": "08_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_keel",
+            "boat_mast",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_010.gltf",
+        "subcategory": "None"
+    },
+    "08_006": {
+        "code": "08_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "boat_paddle_holder",
+            "boat_side_cable",
+            "boat_side_cable_connector",
+            "handle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_006.gltf",
+        "subcategory": "None"
+    },
+    "08_00f": {
+        "code": "08_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_00f.gltf",
+        "subcategory": "None"
+    },
+    "08_021": {
+        "code": "08_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "boat_body",
+            "boat_frame",
+            "boat_helm",
+            "boat_helm_connector",
+            "boat_ladder",
+            "boat_window",
+            "boat_windshield",
+            "pedestal",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_021.gltf",
+        "subcategory": "None"
+    },
+    "08_001": {
+        "code": "08_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_keel",
+            "boat_motor",
+            "boat_motor_propeller",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_001.gltf",
+        "subcategory": "None"
+    },
+    "08_040": {
+        "code": "08_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "boat_paddle_holder",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_040.gltf",
+        "subcategory": "None"
+    },
+    "08_017": {
+        "code": "08_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_motor",
+            "boat_motor_propeller",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_017.gltf",
+        "subcategory": "None"
+    },
+    "08_02f": {
+        "code": "08_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_mast",
+            "boat_sail",
+            "boat_side_cable"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_02f.gltf",
+        "subcategory": "None"
+    },
+    "08_041": {
+        "code": "08_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_keel",
+            "boat_mast",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_041.gltf",
+        "subcategory": "None"
+    },
+    "08_000": {
+        "code": "08_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_motor",
+            "boat_motor_propeller",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_000.gltf",
+        "subcategory": "None"
+    },
+    "08_020": {
+        "code": "08_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_frame",
+            "boat_motor",
+            "boat_motor_propeller",
+            "boat_throttle_lever",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_020.gltf",
+        "subcategory": "None"
+    },
+    "08_036": {
+        "code": "08_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_paddle",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_036.gltf",
+        "subcategory": "None"
+    },
+    "08_01a": {
+        "code": "08_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "boat_body",
+            "boat_rudder",
+            "seat",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/08_01a.gltf",
+        "subcategory": "None"
+    }
+}

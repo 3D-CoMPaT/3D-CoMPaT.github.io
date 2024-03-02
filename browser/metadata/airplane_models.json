@@ -1,0 +1,619 @@
+{
+    "00_026": {
+        "code": "00_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_026.gltf",
+        "subcategory": "None"
+    },
+    "00_00a": {
+        "code": "00_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00a.gltf",
+        "subcategory": "None"
+    },
+    "00_010": {
+        "code": "00_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_propeller",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_010.gltf",
+        "subcategory": "None"
+    },
+    "00_007": {
+        "code": "00_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_pylon",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_007.gltf",
+        "subcategory": "None"
+    },
+    "00_01f": {
+        "code": "00_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01f.gltf",
+        "subcategory": "None"
+    },
+    "00_016": {
+        "code": "00_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_016.gltf",
+        "subcategory": "None"
+    },
+    "00_020": {
+        "code": "00_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_020.gltf",
+        "subcategory": "None"
+    },
+    "00_01a": {
+        "code": "00_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01a.gltf",
+        "subcategory": "None"
+    },
+    "00_00f": {
+        "code": "00_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00f.gltf",
+        "subcategory": "None"
+    },
+    "00_021": {
+        "code": "00_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_propeller",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_021.gltf",
+        "subcategory": "None"
+    },
+    "00_017": {
+        "code": "00_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_017.gltf",
+        "subcategory": "None"
+    },
+    "00_001": {
+        "code": "00_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_001.gltf",
+        "subcategory": "None"
+    },
+    "00_014": {
+        "code": "00_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_014.gltf",
+        "subcategory": "None"
+    },
+    "00_01c": {
+        "code": "00_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01c.gltf",
+        "subcategory": "None"
+    },
+    "00_00e": {
+        "code": "00_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_propeller",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00e.gltf",
+        "subcategory": "None"
+    },
+    "00_022": {
+        "code": "00_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_022.gltf",
+        "subcategory": "None"
+    },
+    "00_023": {
+        "code": "00_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_023.gltf",
+        "subcategory": "None"
+    },
+    "00_019": {
+        "code": "00_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_019.gltf",
+        "subcategory": "None"
+    },
+    "00_003": {
+        "code": "00_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_003.gltf",
+        "subcategory": "None"
+    },
+    "00_015": {
+        "code": "00_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_015.gltf",
+        "subcategory": "None"
+    },
+    "00_01e": {
+        "code": "00_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_propeller",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01e.gltf",
+        "subcategory": "None"
+    },
+    "00_00c": {
+        "code": "00_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00c.gltf",
+        "subcategory": "None"
+    },
+    "00_008": {
+        "code": "00_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_wing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_008.gltf",
+        "subcategory": "None"
+    },
+    "00_024": {
+        "code": "00_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_propeller",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_024.gltf",
+        "subcategory": "None"
+    },
+    "00_012": {
+        "code": "00_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_012.gltf",
+        "subcategory": "None"
+    },
+    "00_004": {
+        "code": "00_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_004.gltf",
+        "subcategory": "None"
+    },
+    "00_005": {
+        "code": "00_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_005.gltf",
+        "subcategory": "None"
+    },
+    "00_013": {
+        "code": "00_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_propeller",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_013.gltf",
+        "subcategory": "None"
+    },
+    "00_025": {
+        "code": "00_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_025.gltf",
+        "subcategory": "None"
+    },
+    "00_009": {
+        "code": "00_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_009.gltf",
+        "subcategory": "None"
+    },
+    "00_00b": {
+        "code": "00_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_door",
+            "airplane_engine_cowling",
+            "airplane_engine_fan",
+            "airplane_engine_pylon",
+            "airplane_fairing",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector",
+            "wheel_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_00b.gltf",
+        "subcategory": "None"
+    },
+    "00_01d": {
+        "code": "00_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "airplane_body",
+            "airplane_engine_cowling",
+            "airplane_horizontal_stabilizer",
+            "airplane_vertical_stabilizer",
+            "airplane_window",
+            "airplane_wing",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/00_01d.gltf",
+        "subcategory": "None"
+    }
+}

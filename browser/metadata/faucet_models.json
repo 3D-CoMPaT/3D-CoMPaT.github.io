@@ -1,0 +1,2122 @@
+{
+    "13_025": {
+        "code": "13_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_025.gltf",
+        "subcategory": "None"
+    },
+    "13_09f": {
+        "code": "13_09f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_valve",
+            "plate",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09f.gltf",
+        "subcategory": "None"
+    },
+    "13_072": {
+        "code": "13_072",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_072.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_072.gltf",
+        "subcategory": "None"
+    },
+    "13_064": {
+        "code": "13_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_064.gltf",
+        "subcategory": "None"
+    },
+    "13_033": {
+        "code": "13_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_033.gltf",
+        "subcategory": "None"
+    },
+    "13_04c": {
+        "code": "13_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04c.gltf",
+        "subcategory": "None"
+    },
+    "13_048": {
+        "code": "13_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_048.gltf",
+        "subcategory": "None"
+    },
+    "13_0a6": {
+        "code": "13_0a6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a6.gltf",
+        "subcategory": "None"
+    },
+    "13_00b": {
+        "code": "13_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00b.gltf",
+        "subcategory": "None"
+    },
+    "13_009": {
+        "code": "13_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_009.gltf",
+        "subcategory": "None"
+    },
+    "13_05e": {
+        "code": "13_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05e.gltf",
+        "subcategory": "None"
+    },
+    "13_029": {
+        "code": "13_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_029.gltf",
+        "subcategory": "None"
+    },
+    "13_0b0": {
+        "code": "13_0b0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b0.gltf",
+        "subcategory": "None"
+    },
+    "13_091": {
+        "code": "13_091",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_091.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_091.gltf",
+        "subcategory": "None"
+    },
+    "13_07e": {
+        "code": "13_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07e.gltf",
+        "subcategory": "None"
+    },
+    "13_068": {
+        "code": "13_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_068.gltf",
+        "subcategory": "None"
+    },
+    "13_087": {
+        "code": "13_087",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_087.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_087.gltf",
+        "subcategory": "None"
+    },
+    "13_06c": {
+        "code": "13_06c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06c.gltf",
+        "subcategory": "None"
+    },
+    "13_03d": {
+        "code": "13_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03d.gltf",
+        "subcategory": "None"
+    },
+    "13_044": {
+        "code": "13_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_044.gltf",
+        "subcategory": "None"
+    },
+    "13_013": {
+        "code": "13_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_013.gltf",
+        "subcategory": "None"
+    },
+    "13_0aa": {
+        "code": "13_0aa",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0aa.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0aa.gltf",
+        "subcategory": "None"
+    },
+    "13_005": {
+        "code": "13_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_005.gltf",
+        "subcategory": "None"
+    },
+    "13_053": {
+        "code": "13_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_053.gltf",
+        "subcategory": "None"
+    },
+    "13_012": {
+        "code": "13_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_012.gltf",
+        "subcategory": "None"
+    },
+    "13_045": {
+        "code": "13_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_045.gltf",
+        "subcategory": "None"
+    },
+    "13_03e": {
+        "code": "13_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03e.gltf",
+        "subcategory": "None"
+    },
+    "13_06b": {
+        "code": "13_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06b.gltf",
+        "subcategory": "None"
+    },
+    "13_069": {
+        "code": "13_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_069.gltf",
+        "subcategory": "None"
+    },
+    "13_086": {
+        "code": "13_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_086.gltf",
+        "subcategory": "None"
+    },
+    "13_07d": {
+        "code": "13_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07d.gltf",
+        "subcategory": "None"
+    },
+    "13_090": {
+        "code": "13_090",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_090.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_090.gltf",
+        "subcategory": "None"
+    },
+    "13_02c": {
+        "code": "13_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02c.gltf",
+        "subcategory": "None"
+    },
+    "13_028": {
+        "code": "13_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_028.gltf",
+        "subcategory": "None"
+    },
+    "13_05d": {
+        "code": "13_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05d.gltf",
+        "subcategory": "None"
+    },
+    "13_008": {
+        "code": "13_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_008.gltf",
+        "subcategory": "None"
+    },
+    "13_00c": {
+        "code": "13_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00c.gltf",
+        "subcategory": "None"
+    },
+    "13_01e": {
+        "code": "13_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01e.gltf",
+        "subcategory": "None"
+    },
+    "13_049": {
+        "code": "13_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_049.gltf",
+        "subcategory": "None"
+    },
+    "13_04b": {
+        "code": "13_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04b.gltf",
+        "subcategory": "None"
+    },
+    "13_032": {
+        "code": "13_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_032.gltf",
+        "subcategory": "None"
+    },
+    "13_08a": {
+        "code": "13_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08a.gltf",
+        "subcategory": "None"
+    },
+    "13_073": {
+        "code": "13_073",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_073.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_073.gltf",
+        "subcategory": "None"
+    },
+    "13_0b6": {
+        "code": "13_0b6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b6.gltf",
+        "subcategory": "None"
+    },
+    "13_02d": {
+        "code": "13_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02d.gltf",
+        "subcategory": "None"
+    },
+    "13_078": {
+        "code": "13_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_078.gltf",
+        "subcategory": "None"
+    },
+    "13_097": {
+        "code": "13_097",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_097.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_097.gltf",
+        "subcategory": "None"
+    },
+    "13_07c": {
+        "code": "13_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07c.gltf",
+        "subcategory": "None"
+    },
+    "13_081": {
+        "code": "13_081",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_081.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_081.gltf",
+        "subcategory": "None"
+    },
+    "13_06e": {
+        "code": "13_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06e.gltf",
+        "subcategory": "None"
+    },
+    "13_039": {
+        "code": "13_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_039.gltf",
+        "subcategory": "None"
+    },
+    "13_03b": {
+        "code": "13_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03b.gltf",
+        "subcategory": "None"
+    },
+    "13_042": {
+        "code": "13_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_042.gltf",
+        "subcategory": "None"
+    },
+    "13_015": {
+        "code": "13_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_015.gltf",
+        "subcategory": "None"
+    },
+    "13_003": {
+        "code": "13_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_003.gltf",
+        "subcategory": "None"
+    },
+    "13_054": {
+        "code": "13_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_054.gltf",
+        "subcategory": "None"
+    },
+    "13_0ba": {
+        "code": "13_0ba",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ba.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ba.gltf",
+        "subcategory": "None"
+    },
+    "13_023": {
+        "code": "13_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_023.gltf",
+        "subcategory": "None"
+    },
+    "13_074": {
+        "code": "13_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_074.gltf",
+        "subcategory": "None"
+    },
+    "13_08f": {
+        "code": "13_08f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08f.gltf",
+        "subcategory": "None"
+    },
+    "13_062": {
+        "code": "13_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_062.gltf",
+        "subcategory": "None"
+    },
+    "13_035": {
+        "code": "13_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_035.gltf",
+        "subcategory": "None"
+    },
+    "13_04e": {
+        "code": "13_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04e.gltf",
+        "subcategory": "None"
+    },
+    "13_01b": {
+        "code": "13_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01b.gltf",
+        "subcategory": "None"
+    },
+    "13_019": {
+        "code": "13_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_019.gltf",
+        "subcategory": "None"
+    },
+    "13_05c": {
+        "code": "13_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05c.gltf",
+        "subcategory": "None"
+    },
+    "13_058": {
+        "code": "13_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_058.gltf",
+        "subcategory": "None"
+    },
+    "13_059": {
+        "code": "13_059",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_059.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_059.gltf",
+        "subcategory": "None"
+    },
+    "13_05b": {
+        "code": "13_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05b.gltf",
+        "subcategory": "None"
+    },
+    "13_00e": {
+        "code": "13_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00e.gltf",
+        "subcategory": "None"
+    },
+    "13_018": {
+        "code": "13_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_018.gltf",
+        "subcategory": "None"
+    },
+    "13_01c": {
+        "code": "13_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01c.gltf",
+        "subcategory": "None"
+    },
+    "13_04d": {
+        "code": "13_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04d.gltf",
+        "subcategory": "None"
+    },
+    "13_09a": {
+        "code": "13_09a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09a.gltf",
+        "subcategory": "None"
+    },
+    "13_055": {
+        "code": "13_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_055.gltf",
+        "subcategory": "None"
+    },
+    "13_002": {
+        "code": "13_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_002.gltf",
+        "subcategory": "None"
+    },
+    "13_0af": {
+        "code": "13_0af",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0af.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0af.gltf",
+        "subcategory": "None"
+    },
+    "13_014": {
+        "code": "13_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_014.gltf",
+        "subcategory": "None"
+    },
+    "13_043": {
+        "code": "13_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_043.gltf",
+        "subcategory": "None"
+    },
+    "13_038": {
+        "code": "13_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_038.gltf",
+        "subcategory": "None"
+    },
+    "13_06d": {
+        "code": "13_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06d.gltf",
+        "subcategory": "None"
+    },
+    "13_080": {
+        "code": "13_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_080.gltf",
+        "subcategory": "None"
+    },
+    "13_079": {
+        "code": "13_079",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_079.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_079.gltf",
+        "subcategory": "None"
+    },
+    "13_096": {
+        "code": "13_096",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_096.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_096.gltf",
+        "subcategory": "None"
+    },
+    "13_02e": {
+        "code": "13_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02e.gltf",
+        "subcategory": "None"
+    },
+    "13_0b7": {
+        "code": "13_0b7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b7.gltf",
+        "subcategory": "None"
+    },
+    "13_056": {
+        "code": "13_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_056.gltf",
+        "subcategory": "None"
+    },
+    "13_0ae": {
+        "code": "13_0ae",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ae.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ae.gltf",
+        "subcategory": "None"
+    },
+    "13_017": {
+        "code": "13_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_017.gltf",
+        "subcategory": "None"
+    },
+    "13_040": {
+        "code": "13_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_040.gltf",
+        "subcategory": "None"
+    },
+    "13_07a": {
+        "code": "13_07a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07a.gltf",
+        "subcategory": "None"
+    },
+    "13_095": {
+        "code": "13_095",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_095.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_095.gltf",
+        "subcategory": "None"
+    },
+    "13_0b4": {
+        "code": "13_0b4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b4.gltf",
+        "subcategory": "None"
+    },
+    "13_05a": {
+        "code": "13_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_05a.gltf",
+        "subcategory": "None"
+    },
+    "13_00f": {
+        "code": "13_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_00f.gltf",
+        "subcategory": "None"
+    },
+    "13_0a2": {
+        "code": "13_0a2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a2.gltf",
+        "subcategory": "None"
+    },
+    "13_060": {
+        "code": "13_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_060.gltf",
+        "subcategory": "None"
+    },
+    "13_08d": {
+        "code": "13_08d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08d.gltf",
+        "subcategory": "None"
+    },
+    "13_099": {
+        "code": "13_099",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_099.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_099.gltf",
+        "subcategory": "None"
+    },
+    "13_09b": {
+        "code": "13_09b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09b.gltf",
+        "subcategory": "None"
+    },
+    "13_0b8": {
+        "code": "13_0b8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b8.gltf",
+        "subcategory": "None"
+    },
+    "13_021": {
+        "code": "13_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_021.gltf",
+        "subcategory": "None"
+    },
+    "13_0bc": {
+        "code": "13_0bc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0bc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0bc.gltf",
+        "subcategory": "None"
+    },
+    "13_0bb": {
+        "code": "13_0bb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0bb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0bb.gltf",
+        "subcategory": "None"
+    },
+    "13_020": {
+        "code": "13_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_020.gltf",
+        "subcategory": "None"
+    },
+    "13_098": {
+        "code": "13_098",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_098.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_098.gltf",
+        "subcategory": "None"
+    },
+    "13_077": {
+        "code": "13_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_077.gltf",
+        "subcategory": "None"
+    },
+    "13_08e": {
+        "code": "13_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08e.gltf",
+        "subcategory": "None"
+    },
+    "13_061": {
+        "code": "13_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_061.gltf",
+        "subcategory": "None"
+    },
+    "13_036": {
+        "code": "13_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_036.gltf",
+        "subcategory": "None"
+    },
+    "13_04f": {
+        "code": "13_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04f.gltf",
+        "subcategory": "None"
+    },
+    "13_01a": {
+        "code": "13_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_01a.gltf",
+        "subcategory": "None"
+    },
+    "13_0b5": {
+        "code": "13_0b5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b5.gltf",
+        "subcategory": "None"
+    },
+    "13_094": {
+        "code": "13_094",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_094.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_094.gltf",
+        "subcategory": "None"
+    },
+    "13_082": {
+        "code": "13_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_082.gltf",
+        "subcategory": "None"
+    },
+    "13_06f": {
+        "code": "13_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06f.gltf",
+        "subcategory": "None"
+    },
+    "13_03a": {
+        "code": "13_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03a.gltf",
+        "subcategory": "None"
+    },
+    "13_016": {
+        "code": "13_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_016.gltf",
+        "subcategory": "None"
+    },
+    "13_000": {
+        "code": "13_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_000.gltf",
+        "subcategory": "None"
+    },
+    "13_057": {
+        "code": "13_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_057.gltf",
+        "subcategory": "None"
+    },
+    "13_04a": {
+        "code": "13_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_04a.gltf",
+        "subcategory": "None"
+    },
+    "13_089": {
+        "code": "13_089",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_089.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_089.gltf",
+        "subcategory": "None"
+    },
+    "13_066": {
+        "code": "13_066",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_066.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_066.gltf",
+        "subcategory": "None"
+    },
+    "13_08b": {
+        "code": "13_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08b.gltf",
+        "subcategory": "None"
+    },
+    "13_070": {
+        "code": "13_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_070.gltf",
+        "subcategory": "None"
+    },
+    "13_09d": {
+        "code": "13_09d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09d.gltf",
+        "subcategory": "None"
+    },
+    "13_027": {
+        "code": "13_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_027.gltf",
+        "subcategory": "None"
+    },
+    "13_0be": {
+        "code": "13_0be",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0be.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0be.gltf",
+        "subcategory": "None"
+    },
+    "13_007": {
+        "code": "13_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_007.gltf",
+        "subcategory": "None"
+    },
+    "13_0ac": {
+        "code": "13_0ac",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ac.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ac.gltf",
+        "subcategory": "None"
+    },
+    "13_011": {
+        "code": "13_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_011.gltf",
+        "subcategory": "None"
+    },
+    "13_046": {
+        "code": "13_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_046.gltf",
+        "subcategory": "None"
+    },
+    "13_03f": {
+        "code": "13_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_03f.gltf",
+        "subcategory": "None"
+    },
+    "13_06a": {
+        "code": "13_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_06a.gltf",
+        "subcategory": "None"
+    },
+    "13_085": {
+        "code": "13_085",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_085.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_085.gltf",
+        "subcategory": "None"
+    },
+    "13_093": {
+        "code": "13_093",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_093.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_093.gltf",
+        "subcategory": "None"
+    },
+    "13_0b2": {
+        "code": "13_0b2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b2.gltf",
+        "subcategory": "None"
+    },
+    "13_0b3": {
+        "code": "13_0b3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0b3.gltf",
+        "subcategory": "None"
+    },
+    "13_02a": {
+        "code": "13_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_02a.gltf",
+        "subcategory": "None"
+    },
+    "13_07f": {
+        "code": "13_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_07f.gltf",
+        "subcategory": "None"
+    },
+    "13_047": {
+        "code": "13_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_047.gltf",
+        "subcategory": "None"
+    },
+    "13_010": {
+        "code": "13_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_010.gltf",
+        "subcategory": "None"
+    },
+    "13_0a9": {
+        "code": "13_0a9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a9.gltf",
+        "subcategory": "None"
+    },
+    "13_0ab": {
+        "code": "13_0ab",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ab.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0ab.gltf",
+        "subcategory": "None"
+    },
+    "13_051": {
+        "code": "13_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_051.gltf",
+        "subcategory": "None"
+    },
+    "13_026": {
+        "code": "13_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_026.gltf",
+        "subcategory": "None"
+    },
+    "13_09e": {
+        "code": "13_09e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "plate",
+            "shower_button"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_09e.gltf",
+        "subcategory": "None"
+    },
+    "13_071": {
+        "code": "13_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_071.gltf",
+        "subcategory": "None"
+    },
+    "13_08c": {
+        "code": "13_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_08c.gltf",
+        "subcategory": "None"
+    },
+    "13_088": {
+        "code": "13_088",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_088.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_088.gltf",
+        "subcategory": "None"
+    },
+    "13_067": {
+        "code": "13_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_067.gltf",
+        "subcategory": "None"
+    },
+    "13_030": {
+        "code": "13_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_030.gltf",
+        "subcategory": "None"
+    },
+    "13_0a5": {
+        "code": "13_0a5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/13_0a5.gltf",
+        "subcategory": "None"
+    }
+}

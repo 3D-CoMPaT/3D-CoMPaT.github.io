@@ -1,0 +1,1371 @@
+{
+    "14_00e": {
+        "code": "14_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00e.gltf",
+        "subcategory": "None"
+    },
+    "14_059": {
+        "code": "14_059",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_059.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_059.gltf",
+        "subcategory": "None"
+    },
+    "14_04d": {
+        "code": "14_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04d.gltf",
+        "subcategory": "None"
+    },
+    "14_018": {
+        "code": "14_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_018.gltf",
+        "subcategory": "None"
+    },
+    "14_01c": {
+        "code": "14_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "garbage_bin_pedal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01c.gltf",
+        "subcategory": "None"
+    },
+    "14_063": {
+        "code": "14_063",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_063.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_063.gltf",
+        "subcategory": "None"
+    },
+    "14_034": {
+        "code": "14_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_034.gltf",
+        "subcategory": "None"
+    },
+    "14_022": {
+        "code": "14_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_022.gltf",
+        "subcategory": "None"
+    },
+    "14_075": {
+        "code": "14_075",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_075.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_075.gltf",
+        "subcategory": "None"
+    },
+    "14_055": {
+        "code": "14_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_055.gltf",
+        "subcategory": "None"
+    },
+    "14_043": {
+        "code": "14_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_043.gltf",
+        "subcategory": "None"
+    },
+    "14_014": {
+        "code": "14_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_014.gltf",
+        "subcategory": "None"
+    },
+    "14_06d": {
+        "code": "14_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06d.gltf",
+        "subcategory": "None"
+    },
+    "14_080": {
+        "code": "14_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_080.gltf",
+        "subcategory": "None"
+    },
+    "14_03c": {
+        "code": "14_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03c.gltf",
+        "subcategory": "None"
+    },
+    "14_038": {
+        "code": "14_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_038.gltf",
+        "subcategory": "None"
+    },
+    "14_02e": {
+        "code": "14_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02e.gltf",
+        "subcategory": "None"
+    },
+    "14_07b": {
+        "code": "14_07b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07b.gltf",
+        "subcategory": "None"
+    },
+    "14_078": {
+        "code": "14_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_078.gltf",
+        "subcategory": "None"
+    },
+    "14_07c": {
+        "code": "14_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07c.gltf",
+        "subcategory": "None"
+    },
+    "14_02d": {
+        "code": "14_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02d.gltf",
+        "subcategory": "None"
+    },
+    "14_039": {
+        "code": "14_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_039.gltf",
+        "subcategory": "None"
+    },
+    "14_03b": {
+        "code": "14_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03b.gltf",
+        "subcategory": "None"
+    },
+    "14_081": {
+        "code": "14_081",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_081.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_081.gltf",
+        "subcategory": "None"
+    },
+    "14_06e": {
+        "code": "14_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_pedal",
+            "handle",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06e.gltf",
+        "subcategory": "None"
+    },
+    "14_015": {
+        "code": "14_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_015.gltf",
+        "subcategory": "None"
+    },
+    "14_042": {
+        "code": "14_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_pedal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_042.gltf",
+        "subcategory": "None"
+    },
+    "14_003": {
+        "code": "14_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_003.gltf",
+        "subcategory": "None"
+    },
+    "14_074": {
+        "code": "14_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_074.gltf",
+        "subcategory": "None"
+    },
+    "14_023": {
+        "code": "14_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_023.gltf",
+        "subcategory": "None"
+    },
+    "14_035": {
+        "code": "14_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_035.gltf",
+        "subcategory": "None"
+    },
+    "14_08f": {
+        "code": "14_08f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08f.gltf",
+        "subcategory": "None"
+    },
+    "14_062": {
+        "code": "14_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid_connector",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_062.gltf",
+        "subcategory": "None"
+    },
+    "14_04e": {
+        "code": "14_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04e.gltf",
+        "subcategory": "None"
+    },
+    "14_05c": {
+        "code": "14_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05c.gltf",
+        "subcategory": "None"
+    },
+    "14_058": {
+        "code": "14_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_058.gltf",
+        "subcategory": "None"
+    },
+    "14_004": {
+        "code": "14_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_004.gltf",
+        "subcategory": "None"
+    },
+    "14_053": {
+        "code": "14_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_053.gltf",
+        "subcategory": "None"
+    },
+    "14_045": {
+        "code": "14_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_045.gltf",
+        "subcategory": "None"
+    },
+    "14_012": {
+        "code": "14_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_012.gltf",
+        "subcategory": "None"
+    },
+    "14_06b": {
+        "code": "14_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06b.gltf",
+        "subcategory": "None"
+    },
+    "14_069": {
+        "code": "14_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_069.gltf",
+        "subcategory": "None"
+    },
+    "14_086": {
+        "code": "14_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_086.gltf",
+        "subcategory": "None"
+    },
+    "14_02c": {
+        "code": "14_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02c.gltf",
+        "subcategory": "None"
+    },
+    "14_028": {
+        "code": "14_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_028.gltf",
+        "subcategory": "None"
+    },
+    "14_07d": {
+        "code": "14_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07d.gltf",
+        "subcategory": "None"
+    },
+    "14_090": {
+        "code": "14_090",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_090.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_090.gltf",
+        "subcategory": "None"
+    },
+    "14_00c": {
+        "code": "14_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00c.gltf",
+        "subcategory": "None"
+    },
+    "14_05d": {
+        "code": "14_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05d.gltf",
+        "subcategory": "None"
+    },
+    "14_04b": {
+        "code": "14_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04b.gltf",
+        "subcategory": "None"
+    },
+    "14_01e": {
+        "code": "14_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01e.gltf",
+        "subcategory": "None"
+    },
+    "14_065": {
+        "code": "14_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_065.gltf",
+        "subcategory": "None"
+    },
+    "14_08a": {
+        "code": "14_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08a.gltf",
+        "subcategory": "None"
+    },
+    "14_032": {
+        "code": "14_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "handle",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_032.gltf",
+        "subcategory": "None"
+    },
+    "14_024": {
+        "code": "14_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "handle",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_024.gltf",
+        "subcategory": "None"
+    },
+    "14_073": {
+        "code": "14_073",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_073.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_073.gltf",
+        "subcategory": "None"
+    },
+    "14_072": {
+        "code": "14_072",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_072.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_072.gltf",
+        "subcategory": "None"
+    },
+    "14_025": {
+        "code": "14_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_025.gltf",
+        "subcategory": "None"
+    },
+    "14_033": {
+        "code": "14_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_033.gltf",
+        "subcategory": "None"
+    },
+    "14_064": {
+        "code": "14_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_064.gltf",
+        "subcategory": "None"
+    },
+    "14_01d": {
+        "code": "14_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01d.gltf",
+        "subcategory": "None"
+    },
+    "14_04c": {
+        "code": "14_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04c.gltf",
+        "subcategory": "None"
+    },
+    "14_05e": {
+        "code": "14_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05e.gltf",
+        "subcategory": "None"
+    },
+    "14_009": {
+        "code": "14_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_009.gltf",
+        "subcategory": "None"
+    },
+    "14_091": {
+        "code": "14_091",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_091.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_091.gltf",
+        "subcategory": "None"
+    },
+    "14_07e": {
+        "code": "14_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07e.gltf",
+        "subcategory": "None"
+    },
+    "14_029": {
+        "code": "14_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_029.gltf",
+        "subcategory": "None"
+    },
+    "14_02b": {
+        "code": "14_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02b.gltf",
+        "subcategory": "None"
+    },
+    "14_03d": {
+        "code": "14_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03d.gltf",
+        "subcategory": "None"
+    },
+    "14_068": {
+        "code": "14_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_068.gltf",
+        "subcategory": "None"
+    },
+    "14_087": {
+        "code": "14_087",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_087.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_087.gltf",
+        "subcategory": "None"
+    },
+    "14_013": {
+        "code": "14_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "handle",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_013.gltf",
+        "subcategory": "None"
+    },
+    "14_052": {
+        "code": "14_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_052.gltf",
+        "subcategory": "None"
+    },
+    "14_005": {
+        "code": "14_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "garbage_bin_pedal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_005.gltf",
+        "subcategory": "None"
+    },
+    "14_07f": {
+        "code": "14_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "handle",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07f.gltf",
+        "subcategory": "None"
+    },
+    "14_02a": {
+        "code": "14_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02a.gltf",
+        "subcategory": "None"
+    },
+    "14_010": {
+        "code": "14_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_010.gltf",
+        "subcategory": "None"
+    },
+    "14_047": {
+        "code": "14_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_047.gltf",
+        "subcategory": "None"
+    },
+    "14_006": {
+        "code": "14_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_006.gltf",
+        "subcategory": "None"
+    },
+    "14_071": {
+        "code": "14_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_071.gltf",
+        "subcategory": "None"
+    },
+    "14_030": {
+        "code": "14_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_030.gltf",
+        "subcategory": "None"
+    },
+    "14_08c": {
+        "code": "14_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08c.gltf",
+        "subcategory": "None"
+    },
+    "14_088": {
+        "code": "14_088",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_088.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_088.gltf",
+        "subcategory": "None"
+    },
+    "14_00a": {
+        "code": "14_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00a.gltf",
+        "subcategory": "None"
+    },
+    "14_04a": {
+        "code": "14_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04a.gltf",
+        "subcategory": "None"
+    },
+    "14_01f": {
+        "code": "14_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01f.gltf",
+        "subcategory": "None"
+    },
+    "14_089": {
+        "code": "14_089",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_089.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_089.gltf",
+        "subcategory": "None"
+    },
+    "14_08b": {
+        "code": "14_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08b.gltf",
+        "subcategory": "None"
+    },
+    "14_031": {
+        "code": "14_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_031.gltf",
+        "subcategory": "None"
+    },
+    "14_027": {
+        "code": "14_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_pedal",
+            "handle",
+            "handle_connector",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_027.gltf",
+        "subcategory": "None"
+    },
+    "14_050": {
+        "code": "14_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_050.gltf",
+        "subcategory": "None"
+    },
+    "14_06a": {
+        "code": "14_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_06a.gltf",
+        "subcategory": "None"
+    },
+    "14_085": {
+        "code": "14_085",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_085.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_085.gltf",
+        "subcategory": "None"
+    },
+    "14_03f": {
+        "code": "14_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03f.gltf",
+        "subcategory": "None"
+    },
+    "14_077": {
+        "code": "14_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_077.gltf",
+        "subcategory": "None"
+    },
+    "14_020": {
+        "code": "14_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_020.gltf",
+        "subcategory": "None"
+    },
+    "14_036": {
+        "code": "14_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_036.gltf",
+        "subcategory": "None"
+    },
+    "14_08e": {
+        "code": "14_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08e.gltf",
+        "subcategory": "None"
+    },
+    "14_061": {
+        "code": "14_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_061.gltf",
+        "subcategory": "None"
+    },
+    "14_01a": {
+        "code": "14_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_01a.gltf",
+        "subcategory": "None"
+    },
+    "14_04f": {
+        "code": "14_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_04f.gltf",
+        "subcategory": "None"
+    },
+    "14_03a": {
+        "code": "14_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_03a.gltf",
+        "subcategory": "None"
+    },
+    "14_082": {
+        "code": "14_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_082.gltf",
+        "subcategory": "None"
+    },
+    "14_041": {
+        "code": "14_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_041.gltf",
+        "subcategory": "None"
+    },
+    "14_000": {
+        "code": "14_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_000.gltf",
+        "subcategory": "None"
+    },
+    "14_001": {
+        "code": "14_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_001.gltf",
+        "subcategory": "None"
+    },
+    "14_056": {
+        "code": "14_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "handle",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_056.gltf",
+        "subcategory": "None"
+    },
+    "14_040": {
+        "code": "14_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "foot",
+            "garbage_bin_body"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_040.gltf",
+        "subcategory": "None"
+    },
+    "14_017": {
+        "code": "14_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "wheel",
+            "wheel_connector"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_017.gltf",
+        "subcategory": "None"
+    },
+    "14_083": {
+        "code": "14_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_083.gltf",
+        "subcategory": "None"
+    },
+    "14_02f": {
+        "code": "14_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_02f.gltf",
+        "subcategory": "None"
+    },
+    "14_07a": {
+        "code": "14_07a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_07a.gltf",
+        "subcategory": "None"
+    },
+    "14_00f": {
+        "code": "14_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid_connector",
+            "leg"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_00f.gltf",
+        "subcategory": "None"
+    },
+    "14_05a": {
+        "code": "14_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_05a.gltf",
+        "subcategory": "None"
+    },
+    "14_060": {
+        "code": "14_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_060.gltf",
+        "subcategory": "None"
+    },
+    "14_08d": {
+        "code": "14_08d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid",
+            "garbage_bin_lid_connector",
+            "handle"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_08d.gltf",
+        "subcategory": "None"
+    },
+    "14_037": {
+        "code": "14_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_037.gltf",
+        "subcategory": "None"
+    },
+    "14_076": {
+        "code": "14_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "garbage_bin_body",
+            "garbage_bin_lid"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/14_076.gltf",
+        "subcategory": "None"
+    }
+}

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <title>3DCompat - Models explorer</title>
+
+        <!-- MDB icon -->
+        <link rel="icon" href="./theme/img/favicon.ico" type="image/x-icon" />
+
+        <!-- Font Awesome -->
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        />
+
+        <!-- Google Fonts Roboto -->
+        <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
+        />
+
+        <!-- Bootstrap icons -->
+        <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"
+        />
+
+        <!-- MDB -->
+        <script type="text/javascript" src="theme/js/mdb.min.js"></script>
+        <link rel="stylesheet" href="theme/css/mdb.min.css" />
+        <link rel="stylesheet" href="theme/css/pagination.css" />
+        <link rel="stylesheet" href="theme/css/main.css" />
+
+        <!-- jQuery -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+        <!-- Clipboard -->
+        <script type="text/javascript" src="src/clipboard.min.js"></script>
+
+        <!-- Pagination -->
+        <script type="text/javascript" src="src/pagination.min.js"></script>
+
+        <!-- Model rendering -->
+        <script type="text/javascript" src="src/three.min.js"></script>
+        <script type="text/javascript" src="src/libs/three_loaders/FBXLoader.js"></script>
+        <script type="text/javascript" src="src/libs/three_loaders/GLTFLoader.js"></script>
+        <script type="text/javascript" src="src/libs/fflate.min.js"></script>
+
+        <!-- UI Logic -->
+        <script type="text/javascript" src="ui/utils.js"></script>
+        <script type="text/javascript" src="ui/model_views.js"></script>
+        <script type="text/javascript" src="ui/ui.js"></script>        
+    </head>
+
+    <body class="d-flex flex-column min-vh-100">
+        <nav class="p-3 ms-3 mt-3 me-3 navbar navbar-expand-lg navbar-light" style="background-color:#22272e;">
+            <a class="navbar-brand" href="#">
+                <img src="theme/img/logo.png" height="60" alt="" loading="lazy" />
+            </a>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="color: white!important;">
+                <div class="dropdown">
+                        <a
+                        class="text-reset me-3 dropdown-toggle"
+                        href="#"
+                        id="navbarSegtype"
+                        role="button"
+                        data-mdb-toggle="dropdown"
+                        aria-expanded="false"
+                        >
+                            Segmentation
+                        </a>
+                        <input type="hidden" id="activePart"></input>
+                        <ul
+                        class="dropdown-menu dropdown-menu-end"
+                        aria-labelledby="navbarSegtype"
+                        id="segType"
+                        >
+                            <li>
+                                <a class="dropdown-item bg-primary text-white" href="#" id="semanticSeg">Semantic</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#" id="instanceSeg">Instances</a>
+                            </li>
+                        </ul>
+                </div>
+
+                <div class="dropdown">
+                        <a
+                        class="text-reset me-3 dropdown-toggle"
+                        href="#"
+                        id="navbarCat"
+                        role="button"
+                        data-mdb-toggle="dropdown"
+                        aria-expanded="false"
+                        >
+                            Categories
+                        </a>
+                        <input type="hidden" id="activePart"></input>
+                        <ul
+                        class="dropdown-menu dropdown-menu-end"
+                        aria-labelledby="navbarCat"
+                        id="classesList"
+                        >
+                        </ul>
+                </div>
+
+                <div class="dropdown">
+                        <a
+                        class="text-reset me-3 dropdown-toggle"
+                        href="#"
+                        id="navbarParts"
+                        role="button"
+                        data-mdb-toggle="dropdown"
+                        aria-expanded="false"
+                        >
+                            Parts
+                        </a>
+                        <input type="hidden" id="activePart"></input>
+                        <ul
+                        class="dropdown-menu dropdown-menu-end"
+                        aria-labelledby="navbarParts"
+                        id="partsList"
+                        >
+                        </ul>
+                </div>
+
+                <!-- Show all parts -->
+                <div class="container-fluid">
+                    <div class="form-check d-flex w-auto">
+                        <input class="form-check-input" type="checkbox" value="" id="showAllParts" checked>
+                        <label class="form-check-label" for="showAllParts">Show all parts</label>
+                    </div>
+                </div>
+
+                <!-- Model search -->
+                <div class="container-fluid">
+                    <form class="d-flex input-group w-auto">
+                      <input
+                        type="search"
+                        class="form-control rounded"
+                        placeholder="Search model code..."
+                        aria-label="Search model code..."
+                        aria-describedby="search-addon"
+                        id="modelCode"
+                      />
+                      <a class="input-group-text border-0">
+                        <i class="fas fa-search" id="searchModel"></i>
+                      </a>
+                      <a class="input-group-text border-0">
+                        <i class="fas fa-trash" id="clearSearch"></i>
+                      </a>
+                    </form>
+                </div>
+            </div>
+        </nav>
+
+        <div class="ms-3 me-3 text-center" id="modelgrid">
+            <section class="p-4 border bg-light" id="semlevels-section">
+                <!-- High/low semantic level -->
+                <div class="btn-group" role="group" aria-label="Semantics level">
+                    <input type="radio" class="btn-check" name="btnradio" id="lowLevelSem" autocomplete="off" checked>
+                    <label class="btn btn-light" for="lowLevelSem">Fine-grained</label>
+
+                    <input type="radio" class="btn-check" name="btnradio" id="highlevelSem" autocomplete="off">
+                    <label class="btn btn-light" for="highlevelSem">Coarse</label>
+                </div>
+            </section>
+
+            <section class="p-2 border bg-light" id="legend-section">
+                <div id="legend-list" class="list-wrapper row g-1">
+                </div>
+            </section>
+            <section class="p-4 border bg-light">
+                <section class="">
+                    <!-- Section: Static views -->
+                    <section class="">
+                        <img id="no-results" src="theme/img/error.svg" hidden>
+                        <div id="render-list" class="list-wrapper row g-3">
+                        </div>
+                    </section>
+                    <!----------->
+
+                    <!-- Section: Interactive views -->
+                    <section id="modal-list" class="">
+                    </section>
+                </section>
+                <!----------->
+            </section>
+
+            <div class="row g-3 align-items-center">
+                <!-- Models count -->
+                <div class="col-auto ms-2 mt-5">
+                    <span class="form-text" id="part-occ-text">
+                        <strong><span></span></strong> models contain the <strong><span></span></strong> part.
+                    </span>
+                    <span class="form-text" id="cat-text">
+                        <strong><span></span></strong> models belong to the <strong><span></span></strong> category.
+                    </span>
+                    <span class="form-text" id="filter-text">
+                        <strong><span></span></strong> models have a code containing "<strong><span></span></strong>"<span hidden> with a "<strong id="hidden-part"></strong>" part</span>.
+                    </span>
+                </div>
+            </div>
+
+            <hr/>
+
+            <section class="ms-2 mt-4 w-100">
+                <div id="paginationButtons"></div>
+            </section>
+
+            <section class="ms-2 mt-4 mb-4 w-100">
+                <!-- Icon size -->
+                <div class="range-field row">
+                    <div class="text-center w-auto">
+                        <img style="width: 20px; height: 20px" src="theme/img/resize.svg" alt="">
+                    </div>
+                    <input type="range" class="form-range w-25" min="64" max="1024" step="50" id="iconSize">
+                    <label class="form-text w-auto" id="iconSizeLabel"></label>
+                </div>
+
+                <!-- Item count -->
+                <div class="range-field row">
+                    <div class="text-center w-auto">
+                        <img style="width: 20px; height: 20px" src="theme/img/item-count.svg" alt="">
+                    </div>
+                    <input type="range" class="form-range w-25" min="1" max="100" step="1" id="itemCount">
+                    <label class="form-text w-auto" id="itemCountLabel"></label>
+                </div>
+            </section>
+        </div>
+
+        <!-- Add a footer -->
+        <footer class="text-center mt-auto">
+            <!-- Grid container -->
+            <div class="container p-2">
+                <!--Grid row-->
+                <div class="row">
+                    <p>
+                        <a href="https://github.com/Vision-CAIR/3DCoMPaT-v2">3DCoMPaT++</a> shapes browser - <a href="https://github.com/Vision-CAIR">Vision-CAIR, KAUST</a>. For any questions, suggestions or bug reports, please contact <a href="mailto:habib.slim@kaust.edu.sa">@Habib Slim</a>.
+                    </p>
+                </div>
+                <!--Grid row-->
+            </div>
+            <!-- Grid container -->
+        </footer>
+        <!-- Add a footer -->
+
+    </body>
+</html>

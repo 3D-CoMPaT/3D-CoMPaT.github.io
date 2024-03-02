@@ -1,0 +1,2038 @@
+{
+    "07_0a2": {
+        "code": "07_0a2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a2.gltf",
+        "subcategory": "None"
+    },
+    "07_00f": {
+        "code": "07_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00f.gltf",
+        "subcategory": "None"
+    },
+    "07_05a": {
+        "code": "07_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05a.gltf",
+        "subcategory": "None"
+    },
+    "07_09b": {
+        "code": "07_09b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09b.gltf",
+        "subcategory": "None"
+    },
+    "07_076": {
+        "code": "07_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_076.gltf",
+        "subcategory": "None"
+    },
+    "07_099": {
+        "code": "07_099",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_099.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "hook",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_099.gltf",
+        "subcategory": "None"
+    },
+    "07_08d": {
+        "code": "07_08d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08d.gltf",
+        "subcategory": "None"
+    },
+    "07_060": {
+        "code": "07_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_060.gltf",
+        "subcategory": "None"
+    },
+    "07_037": {
+        "code": "07_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_037.gltf",
+        "subcategory": "None"
+    },
+    "07_040": {
+        "code": "07_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_040.gltf",
+        "subcategory": "None"
+    },
+    "07_017": {
+        "code": "07_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_017.gltf",
+        "subcategory": "None"
+    },
+    "07_001": {
+        "code": "07_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "pedestal",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_001.gltf",
+        "subcategory": "None"
+    },
+    "07_056": {
+        "code": "07_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_056.gltf",
+        "subcategory": "None"
+    },
+    "07_02f": {
+        "code": "07_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_top_panel",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02f.gltf",
+        "subcategory": "None"
+    },
+    "07_095": {
+        "code": "07_095",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_095.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_095.gltf",
+        "subcategory": "None"
+    },
+    "07_083": {
+        "code": "07_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_083.gltf",
+        "subcategory": "None"
+    },
+    "07_06f": {
+        "code": "07_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06f.gltf",
+        "subcategory": "None"
+    },
+    "07_082": {
+        "code": "07_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_perch",
+            "bird_house_water_dispenser",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_082.gltf",
+        "subcategory": "None"
+    },
+    "07_094": {
+        "code": "07_094",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_094.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "pedestal",
+            "roof",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_094.gltf",
+        "subcategory": "None"
+    },
+    "07_057": {
+        "code": "07_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_057.gltf",
+        "subcategory": "None"
+    },
+    "07_000": {
+        "code": "07_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_perch",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_000.gltf",
+        "subcategory": "None"
+    },
+    "07_016": {
+        "code": "07_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_016.gltf",
+        "subcategory": "None"
+    },
+    "07_041": {
+        "code": "07_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_041.gltf",
+        "subcategory": "None"
+    },
+    "07_061": {
+        "code": "07_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "fence_panel",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_061.gltf",
+        "subcategory": "None"
+    },
+    "07_08e": {
+        "code": "07_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08e.gltf",
+        "subcategory": "None"
+    },
+    "07_077": {
+        "code": "07_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_077.gltf",
+        "subcategory": "None"
+    },
+    "07_09c": {
+        "code": "07_09c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "fence_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09c.gltf",
+        "subcategory": "None"
+    },
+    "07_020": {
+        "code": "07_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_020.gltf",
+        "subcategory": "None"
+    },
+    "07_0a3": {
+        "code": "07_0a3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a3.gltf",
+        "subcategory": "None"
+    },
+    "07_04f": {
+        "code": "07_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04f.gltf",
+        "subcategory": "None"
+    },
+    "07_046": {
+        "code": "07_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_046.gltf",
+        "subcategory": "None"
+    },
+    "07_0a8": {
+        "code": "07_0a8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a8.gltf",
+        "subcategory": "None"
+    },
+    "07_0ac": {
+        "code": "07_0ac",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0ac.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0ac.gltf",
+        "subcategory": "None"
+    },
+    "07_007": {
+        "code": "07_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_007.gltf",
+        "subcategory": "None"
+    },
+    "07_050": {
+        "code": "07_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_050.gltf",
+        "subcategory": "None"
+    },
+    "07_093": {
+        "code": "07_093",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_093.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_093.gltf",
+        "subcategory": "None"
+    },
+    "07_06a": {
+        "code": "07_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "pedestal",
+            "roof"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06a.gltf",
+        "subcategory": "None"
+    },
+    "07_03f": {
+        "code": "07_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_top_panel",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_03f.gltf",
+        "subcategory": "None"
+    },
+    "07_04a": {
+        "code": "07_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04a.gltf",
+        "subcategory": "None"
+    },
+    "07_027": {
+        "code": "07_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_027.gltf",
+        "subcategory": "None"
+    },
+    "07_09d": {
+        "code": "07_09d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09d.gltf",
+        "subcategory": "None"
+    },
+    "07_070": {
+        "code": "07_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_070.gltf",
+        "subcategory": "None"
+    },
+    "07_08b": {
+        "code": "07_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "finial",
+            "hook",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08b.gltf",
+        "subcategory": "None"
+    },
+    "07_066": {
+        "code": "07_066",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_066.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_066.gltf",
+        "subcategory": "None"
+    },
+    "07_089": {
+        "code": "07_089",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_089.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "horizontal_bottom_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_089.gltf",
+        "subcategory": "None"
+    },
+    "07_030": {
+        "code": "07_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_030.gltf",
+        "subcategory": "None"
+    },
+    "07_067": {
+        "code": "07_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_067.gltf",
+        "subcategory": "None"
+    },
+    "07_088": {
+        "code": "07_088",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_088.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_088.gltf",
+        "subcategory": "None"
+    },
+    "07_08c": {
+        "code": "07_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "horizontal_bottom_panel",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08c.gltf",
+        "subcategory": "None"
+    },
+    "07_071": {
+        "code": "07_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_071.gltf",
+        "subcategory": "None"
+    },
+    "07_09e": {
+        "code": "07_09e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "fence_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09e.gltf",
+        "subcategory": "None"
+    },
+    "07_00a": {
+        "code": "07_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00a.gltf",
+        "subcategory": "None"
+    },
+    "07_0a5": {
+        "code": "07_0a5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a5.gltf",
+        "subcategory": "None"
+    },
+    "07_084": {
+        "code": "07_084",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_084.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_084.gltf",
+        "subcategory": "None"
+    },
+    "07_07f": {
+        "code": "07_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "fence_panel",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07f.gltf",
+        "subcategory": "None"
+    },
+    "07_02a": {
+        "code": "07_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02a.gltf",
+        "subcategory": "None"
+    },
+    "07_051": {
+        "code": "07_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_051.gltf",
+        "subcategory": "None"
+    },
+    "07_006": {
+        "code": "07_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_006.gltf",
+        "subcategory": "None"
+    },
+    "07_0a9": {
+        "code": "07_0a9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a9.gltf",
+        "subcategory": "None"
+    },
+    "07_010": {
+        "code": "07_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_010.gltf",
+        "subcategory": "None"
+    },
+    "07_047": {
+        "code": "07_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_top_panel",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_047.gltf",
+        "subcategory": "None"
+    },
+    "07_06c": {
+        "code": "07_06c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06c.gltf",
+        "subcategory": "None"
+    },
+    "07_087": {
+        "code": "07_087",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_087.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_water_dispenser",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_087.gltf",
+        "subcategory": "None"
+    },
+    "07_068": {
+        "code": "07_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_068.gltf",
+        "subcategory": "None"
+    },
+    "07_07e": {
+        "code": "07_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "hook",
+            "horizontal_bottom_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07e.gltf",
+        "subcategory": "None"
+    },
+    "07_091": {
+        "code": "07_091",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_091.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_091.gltf",
+        "subcategory": "None"
+    },
+    "07_02b": {
+        "code": "07_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fence_panel",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02b.gltf",
+        "subcategory": "None"
+    },
+    "07_029": {
+        "code": "07_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_029.gltf",
+        "subcategory": "None"
+    },
+    "07_052": {
+        "code": "07_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_052.gltf",
+        "subcategory": "None"
+    },
+    "07_005": {
+        "code": "07_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_005.gltf",
+        "subcategory": "None"
+    },
+    "07_0aa": {
+        "code": "07_0aa",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0aa.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0aa.gltf",
+        "subcategory": "None"
+    },
+    "07_033": {
+        "code": "07_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_033.gltf",
+        "subcategory": "None"
+    },
+    "07_064": {
+        "code": "07_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_perch",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_064.gltf",
+        "subcategory": "None"
+    },
+    "07_072": {
+        "code": "07_072",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_072.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_072.gltf",
+        "subcategory": "None"
+    },
+    "07_09f": {
+        "code": "07_09f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_09f.gltf",
+        "subcategory": "None"
+    },
+    "07_05e": {
+        "code": "07_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05e.gltf",
+        "subcategory": "None"
+    },
+    "07_009": {
+        "code": "07_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_perch",
+            "finial",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_009.gltf",
+        "subcategory": "None"
+    },
+    "07_00b": {
+        "code": "07_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_perch",
+            "hook",
+            "pedestal",
+            "roof"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00b.gltf",
+        "subcategory": "None"
+    },
+    "07_0a6": {
+        "code": "07_0a6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a6.gltf",
+        "subcategory": "None"
+    },
+    "07_01d": {
+        "code": "07_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "door",
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01d.gltf",
+        "subcategory": "None"
+    },
+    "07_048": {
+        "code": "07_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "pedestal",
+            "roof",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_048.gltf",
+        "subcategory": "None"
+    },
+    "07_04c": {
+        "code": "07_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04c.gltf",
+        "subcategory": "None"
+    },
+    "07_04b": {
+        "code": "07_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "pedestal",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04b.gltf",
+        "subcategory": "None"
+    },
+    "07_049": {
+        "code": "07_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_049.gltf",
+        "subcategory": "None"
+    },
+    "07_01e": {
+        "code": "07_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01e.gltf",
+        "subcategory": "None"
+    },
+    "07_0a7": {
+        "code": "07_0a7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a7.gltf",
+        "subcategory": "None"
+    },
+    "07_00c": {
+        "code": "07_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00c.gltf",
+        "subcategory": "None"
+    },
+    "07_008": {
+        "code": "07_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "roof",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_008.gltf",
+        "subcategory": "None"
+    },
+    "07_05d": {
+        "code": "07_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05d.gltf",
+        "subcategory": "None"
+    },
+    "07_024": {
+        "code": "07_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_024.gltf",
+        "subcategory": "None"
+    },
+    "07_073": {
+        "code": "07_073",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_073.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_073.gltf",
+        "subcategory": "None"
+    },
+    "07_08a": {
+        "code": "07_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_perch",
+            "finial",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08a.gltf",
+        "subcategory": "None"
+    },
+    "07_065": {
+        "code": "07_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_perch",
+            "hook",
+            "pedestal",
+            "roof"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_065.gltf",
+        "subcategory": "None"
+    },
+    "07_032": {
+        "code": "07_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_032.gltf",
+        "subcategory": "None"
+    },
+    "07_045": {
+        "code": "07_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_perch",
+            "finial",
+            "hook",
+            "horizontal_bottom_panel",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_045.gltf",
+        "subcategory": "None"
+    },
+    "07_012": {
+        "code": "07_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_012.gltf",
+        "subcategory": "None"
+    },
+    "07_004": {
+        "code": "07_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_004.gltf",
+        "subcategory": "None"
+    },
+    "07_053": {
+        "code": "07_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_053.gltf",
+        "subcategory": "None"
+    },
+    "07_028": {
+        "code": "07_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_028.gltf",
+        "subcategory": "None"
+    },
+    "07_02c": {
+        "code": "07_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02c.gltf",
+        "subcategory": "None"
+    },
+    "07_07d": {
+        "code": "07_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07d.gltf",
+        "subcategory": "None"
+    },
+    "07_086": {
+        "code": "07_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_086.gltf",
+        "subcategory": "None"
+    },
+    "07_069": {
+        "code": "07_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_069.gltf",
+        "subcategory": "None"
+    },
+    "07_06b": {
+        "code": "07_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "bird_house_feeder",
+            "bird_house_perch",
+            "finial",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06b.gltf",
+        "subcategory": "None"
+    },
+    "07_035": {
+        "code": "07_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "pedestal",
+            "roof"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_035.gltf",
+        "subcategory": "None"
+    },
+    "07_062": {
+        "code": "07_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_062.gltf",
+        "subcategory": "None"
+    },
+    "07_08f": {
+        "code": "07_08f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_08f.gltf",
+        "subcategory": "None"
+    },
+    "07_023": {
+        "code": "07_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_023.gltf",
+        "subcategory": "None"
+    },
+    "07_058": {
+        "code": "07_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_058.gltf",
+        "subcategory": "None"
+    },
+    "07_05c": {
+        "code": "07_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_05c.gltf",
+        "subcategory": "None"
+    },
+    "07_00d": {
+        "code": "07_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_00d.gltf",
+        "subcategory": "None"
+    },
+    "07_019": {
+        "code": "07_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_019.gltf",
+        "subcategory": "None"
+    },
+    "07_0a0": {
+        "code": "07_0a0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "hook",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a0.gltf",
+        "subcategory": "None"
+    },
+    "07_01b": {
+        "code": "07_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01b.gltf",
+        "subcategory": "None"
+    },
+    "07_04e": {
+        "code": "07_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "fence_panel",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04e.gltf",
+        "subcategory": "None"
+    },
+    "07_06e": {
+        "code": "07_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06e.gltf",
+        "subcategory": "None"
+    },
+    "07_07c": {
+        "code": "07_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_divider_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_07c.gltf",
+        "subcategory": "None"
+    },
+    "07_097": {
+        "code": "07_097",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_097.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "door",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_097.gltf",
+        "subcategory": "None"
+    },
+    "07_078": {
+        "code": "07_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_078.gltf",
+        "subcategory": "None"
+    },
+    "07_003": {
+        "code": "07_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_003.gltf",
+        "subcategory": "None"
+    },
+    "07_015": {
+        "code": "07_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_015.gltf",
+        "subcategory": "None"
+    },
+    "07_042": {
+        "code": "07_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_042.gltf",
+        "subcategory": "None"
+    },
+    "07_043": {
+        "code": "07_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_043.gltf",
+        "subcategory": "None"
+    },
+    "07_014": {
+        "code": "07_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_014.gltf",
+        "subcategory": "None"
+    },
+    "07_055": {
+        "code": "07_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "hook",
+            "horizontal_bottom_panel",
+            "horizontal_top_panel",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_055.gltf",
+        "subcategory": "None"
+    },
+    "07_02e": {
+        "code": "07_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_02e.gltf",
+        "subcategory": "None"
+    },
+    "07_096": {
+        "code": "07_096",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_096.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "finial",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_096.gltf",
+        "subcategory": "None"
+    },
+    "07_079": {
+        "code": "07_079",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_079.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_079.gltf",
+        "subcategory": "None"
+    },
+    "07_080": {
+        "code": "07_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "hook",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_080.gltf",
+        "subcategory": "None"
+    },
+    "07_06d": {
+        "code": "07_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_06d.gltf",
+        "subcategory": "None"
+    },
+    "07_038": {
+        "code": "07_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "hook",
+            "pedestal",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_038.gltf",
+        "subcategory": "None"
+    },
+    "07_03c": {
+        "code": "07_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_top_panel",
+            "pedestal",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_03c.gltf",
+        "subcategory": "None"
+    },
+    "07_04d": {
+        "code": "07_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_04d.gltf",
+        "subcategory": "None"
+    },
+    "07_01c": {
+        "code": "07_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_cage",
+            "hook",
+            "pedestal"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_01c.gltf",
+        "subcategory": "None"
+    },
+    "07_018": {
+        "code": "07_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_feeder",
+            "horizontal_bottom_panel",
+            "roof",
+            "support",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_018.gltf",
+        "subcategory": "None"
+    },
+    "07_0a1": {
+        "code": "07_0a1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "pedestal",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_0a1.gltf",
+        "subcategory": "None"
+    },
+    "07_022": {
+        "code": "07_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "horizontal_top_panel",
+            "pedestal",
+            "vertical_front_panel",
+            "vertical_side_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_022.gltf",
+        "subcategory": "None"
+    },
+    "07_075": {
+        "code": "07_075",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_075.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bird_house_perch",
+            "horizontal_bottom_panel",
+            "roof",
+            "vertical_back_panel",
+            "vertical_front_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_075.gltf",
+        "subcategory": "None"
+    },
+    "07_034": {
+        "code": "07_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "roof",
+            "support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/07_034.gltf",
+        "subcategory": "None"
+    }
+}

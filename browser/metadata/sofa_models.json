@@ -1,0 +1,4415 @@
+{
+    "21_07b": {
+        "code": "21_07b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07b.gltf",
+        "subcategory": "None"
+    },
+    "21_096": {
+        "code": "21_096",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_096.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_096.gltf",
+        "subcategory": "None"
+    },
+    "21_079": {
+        "code": "21_079",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_079.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_079.gltf",
+        "subcategory": "None"
+    },
+    "21_02e": {
+        "code": "21_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest",
+            "backrest_frame",
+            "leg",
+            "seat",
+            "seat_frame",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02e.gltf",
+        "subcategory": "None"
+    },
+    "21_0b7": {
+        "code": "21_0b7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b7.gltf",
+        "subcategory": "None"
+    },
+    "21_03c": {
+        "code": "21_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03c.gltf",
+        "subcategory": "None"
+    },
+    "21_0c1": {
+        "code": "21_0c1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c1.gltf",
+        "subcategory": "None"
+    },
+    "21_038": {
+        "code": "21_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_038.gltf",
+        "subcategory": "None"
+    },
+    "21_06d": {
+        "code": "21_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06d.gltf",
+        "subcategory": "None"
+    },
+    "21_12a": {
+        "code": "21_12a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12a.gltf",
+        "subcategory": "None"
+    },
+    "21_080": {
+        "code": "21_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_080.gltf",
+        "subcategory": "None"
+    },
+    "21_0af": {
+        "code": "21_0af",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0af.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0af.gltf",
+        "subcategory": "None"
+    },
+    "21_014": {
+        "code": "21_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_014.gltf",
+        "subcategory": "None"
+    },
+    "21_0da": {
+        "code": "21_0da",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0da.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0da.gltf",
+        "subcategory": "None"
+    },
+    "21_055": {
+        "code": "21_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_055.gltf",
+        "subcategory": "None"
+    },
+    "21_110": {
+        "code": "21_110",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_110.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "horizontal_panel",
+            "seat",
+            "vertical_divider_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_110.gltf",
+        "subcategory": "None"
+    },
+    "21_002": {
+        "code": "21_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_002.gltf",
+        "subcategory": "None"
+    },
+    "21_147": {
+        "code": "21_147",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_147.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_147.gltf",
+        "subcategory": "None"
+    },
+    "21_130": {
+        "code": "21_130",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_130.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_130.gltf",
+        "subcategory": "None"
+    },
+    "21_075": {
+        "code": "21_075",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_075.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_075.gltf",
+        "subcategory": "None"
+    },
+    "21_09a": {
+        "code": "21_09a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09a.gltf",
+        "subcategory": "None"
+    },
+    "21_022": {
+        "code": "21_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_022.gltf",
+        "subcategory": "None"
+    },
+    "21_034": {
+        "code": "21_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_034.gltf",
+        "subcategory": "None"
+    },
+    "21_126": {
+        "code": "21_126",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_126.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_126.gltf",
+        "subcategory": "None"
+    },
+    "21_063": {
+        "code": "21_063",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_063.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_063.gltf",
+        "subcategory": "None"
+    },
+    "21_0fa": {
+        "code": "21_0fa",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fa.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fa.gltf",
+        "subcategory": "None"
+    },
+    "21_018": {
+        "code": "21_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_018.gltf",
+        "subcategory": "None"
+    },
+    "21_01c": {
+        "code": "21_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01c.gltf",
+        "subcategory": "None"
+    },
+    "21_10a": {
+        "code": "21_10a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "leg",
+            "seat",
+            "support_bar",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10a.gltf",
+        "subcategory": "None"
+    },
+    "21_04d": {
+        "code": "21_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04d.gltf",
+        "subcategory": "None"
+    },
+    "21_059": {
+        "code": "21_059",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_059.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_059.gltf",
+        "subcategory": "None"
+    },
+    "21_0e0": {
+        "code": "21_0e0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e0.gltf",
+        "subcategory": "None"
+    },
+    "21_05b": {
+        "code": "21_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05b.gltf",
+        "subcategory": "None"
+    },
+    "21_00e": {
+        "code": "21_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00e.gltf",
+        "subcategory": "None"
+    },
+    "21_00d": {
+        "code": "21_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "pillow",
+            "seat",
+            "stretcher"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00d.gltf",
+        "subcategory": "None"
+    },
+    "21_11f": {
+        "code": "21_11f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11f.gltf",
+        "subcategory": "None"
+    },
+    "21_05c": {
+        "code": "21_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05c.gltf",
+        "subcategory": "None"
+    },
+    "21_058": {
+        "code": "21_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_058.gltf",
+        "subcategory": "None"
+    },
+    "21_0e1": {
+        "code": "21_0e1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e1.gltf",
+        "subcategory": "None"
+    },
+    "21_04e": {
+        "code": "21_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04e.gltf",
+        "subcategory": "None"
+    },
+    "21_0d7": {
+        "code": "21_0d7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d7.gltf",
+        "subcategory": "None"
+    },
+    "21_01b": {
+        "code": "21_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "foot",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01b.gltf",
+        "subcategory": "None"
+    },
+    "21_019": {
+        "code": "21_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_019.gltf",
+        "subcategory": "None"
+    },
+    "21_0a0": {
+        "code": "21_0a0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "armrest_cushion",
+            "backrest",
+            "backrest_frame",
+            "foot",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a0.gltf",
+        "subcategory": "None"
+    },
+    "21_127": {
+        "code": "21_127",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_127.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_127.gltf",
+        "subcategory": "None"
+    },
+    "21_062": {
+        "code": "21_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_062.gltf",
+        "subcategory": "None"
+    },
+    "21_035": {
+        "code": "21_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_035.gltf",
+        "subcategory": "None"
+    },
+    "21_0ba": {
+        "code": "21_0ba",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ba.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ba.gltf",
+        "subcategory": "None"
+    },
+    "21_023": {
+        "code": "21_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_023.gltf",
+        "subcategory": "None"
+    },
+    "21_131": {
+        "code": "21_131",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_131.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_131.gltf",
+        "subcategory": "None"
+    },
+    "21_074": {
+        "code": "21_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_074.gltf",
+        "subcategory": "None"
+    },
+    "21_003": {
+        "code": "21_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_003.gltf",
+        "subcategory": "None"
+    },
+    "21_146": {
+        "code": "21_146",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_146.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_146.gltf",
+        "subcategory": "None"
+    },
+    "21_111": {
+        "code": "21_111",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_111.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_111.gltf",
+        "subcategory": "None"
+    },
+    "21_0ef": {
+        "code": "21_0ef",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ef.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ef.gltf",
+        "subcategory": "None"
+    },
+    "21_042": {
+        "code": "21_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_042.gltf",
+        "subcategory": "None"
+    },
+    "21_015": {
+        "code": "21_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_015.gltf",
+        "subcategory": "None"
+    },
+    "21_081": {
+        "code": "21_081",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_081.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_081.gltf",
+        "subcategory": "None"
+    },
+    "21_0c0": {
+        "code": "21_0c0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c0.gltf",
+        "subcategory": "None"
+    },
+    "21_039": {
+        "code": "21_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_039.gltf",
+        "subcategory": "None"
+    },
+    "21_03b": {
+        "code": "21_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03b.gltf",
+        "subcategory": "None"
+    },
+    "21_0b6": {
+        "code": "21_0b6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b6.gltf",
+        "subcategory": "None"
+    },
+    "21_02d": {
+        "code": "21_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02d.gltf",
+        "subcategory": "None"
+    },
+    "21_097": {
+        "code": "21_097",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_097.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_097.gltf",
+        "subcategory": "None"
+    },
+    "21_078": {
+        "code": "21_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_078.gltf",
+        "subcategory": "None"
+    },
+    "21_07c": {
+        "code": "21_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "backrest_frame",
+            "leg",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07c.gltf",
+        "subcategory": "None"
+    },
+    "21_136": {
+        "code": "21_136",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_136.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_136.gltf",
+        "subcategory": "None"
+    },
+    "21_073": {
+        "code": "21_073",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_073.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_073.gltf",
+        "subcategory": "None"
+    },
+    "21_024": {
+        "code": "21_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_024.gltf",
+        "subcategory": "None"
+    },
+    "21_0bf": {
+        "code": "21_0bf",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bf.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bf.gltf",
+        "subcategory": "None"
+    },
+    "21_032": {
+        "code": "21_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_032.gltf",
+        "subcategory": "None"
+    },
+    "21_120": {
+        "code": "21_120",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_120.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest",
+            "backrest_frame",
+            "leg",
+            "pillow",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_120.gltf",
+        "subcategory": "None"
+    },
+    "21_065": {
+        "code": "21_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_065.gltf",
+        "subcategory": "None"
+    },
+    "21_08a": {
+        "code": "21_08a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08a.gltf",
+        "subcategory": "None"
+    },
+    "21_0a7": {
+        "code": "21_0a7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a7.gltf",
+        "subcategory": "None"
+    },
+    "21_01e": {
+        "code": "21_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01e.gltf",
+        "subcategory": "None"
+    },
+    "21_049": {
+        "code": "21_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_049.gltf",
+        "subcategory": "None"
+    },
+    "21_0d0": {
+        "code": "21_0d0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d0.gltf",
+        "subcategory": "None"
+    },
+    "21_04b": {
+        "code": "21_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04b.gltf",
+        "subcategory": "None"
+    },
+    "21_0e6": {
+        "code": "21_0e6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e6.gltf",
+        "subcategory": "None"
+    },
+    "21_11a": {
+        "code": "21_11a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11a.gltf",
+        "subcategory": "None"
+    },
+    "21_05d": {
+        "code": "21_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05d.gltf",
+        "subcategory": "None"
+    },
+    "21_008": {
+        "code": "21_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat",
+            "seat_frame",
+            "stretcher"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_008.gltf",
+        "subcategory": "None"
+    },
+    "21_00c": {
+        "code": "21_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00c.gltf",
+        "subcategory": "None"
+    },
+    "21_07d": {
+        "code": "21_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07d.gltf",
+        "subcategory": "None"
+    },
+    "21_13a": {
+        "code": "21_13a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13a.gltf",
+        "subcategory": "None"
+    },
+    "21_090": {
+        "code": "21_090",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_090.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_090.gltf",
+        "subcategory": "None"
+    },
+    "21_02c": {
+        "code": "21_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02c.gltf",
+        "subcategory": "None"
+    },
+    "21_0b1": {
+        "code": "21_0b1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b1.gltf",
+        "subcategory": "None"
+    },
+    "21_028": {
+        "code": "21_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_028.gltf",
+        "subcategory": "None"
+    },
+    "21_03e": {
+        "code": "21_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03e.gltf",
+        "subcategory": "None"
+    },
+    "21_0c7": {
+        "code": "21_0c7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c7.gltf",
+        "subcategory": "None"
+    },
+    "21_06b": {
+        "code": "21_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat",
+            "seat_frame",
+            "stretcher"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06b.gltf",
+        "subcategory": "None"
+    },
+    "21_086": {
+        "code": "21_086",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_086.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_086.gltf",
+        "subcategory": "None"
+    },
+    "21_0f0": {
+        "code": "21_0f0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f0.gltf",
+        "subcategory": "None"
+    },
+    "21_069": {
+        "code": "21_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_069.gltf",
+        "subcategory": "None"
+    },
+    "21_012": {
+        "code": "21_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_012.gltf",
+        "subcategory": "None"
+    },
+    "21_045": {
+        "code": "21_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_045.gltf",
+        "subcategory": "None"
+    },
+    "21_100": {
+        "code": "21_100",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_100.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_100.gltf",
+        "subcategory": "None"
+    },
+    "21_0ea": {
+        "code": "21_0ea",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ea.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ea.gltf",
+        "subcategory": "None"
+    },
+    "21_053": {
+        "code": "21_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_053.gltf",
+        "subcategory": "None"
+    },
+    "21_116": {
+        "code": "21_116",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_116.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_116.gltf",
+        "subcategory": "None"
+    },
+    "21_004": {
+        "code": "21_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_004.gltf",
+        "subcategory": "None"
+    },
+    "21_141": {
+        "code": "21_141",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_141.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_141.gltf",
+        "subcategory": "None"
+    },
+    "21_005": {
+        "code": "21_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_005.gltf",
+        "subcategory": "None"
+    },
+    "21_140": {
+        "code": "21_140",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_140.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_140.gltf",
+        "subcategory": "None"
+    },
+    "21_052": {
+        "code": "21_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_052.gltf",
+        "subcategory": "None"
+    },
+    "21_117": {
+        "code": "21_117",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_117.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_117.gltf",
+        "subcategory": "None"
+    },
+    "21_044": {
+        "code": "21_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_044.gltf",
+        "subcategory": "None"
+    },
+    "21_101": {
+        "code": "21_101",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_101.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_101.gltf",
+        "subcategory": "None"
+    },
+    "21_0df": {
+        "code": "21_0df",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0df.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0df.gltf",
+        "subcategory": "None"
+    },
+    "21_013": {
+        "code": "21_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_013.gltf",
+        "subcategory": "None"
+    },
+    "21_0aa": {
+        "code": "21_0aa",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0aa.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0aa.gltf",
+        "subcategory": "None"
+    },
+    "21_087": {
+        "code": "21_087",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_087.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_087.gltf",
+        "subcategory": "None"
+    },
+    "21_068": {
+        "code": "21_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_068.gltf",
+        "subcategory": "None"
+    },
+    "21_12f": {
+        "code": "21_12f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest_frame",
+            "foot",
+            "leg",
+            "pillow",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12f.gltf",
+        "subcategory": "None"
+    },
+    "21_0c6": {
+        "code": "21_0c6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c6.gltf",
+        "subcategory": "None"
+    },
+    "21_03d": {
+        "code": "21_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03d.gltf",
+        "subcategory": "None"
+    },
+    "21_0b0": {
+        "code": "21_0b0",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b0.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b0.gltf",
+        "subcategory": "None"
+    },
+    "21_029": {
+        "code": "21_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_029.gltf",
+        "subcategory": "None"
+    },
+    "21_02b": {
+        "code": "21_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02b.gltf",
+        "subcategory": "None"
+    },
+    "21_091": {
+        "code": "21_091",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_091.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_091.gltf",
+        "subcategory": "None"
+    },
+    "21_07e": {
+        "code": "21_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_bar",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07e.gltf",
+        "subcategory": "None"
+    },
+    "21_00b": {
+        "code": "21_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00b.gltf",
+        "subcategory": "None"
+    },
+    "21_009": {
+        "code": "21_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_009.gltf",
+        "subcategory": "None"
+    },
+    "21_05e": {
+        "code": "21_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05e.gltf",
+        "subcategory": "None"
+    },
+    "21_0e7": {
+        "code": "21_0e7",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e7.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e7.gltf",
+        "subcategory": "None"
+    },
+    "21_10f": {
+        "code": "21_10f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "support_bar",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10f.gltf",
+        "subcategory": "None"
+    },
+    "21_04c": {
+        "code": "21_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04c.gltf",
+        "subcategory": "None"
+    },
+    "21_048": {
+        "code": "21_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_048.gltf",
+        "subcategory": "None"
+    },
+    "21_0d1": {
+        "code": "21_0d1",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d1.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d1.gltf",
+        "subcategory": "None"
+    },
+    "21_01d": {
+        "code": "21_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "armrest_cushion",
+            "backrest",
+            "backrest_frame",
+            "foot",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01d.gltf",
+        "subcategory": "None"
+    },
+    "21_0a6": {
+        "code": "21_0a6",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a6.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a6.gltf",
+        "subcategory": "None"
+    },
+    "21_0ff": {
+        "code": "21_0ff",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ff.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ff.gltf",
+        "subcategory": "None"
+    },
+    "21_121": {
+        "code": "21_121",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_121.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_121.gltf",
+        "subcategory": "None"
+    },
+    "21_064": {
+        "code": "21_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_064.gltf",
+        "subcategory": "None"
+    },
+    "21_0ca": {
+        "code": "21_0ca",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ca.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ca.gltf",
+        "subcategory": "None"
+    },
+    "21_033": {
+        "code": "21_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_033.gltf",
+        "subcategory": "None"
+    },
+    "21_025": {
+        "code": "21_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_025.gltf",
+        "subcategory": "None"
+    },
+    "21_09f": {
+        "code": "21_09f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09f.gltf",
+        "subcategory": "None"
+    },
+    "21_137": {
+        "code": "21_137",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_137.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_137.gltf",
+        "subcategory": "None"
+    },
+    "21_072": {
+        "code": "21_072",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_072.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "design",
+            "leg",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_072.gltf",
+        "subcategory": "None"
+    },
+    "21_00a": {
+        "code": "21_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00a.gltf",
+        "subcategory": "None"
+    },
+    "21_05f": {
+        "code": "21_05f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat",
+            "stretcher"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_05f.gltf",
+        "subcategory": "None"
+    },
+    "21_11c": {
+        "code": "21_11c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11c.gltf",
+        "subcategory": "None"
+    },
+    "21_0e4": {
+        "code": "21_0e4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e4.gltf",
+        "subcategory": "None"
+    },
+    "21_118": {
+        "code": "21_118",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_118.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_118.gltf",
+        "subcategory": "None"
+    },
+    "21_10e": {
+        "code": "21_10e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10e.gltf",
+        "subcategory": "None"
+    },
+    "21_0d2": {
+        "code": "21_0d2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d2.gltf",
+        "subcategory": "None"
+    },
+    "21_0a5": {
+        "code": "21_0a5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a5.gltf",
+        "subcategory": "None"
+    },
+    "21_0fe": {
+        "code": "21_0fe",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fe.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fe.gltf",
+        "subcategory": "None"
+    },
+    "21_08c": {
+        "code": "21_08c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08c.gltf",
+        "subcategory": "None"
+    },
+    "21_067": {
+        "code": "21_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_067.gltf",
+        "subcategory": "None"
+    },
+    "21_122": {
+        "code": "21_122",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_122.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_122.gltf",
+        "subcategory": "None"
+    },
+    "21_088": {
+        "code": "21_088",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_088.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_088.gltf",
+        "subcategory": "None"
+    },
+    "21_0cb": {
+        "code": "21_0cb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0cb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0cb.gltf",
+        "subcategory": "None"
+    },
+    "21_030": {
+        "code": "21_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_030.gltf",
+        "subcategory": "None"
+    },
+    "21_0c9": {
+        "code": "21_0c9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c9.gltf",
+        "subcategory": "None"
+    },
+    "21_0bd": {
+        "code": "21_0bd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bd.gltf",
+        "subcategory": "None"
+    },
+    "21_026": {
+        "code": "21_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "design",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_026.gltf",
+        "subcategory": "None"
+    },
+    "21_09e": {
+        "code": "21_09e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09e.gltf",
+        "subcategory": "None"
+    },
+    "21_071": {
+        "code": "21_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat",
+            "seat_frame",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_071.gltf",
+        "subcategory": "None"
+    },
+    "21_134": {
+        "code": "21_134",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_134.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_134.gltf",
+        "subcategory": "None"
+    },
+    "21_143": {
+        "code": "21_143",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_143.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_143.gltf",
+        "subcategory": "None"
+    },
+    "21_006": {
+        "code": "21_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "support_bar",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_006.gltf",
+        "subcategory": "None"
+    },
+    "21_0e8": {
+        "code": "21_0e8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e8.gltf",
+        "subcategory": "None"
+    },
+    "21_051": {
+        "code": "21_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_051.gltf",
+        "subcategory": "None"
+    },
+    "21_0ec": {
+        "code": "21_0ec",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ec.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ec.gltf",
+        "subcategory": "None"
+    },
+    "21_102": {
+        "code": "21_102",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_102.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_102.gltf",
+        "subcategory": "None"
+    },
+    "21_047": {
+        "code": "21_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_047.gltf",
+        "subcategory": "None"
+    },
+    "21_0a9": {
+        "code": "21_0a9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a9.gltf",
+        "subcategory": "None"
+    },
+    "21_010": {
+        "code": "21_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_010.gltf",
+        "subcategory": "None"
+    },
+    "21_0ab": {
+        "code": "21_0ab",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ab.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ab.gltf",
+        "subcategory": "None"
+    },
+    "21_084": {
+        "code": "21_084",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_084.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_084.gltf",
+        "subcategory": "None"
+    },
+    "21_0f2": {
+        "code": "21_0f2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f2.gltf",
+        "subcategory": "None"
+    },
+    "21_12e": {
+        "code": "21_12e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12e.gltf",
+        "subcategory": "None"
+    },
+    "21_0c5": {
+        "code": "21_0c5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c5.gltf",
+        "subcategory": "None"
+    },
+    "21_0b3": {
+        "code": "21_0b3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b3.gltf",
+        "subcategory": "None"
+    },
+    "21_02a": {
+        "code": "21_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02a.gltf",
+        "subcategory": "None"
+    },
+    "21_138": {
+        "code": "21_138",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_138.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_138.gltf",
+        "subcategory": "None"
+    },
+    "21_092": {
+        "code": "21_092",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_092.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_092.gltf",
+        "subcategory": "None"
+    },
+    "21_13c": {
+        "code": "21_13c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13c.gltf",
+        "subcategory": "None"
+    },
+    "21_07f": {
+        "code": "21_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_07f.gltf",
+        "subcategory": "None"
+    },
+    "21_13b": {
+        "code": "21_13b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13b.gltf",
+        "subcategory": "None"
+    },
+    "21_139": {
+        "code": "21_139",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_139.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_139.gltf",
+        "subcategory": "None"
+    },
+    "21_093": {
+        "code": "21_093",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_093.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_093.gltf",
+        "subcategory": "None"
+    },
+    "21_0b2": {
+        "code": "21_0b2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat",
+            "seat_frame",
+            "stretcher"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b2.gltf",
+        "subcategory": "None"
+    },
+    "21_03f": {
+        "code": "21_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03f.gltf",
+        "subcategory": "None"
+    },
+    "21_0c4": {
+        "code": "21_0c4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c4.gltf",
+        "subcategory": "None"
+    },
+    "21_12d": {
+        "code": "21_12d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12d.gltf",
+        "subcategory": "None"
+    },
+    "21_06a": {
+        "code": "21_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06a.gltf",
+        "subcategory": "None"
+    },
+    "21_085": {
+        "code": "21_085",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_085.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_085.gltf",
+        "subcategory": "None"
+    },
+    "21_0f3": {
+        "code": "21_0f3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f3.gltf",
+        "subcategory": "None"
+    },
+    "21_0ac": {
+        "code": "21_0ac",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ac.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ac.gltf",
+        "subcategory": "None"
+    },
+    "21_0a8": {
+        "code": "21_0a8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a8.gltf",
+        "subcategory": "None"
+    },
+    "21_011": {
+        "code": "21_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_011.gltf",
+        "subcategory": "None"
+    },
+    "21_0dd": {
+        "code": "21_0dd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0dd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0dd.gltf",
+        "subcategory": "None"
+    },
+    "21_103": {
+        "code": "21_103",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_103.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "leg",
+            "seat",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_103.gltf",
+        "subcategory": "None"
+    },
+    "21_046": {
+        "code": "21_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_046.gltf",
+        "subcategory": "None"
+    },
+    "21_0eb": {
+        "code": "21_0eb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0eb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0eb.gltf",
+        "subcategory": "None"
+    },
+    "21_0e9": {
+        "code": "21_0e9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e9.gltf",
+        "subcategory": "None"
+    },
+    "21_115": {
+        "code": "21_115",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_115.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_115.gltf",
+        "subcategory": "None"
+    },
+    "21_142": {
+        "code": "21_142",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_142.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_142.gltf",
+        "subcategory": "None"
+    },
+    "21_007": {
+        "code": "21_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest_bar",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_007.gltf",
+        "subcategory": "None"
+    },
+    "21_070": {
+        "code": "21_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_070.gltf",
+        "subcategory": "None"
+    },
+    "21_09d": {
+        "code": "21_09d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09d.gltf",
+        "subcategory": "None"
+    },
+    "21_027": {
+        "code": "21_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_027.gltf",
+        "subcategory": "None"
+    },
+    "21_0be": {
+        "code": "21_0be",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0be.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0be.gltf",
+        "subcategory": "None"
+    },
+    "21_031": {
+        "code": "21_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_031.gltf",
+        "subcategory": "None"
+    },
+    "21_0cc": {
+        "code": "21_0cc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0cc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0cc.gltf",
+        "subcategory": "None"
+    },
+    "21_066": {
+        "code": "21_066",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_066.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_066.gltf",
+        "subcategory": "None"
+    },
+    "21_123": {
+        "code": "21_123",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_123.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_123.gltf",
+        "subcategory": "None"
+    },
+    "21_089": {
+        "code": "21_089",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_089.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_089.gltf",
+        "subcategory": "None"
+    },
+    "21_08b": {
+        "code": "21_08b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08b.gltf",
+        "subcategory": "None"
+    },
+    "21_0a4": {
+        "code": "21_0a4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a4.gltf",
+        "subcategory": "None"
+    },
+    "21_01f": {
+        "code": "21_01f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01f.gltf",
+        "subcategory": "None"
+    },
+    "21_0d3": {
+        "code": "21_0d3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d3.gltf",
+        "subcategory": "None"
+    },
+    "21_04a": {
+        "code": "21_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04a.gltf",
+        "subcategory": "None"
+    },
+    "21_119": {
+        "code": "21_119",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_119.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_119.gltf",
+        "subcategory": "None"
+    },
+    "21_0e5": {
+        "code": "21_0e5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e5.gltf",
+        "subcategory": "None"
+    },
+    "21_11b": {
+        "code": "21_11b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11b.gltf",
+        "subcategory": "None"
+    },
+    "21_145": {
+        "code": "21_145",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_145.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_145.gltf",
+        "subcategory": "None"
+    },
+    "21_000": {
+        "code": "21_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_000.gltf",
+        "subcategory": "None"
+    },
+    "21_112": {
+        "code": "21_112",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_112.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_112.gltf",
+        "subcategory": "None"
+    },
+    "21_057": {
+        "code": "21_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_057.gltf",
+        "subcategory": "None"
+    },
+    "21_0ee": {
+        "code": "21_0ee",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ee.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ee.gltf",
+        "subcategory": "None"
+    },
+    "21_0d8": {
+        "code": "21_0d8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d8.gltf",
+        "subcategory": "None"
+    },
+    "21_104": {
+        "code": "21_104",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_104.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_104.gltf",
+        "subcategory": "None"
+    },
+    "21_0dc": {
+        "code": "21_0dc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0dc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_frame",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0dc.gltf",
+        "subcategory": "None"
+    },
+    "21_016": {
+        "code": "21_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_016.gltf",
+        "subcategory": "None"
+    },
+    "21_0ad": {
+        "code": "21_0ad",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ad.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ad.gltf",
+        "subcategory": "None"
+    },
+    "21_082": {
+        "code": "21_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_bar",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_082.gltf",
+        "subcategory": "None"
+    },
+    "21_128": {
+        "code": "21_128",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_128.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_128.gltf",
+        "subcategory": "None"
+    },
+    "21_0f4": {
+        "code": "21_0f4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f4.gltf",
+        "subcategory": "None"
+    },
+    "21_12c": {
+        "code": "21_12c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12c.gltf",
+        "subcategory": "None"
+    },
+    "21_06f": {
+        "code": "21_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_06f.gltf",
+        "subcategory": "None"
+    },
+    "21_0c3": {
+        "code": "21_0c3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c3.gltf",
+        "subcategory": "None"
+    },
+    "21_03a": {
+        "code": "21_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_03a.gltf",
+        "subcategory": "None"
+    },
+    "21_0b5": {
+        "code": "21_0b5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b5.gltf",
+        "subcategory": "None"
+    },
+    "21_094": {
+        "code": "21_094",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_094.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_094.gltf",
+        "subcategory": "None"
+    },
+    "21_13e": {
+        "code": "21_13e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13e.gltf",
+        "subcategory": "None"
+    },
+    "21_0e2": {
+        "code": "21_0e2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e2.gltf",
+        "subcategory": "None"
+    },
+    "21_04f": {
+        "code": "21_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_04f.gltf",
+        "subcategory": "None"
+    },
+    "21_10c": {
+        "code": "21_10c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10c.gltf",
+        "subcategory": "None"
+    },
+    "21_108": {
+        "code": "21_108",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_108.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_108.gltf",
+        "subcategory": "None"
+    },
+    "21_0d4": {
+        "code": "21_0d4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d4.gltf",
+        "subcategory": "None"
+    },
+    "21_01a": {
+        "code": "21_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_01a.gltf",
+        "subcategory": "None"
+    },
+    "21_0fc": {
+        "code": "21_0fc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "backrest_frame",
+            "leg",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fc.gltf",
+        "subcategory": "None"
+    },
+    "21_08e": {
+        "code": "21_08e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08e.gltf",
+        "subcategory": "None"
+    },
+    "21_061": {
+        "code": "21_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_061.gltf",
+        "subcategory": "None"
+    },
+    "21_0f8": {
+        "code": "21_0f8",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f8.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f8.gltf",
+        "subcategory": "None"
+    },
+    "21_124": {
+        "code": "21_124",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_124.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "backrest_frame",
+            "leg",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_124.gltf",
+        "subcategory": "None"
+    },
+    "21_0cd": {
+        "code": "21_0cd",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0cd.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0cd.gltf",
+        "subcategory": "None"
+    },
+    "21_036": {
+        "code": "21_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_036.gltf",
+        "subcategory": "None"
+    },
+    "21_0bb": {
+        "code": "21_0bb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_bar",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bb.gltf",
+        "subcategory": "None"
+    },
+    "21_0b9": {
+        "code": "21_0b9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b9.gltf",
+        "subcategory": "None"
+    },
+    "21_09c": {
+        "code": "21_09c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09c.gltf",
+        "subcategory": "None"
+    },
+    "21_077": {
+        "code": "21_077",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_077.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_077.gltf",
+        "subcategory": "None"
+    },
+    "21_098": {
+        "code": "21_098",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_098.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_098.gltf",
+        "subcategory": "None"
+    },
+    "21_132": {
+        "code": "21_132",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_132.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_132.gltf",
+        "subcategory": "None"
+    },
+    "21_076": {
+        "code": "21_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_076.gltf",
+        "subcategory": "None"
+    },
+    "21_099": {
+        "code": "21_099",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_099.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat",
+            "seat_frame",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_099.gltf",
+        "subcategory": "None"
+    },
+    "21_09b": {
+        "code": "21_09b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_09b.gltf",
+        "subcategory": "None"
+    },
+    "21_021": {
+        "code": "21_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_021.gltf",
+        "subcategory": "None"
+    },
+    "21_0bc": {
+        "code": "21_0bc",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bc.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0bc.gltf",
+        "subcategory": "None"
+    },
+    "21_037": {
+        "code": "21_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "pillow",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_037.gltf",
+        "subcategory": "None"
+    },
+    "21_0ce": {
+        "code": "21_0ce",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ce.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ce.gltf",
+        "subcategory": "None"
+    },
+    "21_060": {
+        "code": "21_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_060.gltf",
+        "subcategory": "None"
+    },
+    "21_0f9": {
+        "code": "21_0f9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f9.gltf",
+        "subcategory": "None"
+    },
+    "21_0fb": {
+        "code": "21_0fb",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fb.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0fb.gltf",
+        "subcategory": "None"
+    },
+    "21_08d": {
+        "code": "21_08d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_08d.gltf",
+        "subcategory": "None"
+    },
+    "21_0a2": {
+        "code": "21_0a2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "support_bar"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0a2.gltf",
+        "subcategory": "None"
+    },
+    "21_0d5": {
+        "code": "21_0d5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d5.gltf",
+        "subcategory": "None"
+    },
+    "21_109": {
+        "code": "21_109",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_109.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_frame",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_109.gltf",
+        "subcategory": "None"
+    },
+    "21_10b": {
+        "code": "21_10b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_10b.gltf",
+        "subcategory": "None"
+    },
+    "21_0e3": {
+        "code": "21_0e3",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e3.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0e3.gltf",
+        "subcategory": "None"
+    },
+    "21_11d": {
+        "code": "21_11d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_11d.gltf",
+        "subcategory": "None"
+    },
+    "21_148": {
+        "code": "21_148",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_148.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "pillow",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_148.gltf",
+        "subcategory": "None"
+    },
+    "21_00f": {
+        "code": "21_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_00f.gltf",
+        "subcategory": "None"
+    },
+    "21_13d": {
+        "code": "21_13d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_13d.gltf",
+        "subcategory": "None"
+    },
+    "21_095": {
+        "code": "21_095",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_095.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "backrest",
+            "foot",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_095.gltf",
+        "subcategory": "None"
+    },
+    "21_02f": {
+        "code": "21_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_02f.gltf",
+        "subcategory": "None"
+    },
+    "21_0b4": {
+        "code": "21_0b4",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b4.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "horizontal_bottom_panel",
+            "leg",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0b4.gltf",
+        "subcategory": "None"
+    },
+    "21_0c2": {
+        "code": "21_0c2",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c2.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0c2.gltf",
+        "subcategory": "None"
+    },
+    "21_12b": {
+        "code": "21_12b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_12b.gltf",
+        "subcategory": "None"
+    },
+    "21_083": {
+        "code": "21_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_083.gltf",
+        "subcategory": "None"
+    },
+    "21_0f5": {
+        "code": "21_0f5",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f5.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0f5.gltf",
+        "subcategory": "None"
+    },
+    "21_129": {
+        "code": "21_129",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_129.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_129.gltf",
+        "subcategory": "None"
+    },
+    "21_0ae": {
+        "code": "21_0ae",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ae.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_frame"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ae.gltf",
+        "subcategory": "None"
+    },
+    "21_017": {
+        "code": "21_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_017.gltf",
+        "subcategory": "None"
+    },
+    "21_0db": {
+        "code": "21_0db",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0db.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0db.gltf",
+        "subcategory": "None"
+    },
+    "21_105": {
+        "code": "21_105",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_105.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_105.gltf",
+        "subcategory": "None"
+    },
+    "21_0d9": {
+        "code": "21_0d9",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d9.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0d9.gltf",
+        "subcategory": "None"
+    },
+    "21_0ed": {
+        "code": "21_0ed",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ed.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "armrest_cushion",
+            "backrest",
+            "foot",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_0ed.gltf",
+        "subcategory": "None"
+    },
+    "21_056": {
+        "code": "21_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "horizontal_bottom_panel",
+            "pillow",
+            "seat",
+            "seat_support",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_056.gltf",
+        "subcategory": "None"
+    },
+    "21_144": {
+        "code": "21_144",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_144.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "foot",
+            "seat",
+            "vertical_back_panel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_144.gltf",
+        "subcategory": "None"
+    },
+    "21_001": {
+        "code": "21_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "armrest",
+            "backrest",
+            "leg",
+            "seat",
+            "seat_support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/21_001.gltf",
+        "subcategory": "None"
+    }
+}

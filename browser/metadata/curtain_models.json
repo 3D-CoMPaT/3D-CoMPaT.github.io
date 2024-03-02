@@ -1,0 +1,1168 @@
+{
+    "0f_003": {
+        "code": "0f_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_003.gltf",
+        "subcategory": "None"
+    },
+    "0f_054": {
+        "code": "0f_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_054.gltf",
+        "subcategory": "None"
+    },
+    "0f_042": {
+        "code": "0f_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_042.gltf",
+        "subcategory": "None"
+    },
+    "0f_015": {
+        "code": "0f_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_015.gltf",
+        "subcategory": "None"
+    },
+    "0f_06e": {
+        "code": "0f_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06e.gltf",
+        "subcategory": "None"
+    },
+    "0f_039": {
+        "code": "0f_039",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_039.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_039.gltf",
+        "subcategory": "None"
+    },
+    "0f_03b": {
+        "code": "0f_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03b.gltf",
+        "subcategory": "None"
+    },
+    "0f_02d": {
+        "code": "0f_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02d.gltf",
+        "subcategory": "None"
+    },
+    "0f_00d": {
+        "code": "0f_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00d.gltf",
+        "subcategory": "None"
+    },
+    "0f_05c": {
+        "code": "0f_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05c.gltf",
+        "subcategory": "None"
+    },
+    "0f_058": {
+        "code": "0f_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_058.gltf",
+        "subcategory": "None"
+    },
+    "0f_04e": {
+        "code": "0f_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04e.gltf",
+        "subcategory": "None"
+    },
+    "0f_01b": {
+        "code": "0f_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01b.gltf",
+        "subcategory": "None"
+    },
+    "0f_035": {
+        "code": "0f_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_035.gltf",
+        "subcategory": "None"
+    },
+    "0f_022": {
+        "code": "0f_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_022.gltf",
+        "subcategory": "None"
+    },
+    "0f_034": {
+        "code": "0f_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_034.gltf",
+        "subcategory": "None"
+    },
+    "0f_018": {
+        "code": "0f_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_018.gltf",
+        "subcategory": "None"
+    },
+    "0f_01c": {
+        "code": "0f_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01c.gltf",
+        "subcategory": "None"
+    },
+    "0f_04d": {
+        "code": "0f_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04d.gltf",
+        "subcategory": "None"
+    },
+    "0f_05b": {
+        "code": "0f_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole_cover",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05b.gltf",
+        "subcategory": "None"
+    },
+    "0f_02e": {
+        "code": "0f_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02e.gltf",
+        "subcategory": "None"
+    },
+    "0f_03c": {
+        "code": "0f_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03c.gltf",
+        "subcategory": "None"
+    },
+    "0f_038": {
+        "code": "0f_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_038.gltf",
+        "subcategory": "None"
+    },
+    "0f_014": {
+        "code": "0f_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_014.gltf",
+        "subcategory": "None"
+    },
+    "0f_043": {
+        "code": "0f_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_043.gltf",
+        "subcategory": "None"
+    },
+    "0f_055": {
+        "code": "0f_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_055.gltf",
+        "subcategory": "None"
+    },
+    "0f_002": {
+        "code": "0f_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_002.gltf",
+        "subcategory": "None"
+    },
+    "0f_00b": {
+        "code": "0f_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00b.gltf",
+        "subcategory": "None"
+    },
+    "0f_04c": {
+        "code": "0f_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04c.gltf",
+        "subcategory": "None"
+    },
+    "0f_048": {
+        "code": "0f_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_048.gltf",
+        "subcategory": "None"
+    },
+    "0f_01d": {
+        "code": "0f_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01d.gltf",
+        "subcategory": "None"
+    },
+    "0f_064": {
+        "code": "0f_064",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_064.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_064.gltf",
+        "subcategory": "None"
+    },
+    "0f_025": {
+        "code": "0f_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_025.gltf",
+        "subcategory": "None"
+    },
+    "0f_005": {
+        "code": "0f_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_005.gltf",
+        "subcategory": "None"
+    },
+    "0f_052": {
+        "code": "0f_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_052.gltf",
+        "subcategory": "None"
+    },
+    "0f_044": {
+        "code": "0f_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_044.gltf",
+        "subcategory": "None"
+    },
+    "0f_013": {
+        "code": "0f_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_013.gltf",
+        "subcategory": "None"
+    },
+    "0f_068": {
+        "code": "0f_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_068.gltf",
+        "subcategory": "None"
+    },
+    "0f_03d": {
+        "code": "0f_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03d.gltf",
+        "subcategory": "None"
+    },
+    "0f_02b": {
+        "code": "0f_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02b.gltf",
+        "subcategory": "None"
+    },
+    "0f_02c": {
+        "code": "0f_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02c.gltf",
+        "subcategory": "None"
+    },
+    "0f_028": {
+        "code": "0f_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_028.gltf",
+        "subcategory": "None"
+    },
+    "0f_03e": {
+        "code": "0f_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03e.gltf",
+        "subcategory": "None"
+    },
+    "0f_06b": {
+        "code": "0f_06b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06b.gltf",
+        "subcategory": "None"
+    },
+    "0f_069": {
+        "code": "0f_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_069.gltf",
+        "subcategory": "None"
+    },
+    "0f_012": {
+        "code": "0f_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_012.gltf",
+        "subcategory": "None"
+    },
+    "0f_045": {
+        "code": "0f_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_045.gltf",
+        "subcategory": "None"
+    },
+    "0f_053": {
+        "code": "0f_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_053.gltf",
+        "subcategory": "None"
+    },
+    "0f_004": {
+        "code": "0f_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_004.gltf",
+        "subcategory": "None"
+    },
+    "0f_024": {
+        "code": "0f_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_024.gltf",
+        "subcategory": "None"
+    },
+    "0f_032": {
+        "code": "0f_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_032.gltf",
+        "subcategory": "None"
+    },
+    "0f_065": {
+        "code": "0f_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_065.gltf",
+        "subcategory": "None"
+    },
+    "0f_01e": {
+        "code": "0f_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01e.gltf",
+        "subcategory": "None"
+    },
+    "0f_049": {
+        "code": "0f_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_049.gltf",
+        "subcategory": "None"
+    },
+    "0f_008": {
+        "code": "0f_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_008.gltf",
+        "subcategory": "None"
+    },
+    "0f_00c": {
+        "code": "0f_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00c.gltf",
+        "subcategory": "None"
+    },
+    "0f_070": {
+        "code": "0f_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_070.gltf",
+        "subcategory": "None"
+    },
+    "0f_027": {
+        "code": "0f_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_027.gltf",
+        "subcategory": "None"
+    },
+    "0f_066": {
+        "code": "0f_066",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_066.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_066.gltf",
+        "subcategory": "None"
+    },
+    "0f_04a": {
+        "code": "0f_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04a.gltf",
+        "subcategory": "None"
+    },
+    "0f_03f": {
+        "code": "0f_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_03f.gltf",
+        "subcategory": "None"
+    },
+    "0f_06a": {
+        "code": "0f_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06a.gltf",
+        "subcategory": "None"
+    },
+    "0f_011": {
+        "code": "0f_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_011.gltf",
+        "subcategory": "None"
+    },
+    "0f_046": {
+        "code": "0f_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_046.gltf",
+        "subcategory": "None"
+    },
+    "0f_050": {
+        "code": "0f_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "curtain_tieback",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_050.gltf",
+        "subcategory": "None"
+    },
+    "0f_007": {
+        "code": "0f_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_007.gltf",
+        "subcategory": "None"
+    },
+    "0f_006": {
+        "code": "0f_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_006.gltf",
+        "subcategory": "None"
+    },
+    "0f_051": {
+        "code": "0f_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_051.gltf",
+        "subcategory": "None"
+    },
+    "0f_047": {
+        "code": "0f_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_047.gltf",
+        "subcategory": "None"
+    },
+    "0f_010": {
+        "code": "0f_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_010.gltf",
+        "subcategory": "None"
+    },
+    "0f_02a": {
+        "code": "0f_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02a.gltf",
+        "subcategory": "None"
+    },
+    "0f_00a": {
+        "code": "0f_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_00a.gltf",
+        "subcategory": "None"
+    },
+    "0f_05f": {
+        "code": "0f_05f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05f.gltf",
+        "subcategory": "None"
+    },
+    "0f_067": {
+        "code": "0f_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_067.gltf",
+        "subcategory": "None"
+    },
+    "0f_030": {
+        "code": "0f_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_030.gltf",
+        "subcategory": "None"
+    },
+    "0f_026": {
+        "code": "0f_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_026.gltf",
+        "subcategory": "None"
+    },
+    "0f_071": {
+        "code": "0f_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_071.gltf",
+        "subcategory": "None"
+    },
+    "0f_02f": {
+        "code": "0f_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_02f.gltf",
+        "subcategory": "None"
+    },
+    "0f_040": {
+        "code": "0f_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_040.gltf",
+        "subcategory": "None"
+    },
+    "0f_001": {
+        "code": "0f_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_001.gltf",
+        "subcategory": "None"
+    },
+    "0f_037": {
+        "code": "0f_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_037.gltf",
+        "subcategory": "None"
+    },
+    "0f_05a": {
+        "code": "0f_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_05a.gltf",
+        "subcategory": "None"
+    },
+    "0f_04f": {
+        "code": "0f_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_04f.gltf",
+        "subcategory": "None"
+    },
+    "0f_01a": {
+        "code": "0f_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_pole_cover",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_01a.gltf",
+        "subcategory": "None"
+    },
+    "0f_061": {
+        "code": "0f_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_061.gltf",
+        "subcategory": "None"
+    },
+    "0f_036": {
+        "code": "0f_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_036.gltf",
+        "subcategory": "None"
+    },
+    "0f_020": {
+        "code": "0f_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_020.gltf",
+        "subcategory": "None"
+    },
+    "0f_000": {
+        "code": "0f_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_000.gltf",
+        "subcategory": "None"
+    },
+    "0f_057": {
+        "code": "0f_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "knob"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_057.gltf",
+        "subcategory": "None"
+    },
+    "0f_041": {
+        "code": "0f_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_hook",
+            "curtain_pole",
+            "curtain_tieback",
+            "knob",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_041.gltf",
+        "subcategory": "None"
+    },
+    "0f_016": {
+        "code": "0f_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole_cover",
+            "curtain_tieback"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_016.gltf",
+        "subcategory": "None"
+    },
+    "0f_06f": {
+        "code": "0f_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "curtain",
+            "curtain_pole",
+            "curtain_pole_cover"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/0f_06f.gltf",
+        "subcategory": "None"
+    }
+}

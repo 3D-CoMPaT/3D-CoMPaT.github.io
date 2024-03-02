@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description"
+        content="3DCoMPaT++: An improved Large-scale 3D Vision Dataset for Compositional Recognition">
+    <meta name="keywords" content="3DCoMPaT, 3DCoMPaT++, 3DCoMPaTv2, 3DCoMPaT v2, Compositional 3D">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>3DCoMPaT++: An improved Large-scale 3D Vision Dataset for Compositional Recognition</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+    <link rel="stylesheet" href="./static/css/bulma.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="./static/css/index.css">
+    <link rel="icon" href="./static/img/favicon.png">
+
+    <script defer src="./static/js/fontawesome.all.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="./static/js/bulma-carousel.min.js"></script>
+    <script src="./static/js/bulma-slider.min.js"></script>
+    <script src="./static/js/index.js"></script>
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-solarizedlight.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs-bibtex@2.1.0/prism-bibtex.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
+
+    <style>
+        .shadow {
+            box-shadow: 0 0 10px rgb(164 155 155 / 65%) !important;
+        }
+
+        .shadow-sm {
+            box-shadow: 0 0 4px rgb(164 155 155 / 65%) !important;
+        }
+
+        .shadow-ssm {
+            box-shadow: 0 0 4px rgb(164 155 155 / 45%) !important;
+        }
+
+        pre {
+            margin: 1.2em 0 !important
+        }
+
+        .copy-button {
+            position: relative;
+            float: right;
+            opacity: 0.5;
+            width: 30px;
+            height: 30px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            background-color: #f8f9fa !important;
+            transition: all 0.2s ease-in-out;
+            padding: 0;
+        }
+
+        .copy-button:hover {
+            cursor: pointer;
+            background-color: #e6e6e6 !important;
+            transition: all 0.2s ease-in-out;
+            opacity: 1;
+        }
+
+        .footer {
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            text-align: center;
+            box-shadow: 0 0 10px rgb(164 155 155 / 20%) !important;
+        }
+
+        .footer .content {
+            margin-top: 0em;
+            margin-bottom: 0.75em;
+        }
+
+        #teaser {
+            max-width: 40%;
+        }
+
+        .subtitle {
+            margin-top: 2rem;
+            margin-bottom: 0rem;
+        }
+
+        .content-fig {
+            margin-top: 1em;
+        }
+
+        .external-link {
+            box-shadow: 0 0 2px rgb(164 155 155 / 65%) !important;
+            background-color: #363636 !important;
+            transition: all 0.2s ease-in-out;
+            margin-left: 0.3em;
+        }
+
+        .external-link:hover {
+            background-color: #b3b3b3 !important;
+        }
+
+        .close-sec {
+            padding: 1rem 1.5rem;
+        }
+
+        .vl {
+            border-left: 2px solid #b0b0b0;
+            height: 1.7rem;
+            margin-top: 0.5rem;
+            opacity: 0.8;
+        }
+    </style>
+
+</head>
+
+<body>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu">
+            <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+                <a class="navbar-item" href="https://3dcompat-dataset.org/">
+                    <span class="icon">
+                        <i class="fas fa-home"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-body">
+            <div class="container is-max-desktop">
+                <div class="columns is-centered">
+                    <div class="column has-text-centered">
+                        <h1 class="title is-1 publication-title">3DCoMPaT<sup>++</sup>: An improved Large-scale 3D
+                            Vision Dataset
+                            for Compositional Recognition</h1>
+                        <div class="is-size-5 publication-authors">
+                            <span class="author-block">
+                                <a href="https://habibslim.github.io/">Habib Slim</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://xiangli.ac.cn/">Xiang Li</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="mahmoudalsayed@aucegypt.edu">Mahmoud Ahmed</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://personal-website-mohamedayman15069.vercel.app/">Mohamed
+                                    Ayman</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://ujjwal-9.github.io/">Ujjwal Upadhyay</a><sup>3</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://samir55.github.io/">Ahmed Abdelreheem</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://www.polynine.com/">Arpit Prajapati</a><sup>2</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://www.polynine.com/">Suhail Pothigara</a><sup>2</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://peterwonka.net/">Peter Wonka</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://www.mohamed-elhoseiny.com/">Mohamed Elhoseiny</a><sup>1</sup>,
+                            </span>
+                        </div>
+
+                        <div class="is-size-5 publication-authors">
+                            <span class="author-block"><sup>1</sup>KAUST</span>,
+                            <span class="author-block"><sup>2</sup>Poly9</span>,
+                            <span class="author-block"><sup>3</sup>Qure.AI</span>
+                        </div>
+
+                        <div class="column has-text-centered">
+                            <div class="publication-links">
+                                <!-- PDF Link. -->
+                                <span class="link-block">
+                                    <a href="https://arxiv.org/pdf/2310.18511.pdf" class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="fas fa-file-pdf"></i>
+                                        </span>
+                                        <span>Paper</span>
+                                    </a>
+                                </span>
+                                <span class="link-block">
+                                    <a href="https://arxiv.org/abs/2310.18511" class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="ai ai-arxiv"></i>
+                                        </span>
+                                        <span>arXiv</span>
+                                    </a>
+                                </span>
+                                <!-- Doc Link. -->
+                                <span class="link-block">
+                                    <a href="https://3dcompat-dataset.org/doc"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="fas fa-book"></i>
+                                        </span>
+                                        <span>Documentation</span>
+                                    </a>
+                                </span>
+                                <!-- Browser Link. -->
+                                <span class="link-block">
+                                    <a href="https://3dcompat-dataset.org/browser"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="fas fa-globe"></i>
+                                        </span>
+                                        <span>Browser</span>
+                                    </a>
+                                </span>
+                                <!-- Code Link. -->
+                                <span class="link-block">
+                                    <a href="https://github.com/Vision-CAIR/3DCoMPaT-v2"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="fab fa-github"></i>
+                                        </span>
+                                        <span>Code</span>
+                                    </a>
+                                </span>
+                                <!-- Dataset Link. -->
+                                <span class="link-block">
+                                    <a href="https://3dcompat-dataset.org/doc/dl-dataset.html" class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="fas fa-download"></i>
+                                        </span>
+                                        <span>Download</span>
+                                    </a>
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="hero teaser">
+        <div class="container is-max-desktop">
+            <div class="hero-body">
+                <video id="teaser" autoplay muted loop playsinline>
+                    <source src="static/videos/anim_header.mp4" type="video/mp4">
+                </video>
+                <h2 class="subtitle has-text-centered">
+                    <span class="dnerf">3DCoMPaT<sup>++</sup></span> is a multimodal dataset for compositional 3D
+                    research with detailed part-level annotations.
+                </h2>
+            </div>
+        </div>
+    </section>
+
+    <section class="hero is-light is-small">
+        <div class="hero-body hero-body-carousel">
+            <div class="container">
+                <div id="results-carousel" class="carousel carousel-renders results-carousel">
+                    <div class="item item-renders0">
+                        <img id="renders0" src="./static/img/carousel/compat_renders_0.jpg" alt="">
+                    </div>
+
+                    <div class="item item-renders1">
+                        <img id="renders1" src="./static/img/carousel/compat_renders_1.jpg" alt="">
+                    </div>
+
+                    <div class="item item-allgen">
+                        <img id="allgen" src="./static/img/carousel/all_gen.jpg" alt="">
+                    </div>
+
+                    <div class="item item-fullseat-gcr">
+                        <img id="fullseat-gcr" src="./static/img/carousel/full_seat_gcr.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <!-- Abstract. -->
+            <div class="columns is-centered has-text-centered">
+                <img id="fullview" src="./static/img/full_view.png" alt="" width="900px">
+            </div>
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <h2 class="title is-3">Abstract</h2>
+                    <div class="content has-text-justified">
+                        <p>
+                            In this work, we present 3DCoMPaT, a multimodal 2D/3D dataset with 16 million rendered views
+                            of more than
+                            10 million stylized 3D shapes carefully annotated at the part-instance level, alongside
+                            matching RGB point
+                            clouds, 3D textured meshes, depth maps, and segmentation masks.
+                        </p>
+                        <p>
+                            3DCoMPaT covers 41 shape categories, 275 fine-grained part categories, and 293 fine-grained
+                            material
+                            classes that can be compositionally applied to parts of 3D objects.
+                            We render a subset of one million stylized shapes from four equally spaced views as well as
+                            four
+                            randomized views, leading to a total of 16 million renderings.
+                            This dataset primarily focuses on stylizing 3D shapes at part-level with compatible
+                            materials.
+                            Parts are segmented at the instance level, with coarse-grained and fine-grained semantic
+                            levels.
+                        </p>
+                        <p>
+                            We introduce a new task, called Grounded CoMPaT Recognition (GCR), to collectively recognize
+                            and ground
+                            compositions of materials on parts of 3D objects.
+                            We present two variations of this task and adapt state-of-art 2D/3D deep learning methods to
+                            solve the
+                            problem as baselines for future research.
+                            We hope our work will help ease future research on compositional 3D Vision.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--/ Abstract. -->
+        </div>
+    </section>
+
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <div class="columns is-centered">
+
+                <!-- Pipeline -->
+                <div class="column">
+                    <div class="content has-text-justified">
+                        <h2 class="title is-3">⚡ Pipeline</h2>
+                        <p>
+                            We begin with 3D shape collection, perform editing, gather material compatibility data,
+                            annotate shapes at a fine-grained level,
+                            realign misaligned shapes using part annotations, sample materials for each part, and render
+                            stylized shapes from various angles.
+                        </p>
+                        <img class="content-fig" src="./static/img/data_pipeline.png" alt="">
+                    </div>
+                </div>
+                <!--/ Pipeline -->
+
+                <!-- GCR Task -->
+                <div class="column">
+                    <h2 class="title is-3">🧩 GCR Task</h2>
+                    <div class="columns is-centered">
+                        <div class="column has-text-justified">
+                            <p>
+                                Grounded CoMPaT Recognition (GCR).
+                                Given an input shape, here: a chair, the task consists of (a) recognizing the shape
+                                category and (b) segmenting the part-material pairs composing it.
+                            </p>
+                            <img class="content-fig" src="./static/img/carousel/full_seat_gcr.jpg" height="200px"
+                                alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--/ GCR Task -->
+
+            <!-- Animation. -->
+            <div class="columns is-centered">
+                <div class="column is-full-width">
+                    <h2 class="title is-3">🔎 Dataset</h2>
+                    <div class="content has-text-justified">
+                        <p>
+                            Move the slider to explore the dataset.
+                            These samples are illustrative examples, offering insight into the dataset's extensive content, which encompasses 16 million rendered views of over 10 million stylized 3D shapes.                         </p>
+                        </p>
+                    </div>
+                    <div class="interpolation-panel dataset-panel shadow-ssm">
+                        <div class="columns interpolation-panel has-text-centered is-centered label-col">
+                            <div class="column is-one-seventh">
+                                RGB image
+                            </div>
+                            <div class="vl"></div>
+                            <div class="column is-one-seventh">
+                                Part map
+                            </div>
+                            <div class="vl"></div>
+                            <div class="column is-one-seventh">
+                                Material map
+                            </div>
+                            <div class="vl"></div>
+                            <div class="column is-one-seventh">
+                                Depth map
+                            </div>
+                            <div class="vl"></div>
+                            <div class="column is-one-seventh">
+                                RGB pointcloud
+                            </div>
+                            <div class="vl"></div>
+                            <div class="column is-one-seventh">
+                                Part labels
+                            </div>
+                            <div class="vl"></div>
+                            <div class="column is-one-seventh">
+                                Material labels
+                            </div>
+                        </div>
+                        <div class="columns interpolation-panel">
+                            <div class="column">
+                                <div id="data-image-wrapper">
+                                    Loading...
+                                </div>
+                                <input class="slider is-fullwidth is-large is-info" id="data-image-slider" step="1" min="0" max="255"
+                                    value="0" type="range">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content has-text-justified">
+                        <p>
+                            We show below andomly sampled styles for a set of six geometries from the dataset.
+                            Stylized shapes are sampled with a random style parameterized by a set of compatible materials.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="hero is-light is-small style-sliders">
+    <div class="hero-body hero-body-carousel">
+        <div class="container">
+            <div id="results-carousel" class="carousel carousel-styles results-carousel">
+                <div class="item item-style-slider">
+                    <div class="columns interpolation-panel style-panel">
+                        <div class="column">
+                            <div id="data-image-sofa_chair-wrapper">
+                                Loading...
+                            </div>
+                            <input class="slider is-success is-fullwidth is-large is-info" id="data-image-sofa_chair-slider" step="1" min="0" max="49"
+                                value="0" type="range">
+                        </div>
+                    </div>
+                </div>
+                <div class="item item-style-slider">
+                    <div class="columns interpolation-panel style-panel">
+                        <div class="column">
+                            <div id="data-image-angle_canap-wrapper">
+                                Loading...
+                            </div>
+                            <input class="slider is-success is-fullwidth is-large is-info" id="data-image-angle_canap-slider" step="1" min="0" max="49"
+                                value="0" type="range">
+                        </div>
+                    </div>
+                </div>
+                <div class="item item-style-slider">
+                    <div class="columns interpolation-panel style-panel">
+                        <div class="column">
+                            <div id="data-image-bad_chair-wrapper">
+                                Loading...
+                            </div>
+                            <input class="slider is-success is-fullwidth is-large is-info" id="data-image-bad_chair-slider" step="1" min="0" max="49"
+                                value="0" type="range">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item item-style-slider">
+                    <div class="interpolation-panel style-panel">
+                        <div class="columns interpolation-panel style-panel">
+                            <div class="column">
+                                <div id="data-image-bag-wrapper">
+                                    Loading...
+                                </div>
+                                <input class="slider is-success is-fullwidth is-large is-info" id="data-image-bag-slider" step="1" min="0" max="49"
+                                    value="0" type="range">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item item-style-slider">
+                    <div class="interpolation-panel style-panel">
+                        <div class="columns interpolation-panel style-panel">
+                            <div class="column">
+                                <div id="data-image-basket-wrapper">
+                                    Loading...
+                                </div>
+                                <input class="slider is-success is-fullwidth is-large is-info" id="data-image-basket-slider" step="1" min="0" max="49"
+                                    value="0" type="range">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item item-style-slider">
+                    <div class="interpolation-panel style-panel">
+                        <div class="columns interpolation-panel style-panel">
+                            <div class="column">
+                                <div id="data-image-lounge_sofa-wrapper">
+                                    Loading...
+                                </div>
+                                <input class="slider is-success is-fullwidth is-large is-info" id="data-image-lounge_sofa-slider" step="1" min="0" max="49"
+                                    value="0" type="range">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item item-style-slider">
+                    <div class="interpolation-panel style-panel">
+                        <div class="columns interpolation-panel style-panel">
+                            <div class="column">
+                                <div id="data-image-seat-wrapper">
+                                    Loading...
+                                </div>
+                                <input class="slider is-success is-fullwidth is-large is-info" id="data-image-seat-slider" step="1" min="0" max="49"
+                                    value="0" type="range">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+
+
+    <section class="section close-sec" id="BibTeX">
+        <br />
+        <br />
+        <div class="container is-max-desktop">
+            <h2 class="title is-3">📖 Citations</h2>
+            If our work is useful to your research, please consider citing our work by referencing the following
+            research papers
+            for the 3DCoMPaT and 3DCoMPaT++ datasets:
+            </br>
+            </br>
+            <h3 class="title is-4">3DCoMPaT++</h3>
+
+            <!-- Trigger -->
+            <pre class="shadow-sm rounded p-3 bg-dark"><button data-toggle="tooltip" data-placement="top" title="Copy BibTeX" class="copy-button" data-clipboard-target="#compatplus"><span class="icon"><i class="fas fa-copy"></i></span></button><code class="language-bibtex" id="compatplus">@inproceedings {slim_3dcompatplus_2023,
+    title={{3DCoMPaT++}: An improved Large-scale 3D Vision Dataset
+    for Compositional Recognition},
+    author={ Habib Slim and Xiang Li and Yuchen Li,
+    Mahmoud Ahmed and Mohamed Ayman and Ujjwal Upadhyay
+    Ahmed Abdelreheem and Arpit Prajapati,
+    Suhail Pothigara and Peter Wonka and Mohamed Elhoseiny },
+    booktitle={arXiv},
+    year={2023}
+}</code></pre>
+            </br>
+            <h3 class="title is-4">3DCoMPaT v1:</h3>
+            <pre class="shadow-sm rounded p-3 bg-dark"><button data-toggle="tooltip" data-placement="top" title="Copy BibTeX" class="copy-button" data-clipboard-target="#compatv1"><span class="icon"><i class="fas fa-copy"></i></span></button><code class="language-bibtex" id="compatv1">@inproceedings {li20223d_compat,
+    title={{3DCoMPaT}: Composition of Materials on Parts of 3D Things},
+    author={Yuchen Li, Ujjwal Upadhyay, Habib Slim,
+    Ahmed Abdelreheem, Arpit Prajapati,
+    Suhail Pothigara, Peter Wonka, Mohamed Elhoseiny},
+    booktitle={17th European Conference on Computer Vision (ECCV)},
+    year={2022}
+}</code></pre>
+</br>
+</br>
+        </div>
+    </section>
+
+
+    <footer class="footer">
+        <div class="container">
+            <div class="content has-text-centered">
+                <a class="icon-link" href="TODO_PAPER">
+                    <i class="fas fa-file-pdf"></i>
+                </a>
+                <a class="icon-link" href="https://github.com/Vision-CAIR/3DCoMPaT-v2" class="external-link" disabled>
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+            <div class="columns is-centered">
+                <div class="column is-8">
+                    <div class="content">
+                        <p>
+                            Page template adapted from <a
+                                href="https://github.com/nerfies/nerfies.github.io">NeRFies</a>.
+                            Work from <a href="https://github.com/Vision-CAIR">Vision-CAIR, KAUST</a>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="text/javascript">
+        var clipboard = new ClipboardJS('.copy-button');
+    </script>
+</body>
+
+</html>

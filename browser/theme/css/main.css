@@ -1,0 +1,141 @@
+/* Page */
+body {
+    overflow-x: hidden;
+    background-color: #eee;
+}
+
+hr {
+    margin-right: 3rem!important;
+}
+
+nav {
+    background-color: #2d333b:
+}
+
+/* Navbar */
+#partsList, #classesList, #modelCode {
+    font-size: 0.875rem;
+}
+
+.dropdown .disabled {
+    color: gray!important;
+}
+
+.dropdown:first-child {
+    margin-left: 1.5em;
+}
+
+.search-grp {
+    width: 30%;
+}
+
+footer {
+    text-align: center!important;
+    background-color: transparent!important;
+    font-size: 12px;
+}
+
+/* Model views */
+.model-badge {
+    font-size: 0.7em;
+
+    position: absolute;
+    z-index: 1;
+    cursor: pointer;
+
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.model-badge-text {
+    display: inline;
+}
+
+.model-badge-text:hover {
+    color: #fff;
+}
+
+.model-badge i {
+    font-size: 0.9rem;
+    margin-right: 0.1rem;
+}
+
+.model-badge i:hover {
+    color: #fff;
+}
+
+.modal-mask {
+    background-color: rgba(251, 251, 251, 0.2);
+}
+
+.model-spinner {
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    left: 40%;
+    top: 40%;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.model-unloaded {
+    position: absolute;
+    width: 14%;
+    height: 14%;
+    left: 43%;
+    top: 43%;
+    background-image: url("theme/img/error.svg");
+    background-repeat: no-repeat;
+}
+
+/* Dropdown */
+.dropdown-menu {
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 12px;
+    background-color: rgba(255,255,255,0.5);
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: rgba(255,255,255,0.5);
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: 0 0 6px rgba(0,0,0,0.5); 
+    background-color: rgba(255,255,255,0.5);
+}
+
+/* Square shape */
+.square {
+    height: 1em;
+    width: 1em;
+}
+
+.legend-col {
+    border: #a3a3a3;
+    display: inline-block;
+    margin-right: 0.25em;
+}
+
+.legend-grp {
+    white-space: nowrap;
+}
+
+.viewer-static {
+    background-color: white;
+}
+
+#no-results {
+    width: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}

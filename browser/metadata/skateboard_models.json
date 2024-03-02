@@ -1,0 +1,555 @@
+{
+    "20_02e": {
+        "code": "20_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02e.gltf",
+        "subcategory": "None"
+    },
+    "20_014": {
+        "code": "20_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_014.gltf",
+        "subcategory": "None"
+    },
+    "20_002": {
+        "code": "20_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_002.gltf",
+        "subcategory": "None"
+    },
+    "20_018": {
+        "code": "20_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_018.gltf",
+        "subcategory": "None"
+    },
+    "20_01c": {
+        "code": "20_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_01c.gltf",
+        "subcategory": "None"
+    },
+    "20_00e": {
+        "code": "20_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00e.gltf",
+        "subcategory": "None"
+    },
+    "20_00d": {
+        "code": "20_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00d.gltf",
+        "subcategory": "None"
+    },
+    "20_023": {
+        "code": "20_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_023.gltf",
+        "subcategory": "None"
+    },
+    "20_003": {
+        "code": "20_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_003.gltf",
+        "subcategory": "None"
+    },
+    "20_015": {
+        "code": "20_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_015.gltf",
+        "subcategory": "None"
+    },
+    "20_02d": {
+        "code": "20_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02d.gltf",
+        "subcategory": "None"
+    },
+    "20_024": {
+        "code": "20_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_024.gltf",
+        "subcategory": "None"
+    },
+    "20_01e": {
+        "code": "20_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_01e.gltf",
+        "subcategory": "None"
+    },
+    "20_008": {
+        "code": "20_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_008.gltf",
+        "subcategory": "None"
+    },
+    "20_00c": {
+        "code": "20_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00c.gltf",
+        "subcategory": "None"
+    },
+    "20_02c": {
+        "code": "20_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02c.gltf",
+        "subcategory": "None"
+    },
+    "20_028": {
+        "code": "20_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_028.gltf",
+        "subcategory": "None"
+    },
+    "20_004": {
+        "code": "20_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_004.gltf",
+        "subcategory": "None"
+    },
+    "20_005": {
+        "code": "20_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_005.gltf",
+        "subcategory": "None"
+    },
+    "20_013": {
+        "code": "20_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_013.gltf",
+        "subcategory": "None"
+    },
+    "20_02b": {
+        "code": "20_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02b.gltf",
+        "subcategory": "None"
+    },
+    "20_00b": {
+        "code": "20_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00b.gltf",
+        "subcategory": "None"
+    },
+    "20_009": {
+        "code": "20_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_009.gltf",
+        "subcategory": "None"
+    },
+    "20_01d": {
+        "code": "20_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_01d.gltf",
+        "subcategory": "None"
+    },
+    "20_025": {
+        "code": "20_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_025.gltf",
+        "subcategory": "None"
+    },
+    "20_00a": {
+        "code": "20_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00a.gltf",
+        "subcategory": "None"
+    },
+    "20_026": {
+        "code": "20_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_026.gltf",
+        "subcategory": "None"
+    },
+    "20_006": {
+        "code": "20_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_006.gltf",
+        "subcategory": "None"
+    },
+    "20_010": {
+        "code": "20_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_010.gltf",
+        "subcategory": "None"
+    },
+    "20_02a": {
+        "code": "20_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_02a.gltf",
+        "subcategory": "None"
+    },
+    "20_011": {
+        "code": "20_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_011.gltf",
+        "subcategory": "None"
+    },
+    "20_007": {
+        "code": "20_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_007.gltf",
+        "subcategory": "None"
+    },
+    "20_027": {
+        "code": "20_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_027.gltf",
+        "subcategory": "None"
+    },
+    "20_016": {
+        "code": "20_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_016.gltf",
+        "subcategory": "None"
+    },
+    "20_020": {
+        "code": "20_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_020.gltf",
+        "subcategory": "None"
+    },
+    "20_021": {
+        "code": "20_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_021.gltf",
+        "subcategory": "None"
+    },
+    "20_00f": {
+        "code": "20_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_00f.gltf",
+        "subcategory": "None"
+    },
+    "20_017": {
+        "code": "20_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_017.gltf",
+        "subcategory": "None"
+    },
+    "20_001": {
+        "code": "20_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "rivet",
+            "skateboard_deck",
+            "skateboard_grid_tape",
+            "skateboard_truck",
+            "wheel",
+            "wheel_bearing"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/20_001.gltf",
+        "subcategory": "None"
+    }
+}

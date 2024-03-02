@@ -1,0 +1,59 @@
+version: 0.1
+
+cli:
+  # version used for local trunk runs and testing
+  version: 1.9.1
+
+plugins:
+  sources:
+    - id: trunk
+      local: .
+
+    - id: configs
+      uri: https://github.com/trunk-io/configs
+      ref: v0.0.1
+
+lint:
+  # enabled list inherited from plugin 'configs'
+  disabled:
+    # pylint diagnostics are a bit too strict for our parsers
+    - pylint
+  ignore:
+    - linters: [ALL]
+      paths:
+        - "**/test_data" # required for golangci-lint, which runs on directories
+        - "**/test_data/**"
+
+actions:
+  definitions:
+    - id: repo-tests
+      display_name: Repo Tests
+      description: Run tests on plugin configuration and documentation
+      runtime: node
+      packages_file: package.json
+      run: npm test tests/repo_tests
+      triggers:
+        - git_hooks: [pre-push]
+
+    - id: linter-test-helper
+      display_name: Test Generator
+      description: Generate boilerplate test code when new linters are defined
+      runtime: python
+      packages_file: repo-tools/linter-test-helper/requirements.txt
+      run: repo-tools/linter-test-helper/generate scan ${workspace}
+      triggers:
+        - files: [linters/**]
+
+    - id: remove-release-snapshots
+      display_name: Remove Release Snapshots
+      description: Remove release tag from snapshots that were added to the release
+      run:
+        grep "// trunk-upgrade-validation:RELEASE" -r --include=*.shot -l | xargs -I {} sed -i -e
+        '/^\/\/ trunk-upgrade-validation:RELEASE/d' {}
+      shell: bash
+
+  enabled:
+    # - npm-check
+    - linter-test-helper
+    - remove-release-snapshots
+    - repo-tests

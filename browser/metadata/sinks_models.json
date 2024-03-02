@@ -1,0 +1,1155 @@
+{
+    "1f_04c": {
+        "code": "1f_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04c.gltf",
+        "subcategory": "None"
+    },
+    "1f_048": {
+        "code": "1f_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_048.gltf",
+        "subcategory": "None"
+    },
+    "1f_00b": {
+        "code": "1f_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00b.gltf",
+        "subcategory": "None"
+    },
+    "1f_009": {
+        "code": "1f_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_009.gltf",
+        "subcategory": "None"
+    },
+    "1f_013": {
+        "code": "1f_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_013.gltf",
+        "subcategory": "None"
+    },
+    "1f_052": {
+        "code": "1f_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_052.gltf",
+        "subcategory": "None"
+    },
+    "1f_029": {
+        "code": "1f_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_029.gltf",
+        "subcategory": "None"
+    },
+    "1f_02b": {
+        "code": "1f_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02b.gltf",
+        "subcategory": "None"
+    },
+    "1f_03d": {
+        "code": "1f_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03d.gltf",
+        "subcategory": "None"
+    },
+    "1f_03e": {
+        "code": "1f_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03e.gltf",
+        "subcategory": "None"
+    },
+    "1f_02c": {
+        "code": "1f_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_connector",
+            "faucet_spout",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02c.gltf",
+        "subcategory": "None"
+    },
+    "1f_028": {
+        "code": "1f_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_028.gltf",
+        "subcategory": "None"
+    },
+    "1f_053": {
+        "code": "1f_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_053.gltf",
+        "subcategory": "None"
+    },
+    "1f_004": {
+        "code": "1f_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_004.gltf",
+        "subcategory": "None"
+    },
+    "1f_012": {
+        "code": "1f_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_012.gltf",
+        "subcategory": "None"
+    },
+    "1f_045": {
+        "code": "1f_045",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_045.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_045.gltf",
+        "subcategory": "None"
+    },
+    "1f_032": {
+        "code": "1f_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_pipe",
+            "sink_stopper",
+            "sink_stubout",
+            "sink_trap"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_032.gltf",
+        "subcategory": "None"
+    },
+    "1f_024": {
+        "code": "1f_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "pedestal",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_024.gltf",
+        "subcategory": "None"
+    },
+    "1f_05d": {
+        "code": "1f_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05d.gltf",
+        "subcategory": "None"
+    },
+    "1f_00c": {
+        "code": "1f_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00c.gltf",
+        "subcategory": "None"
+    },
+    "1f_01e": {
+        "code": "1f_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_flange",
+            "sink_pipe",
+            "sink_stubout",
+            "sink_trap"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01e.gltf",
+        "subcategory": "None"
+    },
+    "1f_049": {
+        "code": "1f_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_049.gltf",
+        "subcategory": "None"
+    },
+    "1f_042": {
+        "code": "1f_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_042.gltf",
+        "subcategory": "None"
+    },
+    "1f_015": {
+        "code": "1f_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_flange",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_015.gltf",
+        "subcategory": "None"
+    },
+    "1f_003": {
+        "code": "1f_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_003.gltf",
+        "subcategory": "None"
+    },
+    "1f_054": {
+        "code": "1f_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_054.gltf",
+        "subcategory": "None"
+    },
+    "1f_02d": {
+        "code": "1f_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02d.gltf",
+        "subcategory": "None"
+    },
+    "1f_03b": {
+        "code": "1f_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03b.gltf",
+        "subcategory": "None"
+    },
+    "1f_04e": {
+        "code": "1f_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04e.gltf",
+        "subcategory": "None"
+    },
+    "1f_01b": {
+        "code": "1f_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01b.gltf",
+        "subcategory": "None"
+    },
+    "1f_00d": {
+        "code": "1f_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00d.gltf",
+        "subcategory": "None"
+    },
+    "1f_05c": {
+        "code": "1f_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05c.gltf",
+        "subcategory": "None"
+    },
+    "1f_058": {
+        "code": "1f_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_058.gltf",
+        "subcategory": "None"
+    },
+    "1f_023": {
+        "code": "1f_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_023.gltf",
+        "subcategory": "None"
+    },
+    "1f_062": {
+        "code": "1f_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_062.gltf",
+        "subcategory": "None"
+    },
+    "1f_035": {
+        "code": "1f_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_035.gltf",
+        "subcategory": "None"
+    },
+    "1f_063": {
+        "code": "1f_063",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_063.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_063.gltf",
+        "subcategory": "None"
+    },
+    "1f_022": {
+        "code": "1f_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_022.gltf",
+        "subcategory": "None"
+    },
+    "1f_059": {
+        "code": "1f_059",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_059.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_059.gltf",
+        "subcategory": "None"
+    },
+    "1f_05b": {
+        "code": "1f_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05b.gltf",
+        "subcategory": "None"
+    },
+    "1f_00e": {
+        "code": "1f_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00e.gltf",
+        "subcategory": "None"
+    },
+    "1f_018": {
+        "code": "1f_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_018.gltf",
+        "subcategory": "None"
+    },
+    "1f_01c": {
+        "code": "1f_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01c.gltf",
+        "subcategory": "None"
+    },
+    "1f_04d": {
+        "code": "1f_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04d.gltf",
+        "subcategory": "None"
+    },
+    "1f_03c": {
+        "code": "1f_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03c.gltf",
+        "subcategory": "None"
+    },
+    "1f_038": {
+        "code": "1f_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_038.gltf",
+        "subcategory": "None"
+    },
+    "1f_055": {
+        "code": "1f_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_055.gltf",
+        "subcategory": "None"
+    },
+    "1f_002": {
+        "code": "1f_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_002.gltf",
+        "subcategory": "None"
+    },
+    "1f_014": {
+        "code": "1f_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_014.gltf",
+        "subcategory": "None"
+    },
+    "1f_043": {
+        "code": "1f_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_043.gltf",
+        "subcategory": "None"
+    },
+    "1f_056": {
+        "code": "1f_056",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_056.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_flange",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_056.gltf",
+        "subcategory": "None"
+    },
+    "1f_001": {
+        "code": "1f_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_spout",
+            "plate",
+            "shower_button",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_001.gltf",
+        "subcategory": "None"
+    },
+    "1f_040": {
+        "code": "1f_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_040.gltf",
+        "subcategory": "None"
+    },
+    "1f_037": {
+        "code": "1f_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_037.gltf",
+        "subcategory": "None"
+    },
+    "1f_060": {
+        "code": "1f_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_flange"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_060.gltf",
+        "subcategory": "None"
+    },
+    "1f_05a": {
+        "code": "1f_05a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_05a.gltf",
+        "subcategory": "None"
+    },
+    "1f_00f": {
+        "code": "1f_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00f.gltf",
+        "subcategory": "None"
+    },
+    "1f_04f": {
+        "code": "1f_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_04f.gltf",
+        "subcategory": "None"
+    },
+    "1f_01a": {
+        "code": "1f_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_01a.gltf",
+        "subcategory": "None"
+    },
+    "1f_020": {
+        "code": "1f_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_020.gltf",
+        "subcategory": "None"
+    },
+    "1f_061": {
+        "code": "1f_061",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_061.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_061.gltf",
+        "subcategory": "None"
+    },
+    "1f_036": {
+        "code": "1f_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_036.gltf",
+        "subcategory": "None"
+    },
+    "1f_041": {
+        "code": "1f_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_041.gltf",
+        "subcategory": "None"
+    },
+    "1f_016": {
+        "code": "1f_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_016.gltf",
+        "subcategory": "None"
+    },
+    "1f_000": {
+        "code": "1f_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_000.gltf",
+        "subcategory": "None"
+    },
+    "1f_057": {
+        "code": "1f_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_057.gltf",
+        "subcategory": "None"
+    },
+    "1f_03a": {
+        "code": "1f_03a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_03a.gltf",
+        "subcategory": "None"
+    },
+    "1f_031": {
+        "code": "1f_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_flange"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_031.gltf",
+        "subcategory": "None"
+    },
+    "1f_027": {
+        "code": "1f_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_027.gltf",
+        "subcategory": "None"
+    },
+    "1f_050": {
+        "code": "1f_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_050.gltf",
+        "subcategory": "None"
+    },
+    "1f_007": {
+        "code": "1f_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_007.gltf",
+        "subcategory": "None"
+    },
+    "1f_046": {
+        "code": "1f_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_046.gltf",
+        "subcategory": "None"
+    },
+    "1f_047": {
+        "code": "1f_047",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_047.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_047.gltf",
+        "subcategory": "None"
+    },
+    "1f_010": {
+        "code": "1f_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_010.gltf",
+        "subcategory": "None"
+    },
+    "1f_006": {
+        "code": "1f_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_006.gltf",
+        "subcategory": "None"
+    },
+    "1f_051": {
+        "code": "1f_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_051.gltf",
+        "subcategory": "None"
+    },
+    "1f_02a": {
+        "code": "1f_02a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_02a.gltf",
+        "subcategory": "None"
+    },
+    "1f_00a": {
+        "code": "1f_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "sink",
+            "sink_stopper"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_00a.gltf",
+        "subcategory": "None"
+    },
+    "1f_026": {
+        "code": "1f_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_spout",
+            "faucet_valve",
+            "sink",
+            "sink_flange",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_026.gltf",
+        "subcategory": "None"
+    },
+    "1f_030": {
+        "code": "1f_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "pedestal",
+            "sink",
+            "sink_stopper",
+            "sink_unit"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1f_030.gltf",
+        "subcategory": "None"
+    }
+}

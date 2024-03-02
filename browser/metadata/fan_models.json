@@ -1,0 +1,764 @@
+{
+    "12_025": {
+        "code": "12_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bulb",
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_025.gltf",
+        "subcategory": "None"
+    },
+    "12_033": {
+        "code": "12_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_033.gltf",
+        "subcategory": "None"
+    },
+    "12_01d": {
+        "code": "12_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01d.gltf",
+        "subcategory": "None"
+    },
+    "12_00b": {
+        "code": "12_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00b.gltf",
+        "subcategory": "None"
+    },
+    "12_009": {
+        "code": "12_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_light",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_009.gltf",
+        "subcategory": "None"
+    },
+    "12_029": {
+        "code": "12_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_motor_box",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_029.gltf",
+        "subcategory": "None"
+    },
+    "12_02b": {
+        "code": "12_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "rivet"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02b.gltf",
+        "subcategory": "None"
+    },
+    "12_013": {
+        "code": "12_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_013.gltf",
+        "subcategory": "None"
+    },
+    "12_005": {
+        "code": "12_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_005.gltf",
+        "subcategory": "None"
+    },
+    "12_004": {
+        "code": "12_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_light",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_004.gltf",
+        "subcategory": "None"
+    },
+    "12_012": {
+        "code": "12_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_012.gltf",
+        "subcategory": "None"
+    },
+    "12_02c": {
+        "code": "12_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02c.gltf",
+        "subcategory": "None"
+    },
+    "12_028": {
+        "code": "12_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_028.gltf",
+        "subcategory": "None"
+    },
+    "12_008": {
+        "code": "12_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_008.gltf",
+        "subcategory": "None"
+    },
+    "12_00c": {
+        "code": "12_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bulb",
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00c.gltf",
+        "subcategory": "None"
+    },
+    "12_01e": {
+        "code": "12_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01e.gltf",
+        "subcategory": "None"
+    },
+    "12_032": {
+        "code": "12_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_032.gltf",
+        "subcategory": "None"
+    },
+    "12_024": {
+        "code": "12_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_light",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_024.gltf",
+        "subcategory": "None"
+    },
+    "12_02d": {
+        "code": "12_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02d.gltf",
+        "subcategory": "None"
+    },
+    "12_03b": {
+        "code": "12_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_03b.gltf",
+        "subcategory": "None"
+    },
+    "12_003": {
+        "code": "12_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_003.gltf",
+        "subcategory": "None"
+    },
+    "12_023": {
+        "code": "12_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_023.gltf",
+        "subcategory": "None"
+    },
+    "12_035": {
+        "code": "12_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bulb",
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_035.gltf",
+        "subcategory": "None"
+    },
+    "12_01b": {
+        "code": "12_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01b.gltf",
+        "subcategory": "None"
+    },
+    "12_019": {
+        "code": "12_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bulb",
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_019.gltf",
+        "subcategory": "None"
+    },
+    "12_00d": {
+        "code": "12_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00d.gltf",
+        "subcategory": "None"
+    },
+    "12_00e": {
+        "code": "12_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00e.gltf",
+        "subcategory": "None"
+    },
+    "12_018": {
+        "code": "12_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_018.gltf",
+        "subcategory": "None"
+    },
+    "12_01c": {
+        "code": "12_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01c.gltf",
+        "subcategory": "None"
+    },
+    "12_034": {
+        "code": "12_034",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_034.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_034.gltf",
+        "subcategory": "None"
+    },
+    "12_014": {
+        "code": "12_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_014.gltf",
+        "subcategory": "None"
+    },
+    "12_03c": {
+        "code": "12_03c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_03c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_03c.gltf",
+        "subcategory": "None"
+    },
+    "12_038": {
+        "code": "12_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_038.gltf",
+        "subcategory": "None"
+    },
+    "12_02e": {
+        "code": "12_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02e.gltf",
+        "subcategory": "None"
+    },
+    "12_001": {
+        "code": "12_001",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_001.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_001.gltf",
+        "subcategory": "None"
+    },
+    "12_02f": {
+        "code": "12_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_02f.gltf",
+        "subcategory": "None"
+    },
+    "12_00f": {
+        "code": "12_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00f.gltf",
+        "subcategory": "None"
+    },
+    "12_037": {
+        "code": "12_037",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_037.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_037.gltf",
+        "subcategory": "None"
+    },
+    "12_020": {
+        "code": "12_020",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_020.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_020.gltf",
+        "subcategory": "None"
+    },
+    "12_01a": {
+        "code": "12_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_01a.gltf",
+        "subcategory": "None"
+    },
+    "12_016": {
+        "code": "12_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bulb",
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_016.gltf",
+        "subcategory": "None"
+    },
+    "12_000": {
+        "code": "12_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bulb",
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_000.gltf",
+        "subcategory": "None"
+    },
+    "12_031": {
+        "code": "12_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_031.gltf",
+        "subcategory": "None"
+    },
+    "12_027": {
+        "code": "12_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "bulb",
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_027.gltf",
+        "subcategory": "None"
+    },
+    "12_007": {
+        "code": "12_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_light",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_007.gltf",
+        "subcategory": "None"
+    },
+    "12_011": {
+        "code": "12_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_011.gltf",
+        "subcategory": "None"
+    },
+    "12_006": {
+        "code": "12_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_006.gltf",
+        "subcategory": "None"
+    },
+    "12_026": {
+        "code": "12_026",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_026.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_026.gltf",
+        "subcategory": "None"
+    },
+    "12_030": {
+        "code": "12_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_030.gltf",
+        "subcategory": "None"
+    },
+    "12_00a": {
+        "code": "12_00a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "fan_blade",
+            "fan_blade_bracket",
+            "fan_downrod",
+            "fan_downrod_connector",
+            "fan_motor_box",
+            "rivet",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/12_00a.gltf",
+        "subcategory": "None"
+    }
+}

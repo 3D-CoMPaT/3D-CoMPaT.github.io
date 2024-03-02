@@ -1,0 +1,1665 @@
+{
+    "1e_041": {
+        "code": "1e_041",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_041.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_041.gltf",
+        "subcategory": "None"
+    },
+    "1e_016": {
+        "code": "1e_016",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_016.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_016.gltf",
+        "subcategory": "None"
+    },
+    "1e_000": {
+        "code": "1e_000",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_000.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_000.gltf",
+        "subcategory": "None"
+    },
+    "1e_057": {
+        "code": "1e_057",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_057.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_connector",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_057.gltf",
+        "subcategory": "None"
+    },
+    "1e_06f": {
+        "code": "1e_06f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06f.gltf",
+        "subcategory": "None"
+    },
+    "1e_082": {
+        "code": "1e_082",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_082.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_082.gltf",
+        "subcategory": "None"
+    },
+    "1e_04f": {
+        "code": "1e_04f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04f.gltf",
+        "subcategory": "None"
+    },
+    "1e_01a": {
+        "code": "1e_01a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01a.gltf",
+        "subcategory": "None"
+    },
+    "1e_036": {
+        "code": "1e_036",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_036.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_036.gltf",
+        "subcategory": "None"
+    },
+    "1e_060": {
+        "code": "1e_060",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_060.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_060.gltf",
+        "subcategory": "None"
+    },
+    "1e_076": {
+        "code": "1e_076",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_076.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "shower_head",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_076.gltf",
+        "subcategory": "None"
+    },
+    "1e_021": {
+        "code": "1e_021",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_021.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "shower_button",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_021.gltf",
+        "subcategory": "None"
+    },
+    "1e_00f": {
+        "code": "1e_00f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00f.gltf",
+        "subcategory": "None"
+    },
+    "1e_083": {
+        "code": "1e_083",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_083.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_083.gltf",
+        "subcategory": "None"
+    },
+    "1e_02f": {
+        "code": "1e_02f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02f.gltf",
+        "subcategory": "None"
+    },
+    "1e_017": {
+        "code": "1e_017",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_017.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_017.gltf",
+        "subcategory": "None"
+    },
+    "1e_040": {
+        "code": "1e_040",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_040.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_040.gltf",
+        "subcategory": "None"
+    },
+    "1e_05f": {
+        "code": "1e_05f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05f.gltf",
+        "subcategory": "None"
+    },
+    "1e_071": {
+        "code": "1e_071",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_071.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_071.gltf",
+        "subcategory": "None"
+    },
+    "1e_067": {
+        "code": "1e_067",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_067.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_067.gltf",
+        "subcategory": "None"
+    },
+    "1e_030": {
+        "code": "1e_030",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_030.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_030.gltf",
+        "subcategory": "None"
+    },
+    "1e_010": {
+        "code": "1e_010",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_010.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_010.gltf",
+        "subcategory": "None"
+    },
+    "1e_006": {
+        "code": "1e_006",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_006.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_006.gltf",
+        "subcategory": "None"
+    },
+    "1e_051": {
+        "code": "1e_051",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_051.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_051.gltf",
+        "subcategory": "None"
+    },
+    "1e_07f": {
+        "code": "1e_07f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07f.gltf",
+        "subcategory": "None"
+    },
+    "1e_084": {
+        "code": "1e_084",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_084.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_084.gltf",
+        "subcategory": "None"
+    },
+    "1e_03f": {
+        "code": "1e_03f",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03f.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03f.gltf",
+        "subcategory": "None"
+    },
+    "1e_06a": {
+        "code": "1e_06a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06a.gltf",
+        "subcategory": "None"
+    },
+    "1e_050": {
+        "code": "1e_050",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_050.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_050.gltf",
+        "subcategory": "None"
+    },
+    "1e_007": {
+        "code": "1e_007",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_007.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_007.gltf",
+        "subcategory": "None"
+    },
+    "1e_011": {
+        "code": "1e_011",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_011.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_011.gltf",
+        "subcategory": "None"
+    },
+    "1e_046": {
+        "code": "1e_046",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_046.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "plate",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_046.gltf",
+        "subcategory": "None"
+    },
+    "1e_031": {
+        "code": "1e_031",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_031.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_031.gltf",
+        "subcategory": "None"
+    },
+    "1e_070": {
+        "code": "1e_070",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_070.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "plate",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_070.gltf",
+        "subcategory": "None"
+    },
+    "1e_027": {
+        "code": "1e_027",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_027.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_027.gltf",
+        "subcategory": "None"
+    },
+    "1e_04a": {
+        "code": "1e_04a",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04a.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04a.gltf",
+        "subcategory": "None"
+    },
+    "1e_032": {
+        "code": "1e_032",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_032.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_032.gltf",
+        "subcategory": "None"
+    },
+    "1e_065": {
+        "code": "1e_065",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_065.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_065.gltf",
+        "subcategory": "None"
+    },
+    "1e_073": {
+        "code": "1e_073",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_073.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_073.gltf",
+        "subcategory": "None"
+    },
+    "1e_024": {
+        "code": "1e_024",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_024.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_024.gltf",
+        "subcategory": "None"
+    },
+    "1e_05d": {
+        "code": "1e_05d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05d.gltf",
+        "subcategory": "None"
+    },
+    "1e_00c": {
+        "code": "1e_00c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00c.gltf",
+        "subcategory": "None"
+    },
+    "1e_008": {
+        "code": "1e_008",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_008.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_008.gltf",
+        "subcategory": "None"
+    },
+    "1e_01e": {
+        "code": "1e_01e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01e.gltf",
+        "subcategory": "None"
+    },
+    "1e_04b": {
+        "code": "1e_04b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "plate",
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04b.gltf",
+        "subcategory": "None"
+    },
+    "1e_049": {
+        "code": "1e_049",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_049.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "plate",
+            "shower_head",
+            "shower_hose",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_049.gltf",
+        "subcategory": "None"
+    },
+    "1e_03e": {
+        "code": "1e_03e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03e.gltf",
+        "subcategory": "None"
+    },
+    "1e_069": {
+        "code": "1e_069",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_069.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_069.gltf",
+        "subcategory": "None"
+    },
+    "1e_07d": {
+        "code": "1e_07d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07d.gltf",
+        "subcategory": "None"
+    },
+    "1e_028": {
+        "code": "1e_028",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_028.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_028.gltf",
+        "subcategory": "None"
+    },
+    "1e_02c": {
+        "code": "1e_02c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02c.gltf",
+        "subcategory": "None"
+    },
+    "1e_053": {
+        "code": "1e_053",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_053.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_053.gltf",
+        "subcategory": "None"
+    },
+    "1e_004": {
+        "code": "1e_004",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_004.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_004.gltf",
+        "subcategory": "None"
+    },
+    "1e_012": {
+        "code": "1e_012",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_012.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_012.gltf",
+        "subcategory": "None"
+    },
+    "1e_044": {
+        "code": "1e_044",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_044.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_044.gltf",
+        "subcategory": "None"
+    },
+    "1e_013": {
+        "code": "1e_013",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_013.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_013.gltf",
+        "subcategory": "None"
+    },
+    "1e_005": {
+        "code": "1e_005",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_005.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_005.gltf",
+        "subcategory": "None"
+    },
+    "1e_052": {
+        "code": "1e_052",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_052.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_052.gltf",
+        "subcategory": "None"
+    },
+    "1e_02b": {
+        "code": "1e_02b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02b.gltf",
+        "subcategory": "None"
+    },
+    "1e_029": {
+        "code": "1e_029",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_029.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_029.gltf",
+        "subcategory": "None"
+    },
+    "1e_07e": {
+        "code": "1e_07e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07e.gltf",
+        "subcategory": "None"
+    },
+    "1e_06c": {
+        "code": "1e_06c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06c.gltf",
+        "subcategory": "None"
+    },
+    "1e_068": {
+        "code": "1e_068",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_068.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_valve",
+            "plate",
+            "shower_button",
+            "shower_head"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_068.gltf",
+        "subcategory": "None"
+    },
+    "1e_03d": {
+        "code": "1e_03d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03d.gltf",
+        "subcategory": "None"
+    },
+    "1e_048": {
+        "code": "1e_048",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_048.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_048.gltf",
+        "subcategory": "None"
+    },
+    "1e_04c": {
+        "code": "1e_04c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04c.gltf",
+        "subcategory": "None"
+    },
+    "1e_01d": {
+        "code": "1e_01d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01d.gltf",
+        "subcategory": "None"
+    },
+    "1e_009": {
+        "code": "1e_009",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_009.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_valve",
+            "shower_connector",
+            "shower_head",
+            "shower_head_connector",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_009.gltf",
+        "subcategory": "None"
+    },
+    "1e_00b": {
+        "code": "1e_00b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "shower_connector",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00b.gltf",
+        "subcategory": "None"
+    },
+    "1e_05e": {
+        "code": "1e_05e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "plate",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05e.gltf",
+        "subcategory": "None"
+    },
+    "1e_025": {
+        "code": "1e_025",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_025.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_025.gltf",
+        "subcategory": "None"
+    },
+    "1e_033": {
+        "code": "1e_033",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_033.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_033.gltf",
+        "subcategory": "None"
+    },
+    "1e_038": {
+        "code": "1e_038",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_038.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "aerator",
+            "faucet_body",
+            "faucet_lever",
+            "shower_head_connector",
+            "shower_hose"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_038.gltf",
+        "subcategory": "None"
+    },
+    "1e_080": {
+        "code": "1e_080",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_080.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_080.gltf",
+        "subcategory": "None"
+    },
+    "1e_06d": {
+        "code": "1e_06d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06d.gltf",
+        "subcategory": "None"
+    },
+    "1e_07b": {
+        "code": "1e_07b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07b.gltf",
+        "subcategory": "None"
+    },
+    "1e_02e": {
+        "code": "1e_02e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02e.gltf",
+        "subcategory": "None"
+    },
+    "1e_055": {
+        "code": "1e_055",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_055.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "plate",
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_055.gltf",
+        "subcategory": "None"
+    },
+    "1e_002": {
+        "code": "1e_002",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_002.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_spout",
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_002.gltf",
+        "subcategory": "None"
+    },
+    "1e_014": {
+        "code": "1e_014",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_014.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_014.gltf",
+        "subcategory": "None"
+    },
+    "1e_043": {
+        "code": "1e_043",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_043.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_body",
+            "faucet_connector",
+            "faucet_lever",
+            "plate",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_043.gltf",
+        "subcategory": "None"
+    },
+    "1e_075": {
+        "code": "1e_075",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_075.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_head",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_075.gltf",
+        "subcategory": "None"
+    },
+    "1e_022": {
+        "code": "1e_022",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_022.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_022.gltf",
+        "subcategory": "None"
+    },
+    "1e_05b": {
+        "code": "1e_05b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05b.gltf",
+        "subcategory": "None"
+    },
+    "1e_00e": {
+        "code": "1e_00e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_valve",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00e.gltf",
+        "subcategory": "None"
+    },
+    "1e_01c": {
+        "code": "1e_01c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_head",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01c.gltf",
+        "subcategory": "None"
+    },
+    "1e_018": {
+        "code": "1e_018",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_018.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "faucet_spout",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_018.gltf",
+        "subcategory": "None"
+    },
+    "1e_04d": {
+        "code": "1e_04d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04d.gltf",
+        "subcategory": "None"
+    },
+    "1e_04e": {
+        "code": "1e_04e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_04e.gltf",
+        "subcategory": "None"
+    },
+    "1e_019": {
+        "code": "1e_019",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_019.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_019.gltf",
+        "subcategory": "None"
+    },
+    "1e_01b": {
+        "code": "1e_01b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_01b.gltf",
+        "subcategory": "None"
+    },
+    "1e_00d": {
+        "code": "1e_00d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "faucet_spout",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_00d.gltf",
+        "subcategory": "None"
+    },
+    "1e_058": {
+        "code": "1e_058",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_058.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_connector",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_058.gltf",
+        "subcategory": "None"
+    },
+    "1e_05c": {
+        "code": "1e_05c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_05c.gltf",
+        "subcategory": "None"
+    },
+    "1e_023": {
+        "code": "1e_023",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_023.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_spout",
+            "faucet_valve",
+            "plate",
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_023.gltf",
+        "subcategory": "None"
+    },
+    "1e_074": {
+        "code": "1e_074",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_074.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_074.gltf",
+        "subcategory": "None"
+    },
+    "1e_062": {
+        "code": "1e_062",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_062.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_062.gltf",
+        "subcategory": "None"
+    },
+    "1e_035": {
+        "code": "1e_035",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_035.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_035.gltf",
+        "subcategory": "None"
+    },
+    "1e_042": {
+        "code": "1e_042",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_042.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_lever",
+            "shower_button",
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_042.gltf",
+        "subcategory": "None"
+    },
+    "1e_015": {
+        "code": "1e_015",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_015.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "shower_head",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_015.gltf",
+        "subcategory": "None"
+    },
+    "1e_003": {
+        "code": "1e_003",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_003.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_003.gltf",
+        "subcategory": "None"
+    },
+    "1e_054": {
+        "code": "1e_054",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_054.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_connector",
+            "faucet_spout",
+            "faucet_valve",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_054.gltf",
+        "subcategory": "None"
+    },
+    "1e_02d": {
+        "code": "1e_02d",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02d.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_02d.gltf",
+        "subcategory": "None"
+    },
+    "1e_07c": {
+        "code": "1e_07c",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07c.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_connector",
+            "shower_head",
+            "shower_head_connector",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_07c.gltf",
+        "subcategory": "None"
+    },
+    "1e_078": {
+        "code": "1e_078",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_078.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "faucet_lever",
+            "shower_connector",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "wall_mount"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_078.gltf",
+        "subcategory": "None"
+    },
+    "1e_06e": {
+        "code": "1e_06e",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06e.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_button",
+            "shower_head",
+            "shower_head_support",
+            "shower_hose",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_06e.gltf",
+        "subcategory": "None"
+    },
+    "1e_03b": {
+        "code": "1e_03b",
+        "model_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03b.gltf",
+        "model_ext": "gltf",
+        "part_list": [
+            "shower_head",
+            "shower_nozzle",
+            "support"
+        ],
+        "poly9_url": "https://3dcompat-dataset.s3.us-west-1.amazonaws.com/v2/GLTF/1e_03b.gltf",
+        "subcategory": "None"
+    }
+}
