@@ -86,7 +86,7 @@ p {
   position: absolute;
   background-color: #fefefe;
   width: 200%;
-  height: 14.8%;
+  height: 31.15%;
   z-index: 0;
   margin-left: -100%;
   margin-top: -25px;
@@ -111,7 +111,7 @@ p {
   margin-bottom: 0.25em;
 }
 
-.accepted-papers .row:nth-child(2) {
+.accepted-papers .row {
   margin-top: 35px !important;
 }
 
@@ -3480,6 +3480,7 @@ ol {
   height: 70px;
   margin-right: 20px;
   border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add this line */
 }
 
 .events-schedule .single-event .event-info .info h4 a {
