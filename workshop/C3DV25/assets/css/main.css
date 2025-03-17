@@ -31,6 +31,26 @@ p {
   padding: 0;
 }
 
+/* Center the video and text */
+#video-block {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  margin-bottom: -20px;
+}
+
+#video-block video {
+  margin: 0 auto;
+  display: block;
+}
+
+#video-block p {
+  text-align: center;
+  width: 100%;
+  margin: 20px auto;
+}
+
 .winner-profile {
   display: block;
   justify-content: space-evenly;
@@ -1035,10 +1055,6 @@ ol {
   .container {
     width: 450px;
   }
-}
-
-.bg-gray {
-  background-color: #f4f7fa !important;
 }
 
 /* Bread Crumbs */
@@ -2411,9 +2427,6 @@ ol {
 /*======================================
 	Start Countdown CSS
 ========================================*/
-/* .count-down {
-  background-color: #F4F7FA;
-} */
 
 .count-down .box-head {
   position: relative;
@@ -2596,20 +2609,11 @@ ol {
 /*======================================
     Challenge CSS
 ========================================*/
-/* .challenge {
-  background-color: #F4F7FA;
-}
- */
+
 .challenge .section-title {
   margin-bottom: 50px;
   margin-top: 50px;
 }
-
-/* 
-.challenge .row:nth-child(2) {
-    margin-top: 75px;
-}
-*/
 
 .challenge .badge {
   background-color: #f20487;
@@ -3581,10 +3585,6 @@ ol {
   margin-top: 50px;
 }
 
-/* #dates-section {
-  background-color: #f4f7fa;
-} */
-
 .section:nth-child(2n) {
-  background-color: #f4f7fa;
+  background-color: #ffffff;
 }
